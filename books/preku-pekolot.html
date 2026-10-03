@@ -7,9 +7,10 @@
   <meta name="description" content="Двојазична авторска страница за книгата Преку пеколот за сиромашните до рајот на богатите / Through Hell for the Poor to Heaven for the Rich од Саздо Станојковиќ-Сашо.">
   <link rel="stylesheet" href="../styles.css">
 </head>
-<body>
+<body class="book-detail-page">
 <header class="site-header">
-  <a class="brand" href="../index.html#books"><span class="brand-mark" aria-hidden="true"><span>S</span><span>P</span></span><span><strong>Саздо & Попац</strong><small>Назад кон библиотеката</small></span></a>
+  <a class="brand" href="../index.html#books"><span class="brand-mark" aria-hidden="true"><span>S</span><span>P</span></span><span class="brand-copy"><strong>Саздо & Попац</strong><small>Назад кон библиотеката</small></span></a>
+  <button class="menu-btn" type="button" aria-label="Отвори мени" aria-expanded="false"><span></span><span></span></button>
   <nav><a href="#mk">Македонски</a><a href="#en">English</a><a href="../index.html#books">Сите книги</a><a href="../index.html#contact">Контакт</a></nav>
 </header>
 <main class="book-detail-main">
@@ -83,5 +84,5 @@
   </section>
 </main>
 <footer><p>© <span id="year"></span> Саздо & Попац · Дигитална семејна архива.</p></footer>
-<script>document.querySelector('#year').textContent=new Date().getFullYear();</script>
+<script src="../book-page.js"></script>
 </body></html>
