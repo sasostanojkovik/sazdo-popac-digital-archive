@@ -1,2 +1,5 @@
+# STAGING: keep crawlers out until rights/content verification and public launch.
 User-agent: *
 Disallow: /
+
+Sitemap: https://sazdo-popac-digital-archive.sasostanojkovik-sazdo-popac-digital-archive.workers.dev/sitemap.xml

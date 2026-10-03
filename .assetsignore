@@ -14,3 +14,5 @@ data/MPS-0003-metadata.json
 assets/video/README.md
 .DS_Store
 Thumbs.db
+
+src/

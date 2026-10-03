@@ -32,3 +32,6 @@ New materials received after V14 (including additional book sources/covers and t
 3. Complete rights/identity/content verification.
 4. Ingest approved new materials as a versioned update.
 5. Only then move from staging to the public launch configuration.
+
+## Prepared password gate
+A fail-closed Basic Authentication Worker is prepared at `src/staging-auth.js` but is **not enabled yet**. Before enabling it, create a Cloudflare Worker secret named `STAGING_PASSWORD` under Settings -> Variables and Secrets. The default username is `archive`. Do not store the password in GitHub. After the secret exists, enable `main: "./src/staging-auth.js"`, add the `ASSETS` binding, and set `run_worker_first: true` in `wrangler.jsonc`.
