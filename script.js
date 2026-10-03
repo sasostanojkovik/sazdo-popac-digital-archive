@@ -138,6 +138,65 @@ function renderVideos(items) {
   });
 }
 
+function makeArtworkPoster(record) {
+  const id = esc(record.archiveId || 'ARCHIVE');
+  const title = esc(record.posterLabel || record.title || 'Архивско видео');
+  const subtitle = esc(record.posterSubtitle || 'Саздо & Попац · дигитална архива');
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#080808"/>
+        <stop offset="1" stop-color="#241812"/>
+      </linearGradient>
+    </defs>
+    <rect width="960" height="720" fill="url(#g)"/>
+    <rect x="44" y="44" width="872" height="632" fill="none" stroke="#6e5e51" stroke-width="2"/>
+    <circle cx="480" cy="305" r="74" fill="none" stroke="#d8c3ad" stroke-width="3"/>
+    <path d="M462 266 L462 344 L525 305 Z" fill="#f0e2d3"/>
+    <text x="70" y="90" fill="#9f8c7c" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">${id} · ARCHIVE VIDEO</text>
+    <text x="480" y="470" fill="#ffffff" font-family="Georgia, serif" font-size="42" text-anchor="middle">${title}</text>
+    <text x="480" y="515" fill="#b6a99b" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" letter-spacing="1">${subtitle}</text>
+  </svg>`;
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
+}
+
+function setupArtworkVideoPosters() {
+  qa('.artwork-video video[data-poster-time]').forEach(video => {
+    const requested = Number(video.dataset.posterTime);
+    if (!Number.isFinite(requested) || requested < 0) return;
+
+    let finished = false;
+    const captureFrame = () => {
+      if (finished || !video.videoWidth || !video.videoHeight) return;
+      try {
+        const canvas = document.createElement('canvas');
+        canvas.width = 960;
+        canvas.height = 720;
+        const ctx = canvas.getContext('2d');
+        if (!ctx) return;
+        ctx.fillStyle = '#000';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+        video.poster = canvas.toDataURL('image/jpeg', .9);
+        finished = true;
+        try { video.currentTime = 0; } catch {}
+      } catch {}
+    };
+
+    const seekForPoster = () => {
+      const maxTime = Number.isFinite(video.duration) && video.duration > .3
+        ? Math.max(0, video.duration - .25)
+        : requested;
+      const target = Math.min(requested, maxTime);
+      video.addEventListener('seeked', captureFrame, { once: true });
+      try { video.currentTime = target; } catch {}
+    };
+
+    if (video.readyState >= 1) seekForPoster();
+    else video.addEventListener('loadedmetadata', seekForPoster, { once: true });
+  });
+}
+
 function renderGallery(items) {
   const host = q('#gallery-grid');
   if (!host) return;
@@ -151,7 +210,14 @@ function renderGallery(items) {
           <div class="meta">${esc(record.archiveId || '')} · ARCHIVE VIDEO MASTER</div>
           ${record.localFile ? `
             <div class="artwork-video">
-              <video controls preload="metadata" playsinline src="${esc(record.localFile)}" aria-label="${esc(record.title || 'Архивско видео')}">
+              <video
+                controls
+                preload="metadata"
+                playsinline
+                poster="${esc(makeArtworkPoster(record))}"
+                data-poster-time="${esc(record.posterTime ?? '')}"
+                src="${esc(record.localFile)}"
+                aria-label="${esc(record.title || 'Архивско видео')}">
                 Вашиот прелистувач не поддржува HTML5 видео.
               </video>
             </div>` : ''}
@@ -187,6 +253,7 @@ function renderGallery(items) {
     }
     host.appendChild(card);
   });
+  setupArtworkVideoPosters();
   setupLightbox();
 }
 

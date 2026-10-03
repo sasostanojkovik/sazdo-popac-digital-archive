@@ -234,7 +234,10 @@
           "sourceFilename": "atelje_so najnovi sliki.mpg",
           "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
           "sha256": "f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee",
-          "localFile": "assets/video/mps-0024-atelje-popac-web.mp4"
+          "localFile": "assets/video/mps-0024-atelje-popac-web.mp4",
+          "posterTime": 20,
+          "posterLabel": "Ателје со најнови слики",
+          "posterSubtitle": "Уметнички слики – Попац"
         },
         {
           "archiveId": "MPS-0025",
@@ -247,7 +250,10 @@
           "sourceFilename": "Слики од старо скопје со песни од Миодраг Станојковиќ.mpg",
           "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
           "sha256": "9ace9dacc007255561dc755226f582176c4d58c06b42d3062c95a3d9b0b88359",
-          "localFile": "assets/video/mps-0025-staro-skopje-popac-web.mp4"
+          "localFile": "assets/video/mps-0025-staro-skopje-popac-web.mp4",
+          "posterTime": 6,
+          "posterLabel": "Слики од старо Скопје",
+          "posterSubtitle": "Архивско видео · Миодраг Станојковиќ"
         }
       ]
     }

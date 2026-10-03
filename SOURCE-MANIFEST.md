@@ -135,3 +135,12 @@ MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their loc
 - They remain excluded from the general Screening Room.
 - Playback is intended for the password-protected staging environment; original MPG masters remain outside GitHub.
 - Public release, licensing and monetization remain pending verification of copyright and related rights.
+
+
+## V19 — artwork video poster frames
+
+- Collection 05 video players now show a title-card thumbnail before playback instead of a blank/black player.
+- `MPS-0024` captures its representative poster frame at ~00:20.
+- `MPS-0025` captures its representative poster frame at ~00:06.
+- A built-in SVG title card is used as an immediate fallback while the representative frame is being loaded.
+- Playback still starts from the beginning; this change affects only the pre-play visual presentation.
