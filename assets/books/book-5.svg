@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+    <rect width="600" height="900" fill="#eee8de"/>
+    <rect x="25" y="25" width="550" height="850" rx="20" fill="#fbf8f2" stroke="#bdb4a8" stroke-width="2"/>
+    <text x="300" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#7e3c31">САЗДО СТАНОЈКОВИЌ – САШО</text>
+    <text text-anchor="middle" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#1d1b19"><tspan x="300" y="210">Тајните на љубовта</tspan></text>
+    <line x1="120" y1="560" x2="480" y2="560" stroke="#bdb4a8"/>
+    <text x="300" y="635" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#6d675f">2022</text>
+    <text x="300" y="790" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#8d857a">Привремена каталошка корица</text>
+    <text x="300" y="820" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#8d857a">ќе се замени со оригиналната</text>
+    </svg>

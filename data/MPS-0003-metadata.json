@@ -1,0 +1,21 @@
+{
+  "archiveId": "MPS-0003",
+  "title": "Таков е животот — Миодраг Станојковиќ – Попац",
+  "master": {
+    "originalFilename": "TAKOV E ZIVOTOT -Miodrag Stanojkovik.mpg",
+    "sizeBytes": 147734528,
+    "sha256": "957f8a73df425d51dc520635caa1679f91460706c5a3b34bd95bc3c26570df5c",
+    "container": "MPEG-PS",
+    "video": "MPEG-2, 720x480, 29.97 fps, 4:3",
+    "audio": "PCM DVD stereo, 48 kHz",
+    "durationSeconds": 159.626
+  },
+  "webDerivative": {
+    "filename": "takov-e-zivotot-miodrag-stanojkovik-web.mp4",
+    "sizeBytes": 18561858,
+    "sha256": "f55bfb4b31f984dd1c8b49d995e396079cfc50a0e747bb7c0a722734f854613c",
+    "video": "H.264, 640x480, progressive",
+    "audio": "AAC stereo 192 kb/s"
+  },
+  "publicationStatus": "Prepared for archive; public/YouTube release pending rights verification."
+}

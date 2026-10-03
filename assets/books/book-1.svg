@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111"/><stop offset="1" stop-color="#46602d"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#g)"/>
+<rect x="34" y="34" width="532" height="832" rx="10" fill="none" stroke="#fff" stroke-opacity=".28"/>
+<text x="300" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" fill="#fff" letter-spacing="4">САЗДО СТАНОЈКОВИЌ</text>
+<text x="300" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#fff" font-weight="700">Забрането јаболко</text>
+<line x1="150" y1="470" x2="450" y2="470" stroke="#fff" stroke-opacity=".65"/>
+<text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#fff" opacity=".86">КНИГА 1 ОД 8</text>
+<text x="300" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#fff" opacity=".72">ПРВА КНИГА · КОРИЦА ДОСТАВЕНА</text>
+</svg>
