@@ -6,6 +6,7 @@
   "assets": {
     "directory": "./",
     "binding": "ASSETS",
+    "run_worker_first": true,
     "html_handling": "auto-trailing-slash"
   },
   "workers_dev": true,
