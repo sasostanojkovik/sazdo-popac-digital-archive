@@ -1,4 +1,9 @@
-# Video masters
+# Video assets
 
-Large local MP4 masters are intentionally not stored in the GitHub/Cloudflare deployment repository.
-The website keeps their archival records and poster images. Public playback should use verified YouTube/Rumble embeds or another approved streaming source after rights clearance.
+This directory contains optimized H.264/AAC web derivatives for password-protected staging playback:
+
+- `MPS-0003` — `takov-e-zivotot-miodrag-stanojkovik-web.mp4`
+- `MPS-0004` — `bezgrizno-devojce-miodrag-stanojkovik-web.mp4`
+- `MPS-0005` — `crveni-karanfili-za-skopje-miodrag-stanojkovik-web.mp4`
+
+The original archive masters remain outside GitHub. These staging derivatives do not imply public-rights clearance; public distribution, licensing and monetization remain pending verification.

@@ -106,3 +106,12 @@ MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their loc
 - The second filename supplies an attribution to Miograd/Miodrag Stanojkovik songs; exact track identification and all rights remain pending verification.
 - Artwork authorship, dates, dimensions, techniques and ownership are not inferred from the video and must be confirmed by the archive.
 
+
+
+## V16 — password-protected staging playback
+
+- `MPS-0003` staging derivative: `assets/video/takov-e-zivotot-miodrag-stanojkovik-web.mp4`.
+- `MPS-0004` staging derivative: `assets/video/bezgrizno-devojce-miodrag-stanojkovik-web.mp4`.
+- `MPS-0005` staging derivative: `assets/video/crveni-karanfili-za-skopje-miodrag-stanojkovik-web.mp4`.
+- These are optimized web derivatives for the password-protected staging environment; the original archive masters remain outside GitHub.
+- This deployment change does not constitute rights clearance. Public release, re-uploading, licensing and monetization remain pending verification of copyright and related rights.

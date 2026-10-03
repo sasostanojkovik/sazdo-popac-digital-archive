@@ -25,33 +25,33 @@
       "title": "Таков е животот — Миодраг Станојковиќ – Попац",
       "description": "Архивска музичка видео-снимка доставена од семејната архива. Годината, авторите, придружниот состав и потеклото на снимката ќе се дополнат по верификација.",
       "youtubeId": "",
-      "localFile": "",
+      "localFile": "assets/video/takov-e-zivotot-miodrag-stanojkovik-web.mp4",
       "poster": "assets/images/takov-e-zivotot-poster.jpg",
       "duration": "02:39",
-      "rightsStatus": "Чека потврда на права пред јавна YouTube објава.",
-      "deploymentStatus": "Архивски master е зачуван надвор од GitHub; јавен player ќе се активира преку проверен YouTube/Rumble извор по проверка на правата."
+      "rightsStatus": "Правата за јавна дистрибуција/монетизација сè уште се проверуваат; локалниот web derivative е активен само во password-protected staging.",
+      "deploymentStatus": "STAGING PLAYBACK ACTIVE — web derivative е во GitHub/Cloudflare staging; оригиналниот master останува надвор од GitHub. Јавно пуштање ќе следи само по потврда на правата."
     },
     {
       "archiveId": "MPS-0004",
       "title": "Безгрижно девојче — Миодраг Станојковиќ – Попац",
       "description": "Архивска музичка видео-снимка доставена од семејната архива. Годината, авторите, придружниот состав и потеклото на снимката ќе се дополнат по верификација.",
       "youtubeId": "",
-      "localFile": "",
+      "localFile": "assets/video/bezgrizno-devojce-miodrag-stanojkovik-web.mp4",
       "poster": "assets/images/bezgrizno-devojce-poster.jpg",
       "duration": "02:07",
-      "rightsStatus": "Чека потврда на права пред јавна YouTube објава.",
-      "deploymentStatus": "Архивски master е зачуван надвор од GitHub; јавен player ќе се активира преку проверен YouTube/Rumble извор по проверка на правата."
+      "rightsStatus": "Правата за јавна дистрибуција/монетизација сè уште се проверуваат; локалниот web derivative е активен само во password-protected staging.",
+      "deploymentStatus": "STAGING PLAYBACK ACTIVE — web derivative е во GitHub/Cloudflare staging; оригиналниот master останува надвор од GitHub. Јавно пуштање ќе следи само по потврда на правата."
     },
     {
       "archiveId": "MPS-0005",
       "title": "Црвени каранфили за Скопје — Миодраг Станојковиќ – Попац",
       "description": "Архивска музичка видео-снимка доставена од семејната архива. Точната година, авторите, изворот на снимката и правата ќе се дополнат по верификација.",
       "youtubeId": "",
-      "localFile": "",
+      "localFile": "assets/video/crveni-karanfili-za-skopje-miodrag-stanojkovik-web.mp4",
       "poster": "assets/images/crveni-karanfili-za-skopje-poster.jpg",
       "duration": "01:43",
-      "rightsStatus": "Чека потврда на права пред јавна YouTube објава.",
-      "deploymentStatus": "Архивски master е зачуван надвор од GitHub; јавен player ќе се активира преку проверен YouTube/Rumble извор по проверка на правата."
+      "rightsStatus": "Правата за јавна дистрибуција/монетизација сè уште се проверуваат; локалниот web derivative е активен само во password-protected staging.",
+      "deploymentStatus": "STAGING PLAYBACK ACTIVE — web derivative е во GitHub/Cloudflare staging; оригиналниот master останува надвор од GitHub. Јавно пуштање ќе следи само по потврда на правата."
     },
     {
       "archiveId": "MPS-0006",

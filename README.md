@@ -21,7 +21,7 @@
 
 ## Видео архива
 
-Трите архивски видео master-и се евидентирани со poster/metadata, но намерно се чуваат надвор од GitHub. Јавниот playback ќе се активира преку проверени YouTube/Rumble извори по проверка на правата. Еден Facebook запис е зачуван како надворешен линк, а YouTube записите се вградуваат преку privacy-enhanced player (`youtube-nocookie.com`) без локално преземање. Насловите/датумите/учесниците на надворешните линкови остануваат `pending verification` додека не бидат потврдени од изворот или архивскиот куратор.
+Оригиналните master-и за MPS-0003/0004/0005 остануваат надвор од GitHub. За password-protected staging се додадени оптимизирани H.264/AAC web derivatives во `assets/video/` и локалниот HTML5 playback е активиран. Јавна дистрибуција/монетизација останува условена со проверка на правата. Еден Facebook запис е зачуван како надворешен линк, а YouTube записите се вградуваат преку privacy-enhanced player (`youtube-nocookie.com`) без локално преземање. Насловите/датумите/учесниците на надворешните линкови остануваат `pending verification` додека не бидат потврдени од изворот или архивскиот куратор.
 
 ## V11
 
@@ -65,3 +65,11 @@ V12 го редизајнира јавниот интерфејс како ав�
 - Архивските записи, poster-ите и metadata остануваат на сајтот.
 - Public playback за тие master-и ќе оди преку YouTube/Rumble embed по проверка на правата.
 - Пакетот е намерно лесен за GitHub browser upload и Cloudflare deployment.
+
+
+## V16 - STAGING VIDEO PLAYBACK
+
+- MPS-0003, MPS-0004 и MPS-0005 имаат оптимизирани H.264/AAC web derivatives во `assets/video/`.
+- Локалниот HTML5 playback е активен само во password-protected Cloudflare staging.
+- Оригиналните MPEG master-и остануваат надвор од GitHub.
+- Статусот на авторските/сродните права не е променет: public release и монетизација чекаат потврда на правата.
