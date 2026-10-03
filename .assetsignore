@@ -1,0 +1,16 @@
+.git/
+.github/
+wrangler.jsonc
+.assetsignore
+README.md
+BOOK-01-SOURCE-NOTES.md
+BOOKS-COBISS-NOTES.md
+GITHUB-CLOUDFLARE-NEXT.md
+MONETIZATION-PLAN.md
+SOURCE-MANIFEST.md
+V12-DESIGN-NOTE.md
+archive-rights-register.csv
+data/MPS-0003-metadata.json
+assets/video/README.md
+.DS_Store
+Thumbs.db
