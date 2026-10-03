@@ -125,3 +125,13 @@ MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their loc
 - They are removed from the general Screening Room list to avoid presenting them as ordinary external videos.
 - Their original MPG masters remain outside public deployment; only metadata is shown until source/context/rights verification is complete.
 - Canonical collection metadata is maintained in `data/artworks-popac.json`.
+
+
+## V18 — Collection 05 staging video players
+
+- `MPS-0024` web derivative: `assets/video/mps-0024-atelje-popac-web.mp4`.
+- `MPS-0025` web derivative: `assets/video/mps-0025-staro-skopje-popac-web.mp4`.
+- Both records now render as native HTML5 video players directly inside **Collection 05 — Уметнички слики – Попац**.
+- They remain excluded from the general Screening Room.
+- Playback is intended for the password-protected staging environment; original MPG masters remain outside GitHub.
+- Public release, licensing and monetization remain pending verification of copyright and related rights.

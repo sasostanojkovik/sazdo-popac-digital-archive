@@ -16,7 +16,8 @@
     "source",
     "rightsStatus",
     "sha256",
-    "notes"
+    "notes",
+    "localFile"
   ],
   "publicRule": "No artwork image is published from this collection until source and rights status are confirmed.",
   "items": [
@@ -31,7 +32,8 @@
       "publicStatus": "private-preparation",
       "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
       "sha256": "f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee",
-      "notes": "Оригиналниот MPG master се чува надвор од public deployment; GitHub содржи само каталог/metadata до rights clearance."
+      "notes": "Password-protected staging playback active via optimized H.264/AAC web derivative; original MPG master remains outside GitHub; public release/monetization pending rights verification.",
+      "localFile": "assets/video/mps-0024-atelje-popac-web.mp4"
     },
     {
       "archiveId": "MPS-0025",
@@ -44,7 +46,8 @@
       "publicStatus": "private-preparation",
       "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
       "sha256": "9ace9dacc007255561dc755226f582176c4d58c06b42d3062c95a3d9b0b88359",
-      "notes": "Оригиналниот MPG master се чува надвор од public deployment; GitHub содржи само каталог/metadata до rights clearance."
+      "notes": "Password-protected staging playback active via optimized H.264/AAC web derivative; original MPG master remains outside GitHub; public release/monetization pending rights verification.",
+      "localFile": "assets/video/mps-0025-staro-skopje-popac-web.mp4"
     }
   ]
 }

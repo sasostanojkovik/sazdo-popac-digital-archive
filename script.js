@@ -149,6 +149,12 @@ function renderGallery(items) {
       const records = (item.items || []).map(record => `
         <article class="artwork-record">
           <div class="meta">${esc(record.archiveId || '')} · ARCHIVE VIDEO MASTER</div>
+          ${record.localFile ? `
+            <div class="artwork-video">
+              <video controls preload="metadata" playsinline src="${esc(record.localFile)}" aria-label="${esc(record.title || 'Архивско видео')}">
+                Вашиот прелистувач не поддржува HTML5 видео.
+              </video>
+            </div>` : ''}
           <strong>${esc(record.title || '')}</strong>
           <p>${esc(record.description || '')}</p>
           ${record.duration ? `<span class="artwork-duration">Траење: ${esc(record.duration)}</span>` : ''}
