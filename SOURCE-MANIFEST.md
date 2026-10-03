@@ -144,3 +144,13 @@ MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their loc
 - `MPS-0025` captures its representative poster frame at ~00:06.
 - A built-in SVG title card is used as an immediate fallback while the representative frame is being loaded.
 - Playback still starts from the beginning; this change affects only the pre-play visual presentation.
+
+
+## MPS-0019 — Интервјуа на Попац
+
+- YouTube ID: `nrLDNVtzWUY`.
+- Archive curator classification: **Интервјуа на Попац**.
+- Display title: **Интервју со Миодраг Станојковиќ – Попац**.
+- The record is displayed in the dedicated Popac interviews subsection and no longer appears in the general video grid.
+- Exact date, programme/station, host and other participants remain pending verification.
+- Source remains an external YouTube embed; no local copy is stored.

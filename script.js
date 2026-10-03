@@ -89,6 +89,7 @@ function videoType(item) {
 
 function renderVideos(items) {
   const host = q('#video-grid');
+  const interviewHost = q('#interviews-grid');
   if (!host) return;
   items.forEach(item => {
     const type = videoType(item);
@@ -111,10 +112,11 @@ function renderVideos(items) {
     }
 
     card.innerHTML = `${visual}<div class="video-body"><div class="meta">${esc(item.archiveId || '')} · ${type}</div><h3>${esc(item.title)}</h3><p>${esc(item.description)}</p>${item.duration ? `<p>Траење: ${esc(item.duration)}</p>` : ''}</div>`;
-    host.appendChild(card);
+    const targetHost = item.section === 'popac-interviews' && interviewHost ? interviewHost : host;
+    targetHost.appendChild(card);
   });
 
-  qa('.video-placeholder', host).forEach(button => {
+  qa('.video-placeholder', q('#video') || document).forEach(button => {
     button.addEventListener('click', () => {
       const id = button.dataset.youtube;
       const wrap = button.parentElement;
