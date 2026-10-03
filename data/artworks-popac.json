@@ -1,0 +1,22 @@
+{
+  "collectionId": "ARTWORKS-POPAC",
+  "title": "Уметнички слики – Попац",
+  "status": "private-preparation",
+  "description": "Контролирана архивска колекција за фотографии, скенови и видео-записи поврзани со уметнички слики и ателје. Авторство, наслов, година, техника, димензии, место и права се внесуваат само по потврда.",
+  "relatedArchiveIds": [
+    "MPS-0024",
+    "MPS-0025"
+  ],
+  "itemSchema": [
+    "archiveId",
+    "title",
+    "year",
+    "technique",
+    "dimensions",
+    "source",
+    "rightsStatus",
+    "sha256",
+    "notes"
+  ],
+  "publicRule": "No artwork image is published from this collection until source and rights status are confirmed."
+}

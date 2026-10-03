@@ -37,3 +37,22 @@
 Do not display a fixed price or a “Buy now” checkout until Sazdo confirms, per edition: price, inventory/print-on-demand status, shipping territories/costs, seller/payment account, refund/return terms, and whether a digital edition may legally be sold. Until then the site uses “Прашај за достапност” via email.
 
 The COBISS result supplied for the site shows 8 bibliographic records but only 6 distinct visible titles because `Вистински правец` appears in three records. Full COBISS identifiers/ISBNs should be checked before mapping each record to a commercial SKU.
+
+## Digital-edition protection model
+
+Digital sales remain disabled until the seller confirms that the relevant electronic-edition rights are available. When activated, the portal should not distribute one identical unrestricted master PDF to every buyer.
+
+Planned delivery model:
+1. Keep the archival/master PDF private.
+2. Generate a buyer-specific derivative for each completed order.
+3. Assign a unique licence/order ID to the delivered copy.
+4. Add a visible but non-destructive copyright/licence footer and optional watermark.
+5. Record the purchaser-to-licence mapping only in the seller's private order records; do not expose private customer data in the public repository.
+6. State clearly that purchase grants a personal, non-transferable use licence and does not transfer copyright.
+7. Prohibit resale, redistribution, public upload, sublicensing and commercial reproduction without written permission.
+8. Prefer expiring/signed download delivery rather than a permanent public PDF URL.
+9. Retain the SHA-256 of the archival master and a delivery audit record for provenance.
+10. Do not claim that a PDF is technically impossible to copy; use traceability, contractual terms and rights enforcement instead.
+
+No payment credentials, purchaser data or private order records belong in GitHub.
+

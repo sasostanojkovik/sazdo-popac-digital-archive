@@ -96,3 +96,13 @@ The latest ingestion adds one user-supplied archive photograph plus 15 new uniqu
 ## Deployment note — V14
 
 MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their local MP4 masters are intentionally excluded from the GitHub/Cloudflare deployment package. Poster images and metadata remain public; playback should be activated through a verified streaming source after rights clearance.
+
+## V15 — Уметнички слики – Попац
+
+- New controlled collection: `Уметнички слики – Попац` / `artworks-popac`.
+- `MPS-0024` — supplied master `atelje_so najnovi sliki.mpg`; ~03:48; SHA-256 `f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee`.
+- `MPS-0025` — supplied master `Слики од старо скопје со песни од Миодраг Станојковиќ.mpg`; ~00:49; SHA-256 `9ace9dacc007255561dc755226f582176c4d58c06b42d3062c95a3d9b0b88359`.
+- The original MPG masters remain outside public GitHub/Cloudflare deployment. The repository stores catalog metadata and cryptographic hashes.
+- The second filename supplies an attribution to Miograd/Miodrag Stanojkovik songs; exact track identification and all rights remain pending verification.
+- Artwork authorship, dates, dimensions, techniques and ownership are not inferred from the video and must be confirmed by the archive.
+
