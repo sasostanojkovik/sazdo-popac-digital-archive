@@ -36,9 +36,10 @@ This register records the canonical files used by the public package and the dup
 - `assets/books/pdfs/through-hell-internet-preview-en-2022.pdf` - SHA-256 `e92d726ce25c3b02412e34afba9fdd65d0414c76433dde3c2bdfbcab1caf0535`
 
 ## MPS-0006 - Facebook video link
-- Source URL: https://www.facebook.com/watch/?v=1684058516671731
+- Canonical Source URL: https://www.facebook.com/100002620956951/videos/pcb.28052389117765078/1684058516671731
+- Previous Watch alias: https://www.facebook.com/watch/?v=1684058516671731
 - Status: external public link only; no local media copy stored.
-- Verification: Facebook page could not be fetched reliably from the current environment, so title/date/participants remain pending.
+- Verification: the archive curator reported that the Watch URL does not open correctly; the direct Facebook permalink is therefore the canonical link. Title/date/participants remain pending direct content verification.
 - Archive action: linked from the Video section without re-uploading or claiming rights.
 
 
@@ -51,8 +52,9 @@ This register records the canonical files used by the public package and the dup
 - Archive action: embedded in the Video section without re-uploading or claiming rights.
 
 ## MPS-0006 URL normalization note
-- Alternate Facebook URL supplied: https://www.facebook.com/100002620956951/videos/pcb.28052389117765078/1684058516671731
-- This resolves to the same Facebook video ID `1684058516671731` as the canonical Watch URL already stored for MPS-0006, so no second archive record was created.
+- Canonical Facebook permalink: https://www.facebook.com/100002620956951/videos/pcb.28052389117765078/1684058516671731
+- Previous Watch URL retained only as an alias: https://www.facebook.com/watch/?v=1684058516671731
+- Both reference Facebook video ID `1684058516671731`; no second archive record is created.
 
 ## V11 - YouTube batch + archive photo
 
