@@ -1,9 +1,11 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "sazdo-popac-digital-archive",
+  "main": "./src/staging-auth.js",
   "compatibility_date": "2026-10-03",
   "assets": {
     "directory": "./",
+    "binding": "ASSETS",
     "html_handling": "auto-trailing-slash"
   },
   "workers_dev": true,
