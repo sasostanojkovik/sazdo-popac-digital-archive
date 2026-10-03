@@ -117,3 +117,11 @@ MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their loc
 - `MPS-0005` staging derivative: `assets/video/crveni-karanfili-za-skopje-miodrag-stanojkovik-web.mp4`.
 - These are optimized web derivatives for the password-protected staging environment; the original archive masters remain outside GitHub.
 - This deployment change does not constitute rights clearance. Public release, re-uploading, licensing and monetization remain pending verification of copyright and related rights.
+
+
+## V17 — Collection 05 routing
+
+- `MPS-0024` and `MPS-0025` remain archive video masters, but they are catalogued and displayed under **Collection 05 — Уметнички слики – Попац** because their archival context is the atelier/artwork/old-Skopje collection.
+- They are removed from the general Screening Room list to avoid presenting them as ordinary external videos.
+- Their original MPG masters remain outside public deployment; only metadata is shown until source/context/rights verification is complete.
+- Canonical collection metadata is maintained in `data/artworks-popac.json`.

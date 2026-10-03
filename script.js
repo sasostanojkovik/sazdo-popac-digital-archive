@@ -142,6 +142,29 @@ function renderGallery(items) {
   const host = q('#gallery-grid');
   if (!host) return;
   items.forEach(item => {
+    if (item.collectionId === 'ARTWORKS-POPAC') {
+      const card = document.createElement('section');
+      card.className = 'gallery-item gallery-collection';
+      card.id = 'artworks-popac';
+      const records = (item.items || []).map(record => `
+        <article class="artwork-record">
+          <div class="meta">${esc(record.archiveId || '')} · ARCHIVE VIDEO MASTER</div>
+          <strong>${esc(record.title || '')}</strong>
+          <p>${esc(record.description || '')}</p>
+          ${record.duration ? `<span class="artwork-duration">Траење: ${esc(record.duration)}</span>` : ''}
+          <span class="note">${esc(record.rightsStatus || 'Изворот и правата се проверуваат.')}</span>
+        </article>`).join('');
+      card.innerHTML = `
+        <div class="gallery-collection-head">
+          <span class="meta">COLLECTION 05</span>
+          <strong>${esc(item.title || '')}</strong>
+          <span class="note">${esc(item.description || '')}</span>
+        </div>
+        <div class="artwork-record-list">${records}</div>`;
+      host.appendChild(card);
+      return;
+    }
+
     const card = document.createElement(item.image ? 'button' : 'div');
     card.className = `gallery-item${item.image ? ' has-image' : ''}`;
     if (item.image) {
