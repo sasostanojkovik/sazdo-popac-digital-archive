@@ -100,9 +100,10 @@ function renderVideos(items) {
     if (type === 'local') {
       visual = `<div class="video-visual"><video controls preload="none" poster="${esc(item.poster || '')}" src="${esc(item.localFile)}"></video></div>`;
     } else if (type === 'youtube') {
-      visual = `<div class="video-visual"><button class="video-placeholder" type="button" data-youtube="${esc(item.youtubeId)}" aria-label="Пушти YouTube видео ${esc(item.archiveId || '')}"><span class="play-orbit" aria-hidden="true"></span><span class="video-id">YOUTUBE · ${esc(item.youtubeId)}</span></button></div>`;
+      const thumb = `https://i.ytimg.com/vi/${encodeURIComponent(item.youtubeId)}/hqdefault.jpg`;
+      visual = `<div class="video-visual"><button class="video-placeholder youtube-poster" type="button" data-youtube="${esc(item.youtubeId)}" aria-label="Пушти YouTube видео ${esc(item.archiveId || '')}"><img class="youtube-thumbnail" loading="lazy" src="${esc(thumb)}" alt=""><span class="play-orbit" aria-hidden="true"></span><span class="video-id">YOUTUBE · ${esc(item.youtubeId)}</span></button></div>`;
     } else if (type === 'facebook') {
-      visual = `<div class="video-visual"><div class="external-video-card"><span class="external-video-badge">FACEBOOK VIDEO</span><p>Канонски надворешен запис</p><a class="btn small primary" href="${esc(item.externalUrl)}" target="_blank" rel="noopener noreferrer">Отвори оригинал</a></div></div>`;
+      visual = `<div class="video-visual"><div class="external-video-card facebook-poster"><span class="facebook-play" aria-hidden="true"></span><span class="external-video-badge">FACEBOOK VIDEO</span><p>Канонски надворешен запис</p><a class="btn small primary" href="${esc(item.externalUrl)}" target="_blank" rel="noopener noreferrer">Отвори оригинал</a></div></div>`;
     } else if (type === 'archive') {
       visual = `<div class="video-visual"><div class="external-video-card archive-video-card" style="background-image:linear-gradient(rgba(8,10,14,.28),rgba(8,10,14,.82)),url('${esc(item.poster || '')}')"><span class="external-video-badge">ARCHIVE MASTER</span><p>Видео-мастерот е зачуван надвор од GitHub. Public player ќе се активира преку проверен YouTube/Rumble извор по проверка на правата.</p></div></div>`;
     } else {
