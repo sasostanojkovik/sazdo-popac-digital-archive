@@ -24,12 +24,14 @@
       "archiveId": "MPS-0003",
       "title": "Таков е животот — Миодраг Станојковиќ – Попац",
       "description": "Архивска музичка видео-снимка доставена од семејната архива. Годината, авторите, придружниот состав и потеклото на снимката ќе се дополнат по верификација.",
-      "youtubeId": "",
+      "youtubeId": "HSZyC6Aswqg",
       "localFile": "assets/video/takov-e-zivotot-miodrag-stanojkovik-web.mp4",
       "poster": "assets/images/takov-e-zivotot-poster.jpg",
       "duration": "02:39",
       "rightsStatus": "Правата за јавна дистрибуција/монетизација сè уште се проверуваат; локалниот web derivative е активен само во password-protected staging.",
-      "deploymentStatus": "STAGING PLAYBACK ACTIVE — web derivative е во GitHub/Cloudflare staging; оригиналниот master останува надвор од GitHub. Јавно пуштање ќе следи само по потврда на правата."
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — canonical YouTube source active; local derivative retained as archive/staging backup.",
+      "externalUrl": "https://youtu.be/HSZyC6Aswqg",
+      "visibility": "public"
     },
     {
       "archiveId": "MPS-0004",
