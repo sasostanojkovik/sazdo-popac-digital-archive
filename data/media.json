@@ -51,12 +51,15 @@
       "archiveId": "MPS-0005",
       "title": "Црвени каранфили за Скопје — Миодраг Станојковиќ – Попац",
       "description": "Архивска музичка видео-снимка доставена од семејната архива. Точната година, авторите, изворот на снимката и правата ќе се дополнат по верификација.",
-      "youtubeId": "",
+      "youtubeId": "iS8P1QIY3YA",
       "localFile": "assets/video/crveni-karanfili-za-skopje-miodrag-stanojkovik-web.mp4",
       "poster": "assets/images/crveni-karanfili-za-skopje-poster.jpg",
       "duration": "01:43",
       "rightsStatus": "Правата за јавна дистрибуција/монетизација сè уште се проверуваат; локалниот web derivative е активен само во password-protected staging.",
-      "deploymentStatus": "STAGING PLAYBACK ACTIVE — web derivative е во GitHub/Cloudflare staging; оригиналниот master останува надвор од GitHub. Јавно пуштање ќе следи само по потврда на правата."
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — canonical YouTube source active; local derivative retained as archive/staging backup.",
+      "externalUrl": "https://youtu.be/iS8P1QIY3YA",
+      "visibility": "public",
+      "youtubeChecks": "Published on YouTube; playlist view showed no notices on 2026-10-04."
     },
     {
       "archiveId": "MPS-0006",
