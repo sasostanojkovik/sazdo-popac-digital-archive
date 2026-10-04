@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "engine": "S&P PULSE ENGINE",
+    "version": "1.0",
+    "mode": "calibration",
+    "calibrationTargetVideos": 10,
+    "weights": {
+      "retention": 25,
+      "ctr": 20,
+      "viewVelocity": 20,
+      "subscriberConversion": 15,
+      "engagement": 10,
+      "externalTraffic": 10
+    }
+  },
+  "channel": {
+    "name": "Sasho & Popac Archive",
+    "handle": "@SashoPopac",
+    "youtubeUrl": "https://www.youtube.com/@SashoPopac"
+  },
+  "videos": [
+    {
+      "archiveId": "MPS-0003",
+      "youtubeId": "HSZyC6Aswqg",
+      "title": "Таков е животот — Миодраг Станојковиќ – Попац",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "archiveId": "MPS-0004",
+      "youtubeId": "d1YixjKLwgU",
+      "title": "Безгрижно девојче — Миодраг Станојковиќ – Попац",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "archiveId": "MPS-0005",
+      "youtubeId": "iS8P1QIY3YA",
+      "title": "Црвени каранфили за Скопје — Миодраг Станојковиќ – Попац",
+      "publishedDate": "2026-10-04"
+    }
+  ],
+  "snapshots": [
+    {
+      "capturedAt": "2026-10-04T03:03:00+02:00",
+      "source": "YouTube Studio snapshot supplied by channel manager",
+      "subscribers": 1,
+      "videos": [
+        {
+          "archiveId": "MPS-0003",
+          "views": 7,
+          "impressions": null,
+          "ctr": null,
+          "retention": null,
+          "subscribersGained": null,
+          "likes": null,
+          "comments": 0,
+          "shares": null,
+          "externalTraffic": null
+        },
+        {
+          "archiveId": "MPS-0004",
+          "views": 2,
+          "impressions": null,
+          "ctr": null,
+          "retention": null,
+          "subscribersGained": null,
+          "likes": null,
+          "comments": 0,
+          "shares": null,
+          "externalTraffic": null
+        },
+        {
+          "archiveId": "MPS-0005",
+          "views": 0,
+          "impressions": null,
+          "ctr": null,
+          "retention": null,
+          "subscribersGained": null,
+          "likes": null,
+          "comments": 0,
+          "shares": null,
+          "externalTraffic": null
+        }
+      ]
+    }
+  ]
+}

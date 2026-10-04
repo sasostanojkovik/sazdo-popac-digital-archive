@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="mk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <title>S&P PULSE ENGINE — Private YouTube Control Room</title>
+  <meta name="description" content="Private calibration dashboard for Sasho & Popac Archive YouTube performance.">
+  <link rel="stylesheet" href="pulse.css">
+</head>
+<body>
+  <header class="pulse-topbar">
+    <a class="pulse-brand" href="index.html" aria-label="Назад кон архивата">
+      <span class="pulse-brand-mark">SP</span>
+      <span><strong>S&amp;P PULSE ENGINE</strong><small>private YouTube control room</small></span>
+    </a>
+    <div class="pulse-top-actions">
+      <span class="privacy-badge">PRIVATE · NOINDEX</span>
+      <a href="https://www.youtube.com/@SashoPopac" target="_blank" rel="noopener noreferrer">YouTube ↗</a>
+      <a href="index.html">Archive ↗</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="pulse-hero">
+      <div>
+        <p class="eyebrow">SIGNAL / FRAME / MEMORY · PERFORMANCE LAYER</p>
+        <h1>Гледаноста како <em>сигнал</em>, не како суета.</h1>
+        <p class="hero-lead">Контролна табла за реални прегледи, брзина на раст, CTR, задржување, претплатници, интеракции и надворешен сообраќај. Без ботови, купени прегледи или вештачко зголемување.</p>
+      </div>
+      <div class="calibration-panel">
+        <span>MODE</span>
+        <strong id="mode-label">CALIBRATION</strong>
+        <p>Првите 10 јавни видеа ја градат сопствената норма на каналот.</p>
+        <div class="calibration-meter"><i id="calibration-bar"></i></div>
+        <small id="calibration-copy">3 / 10 videos</small>
+      </div>
+    </section>
+
+    <section class="channel-strip" aria-label="Channel overview">
+      <article><span>CHANNEL</span><strong>Sasho &amp; Popac Archive</strong><small>@SashoPopac</small></article>
+      <article><span>SUBSCRIBERS</span><strong id="channel-subs">—</strong><small>latest snapshot</small></article>
+      <article><span>PUBLIC VIDEOS</span><strong id="channel-videos">—</strong><small>tracked MPS records</small></article>
+      <article><span>LAST SNAPSHOT</span><strong id="last-snapshot">—</strong><small id="snapshot-source">—</small></article>
+    </section>
+
+    <section class="section-block">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">LIVE BOARD</p>
+          <h2>Video Pulse</h2>
+        </div>
+        <p>Суровите бројки не се споредуваат сами. Растот се мери меѓу последните две снимки, а PULSE SCORE е привремен додека каналот е во Calibration Mode.</p>
+      </div>
+      <div id="video-cards" class="video-cards"></div>
+    </section>
+
+    <section class="section-block grid-two">
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">ALGORITHM</p>
+            <h2>PULSE SCORE</h2>
+          </div>
+          <span class="formula-badge">0–100</span>
+        </div>
+        <div class="weights">
+          <div><span>Retention</span><b>25%</b></div>
+          <div><span>CTR</span><b>20%</b></div>
+          <div><span>View velocity</span><b>20%</b></div>
+          <div><span>Subscriber conversion</span><b>15%</b></div>
+          <div><span>Engagement</span><b>10%</b></div>
+          <div><span>External traffic</span><b>10%</b></div>
+        </div>
+        <p class="note">Недостасувачките метрики не се измислуваат. Score се означува како <strong>PROVISIONAL</strong> и добива confidence според достапните сигнали.</p>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">RULE ENGINE</p>
+            <h2>Што да смениме?</h2>
+          </div>
+        </div>
+        <div id="recommendations" class="recommendations"></div>
+      </article>
+    </section>
+
+    <section class="section-block">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">SNAPSHOT INPUT</p>
+          <h2>Внеси нова проверка од YouTube Studio</h2>
+        </div>
+        <p>Се чува локално во овој browser. Нема API клучеви и нема испраќање на приватни Studio податоци кон јавен сервер.</p>
+      </div>
+
+      <form id="snapshot-form" class="snapshot-form">
+        <div class="snapshot-channel">
+          <label>Претплатници <input id="input-subs" type="number" min="0" step="1"></label>
+          <label>Извор / белешка <input id="input-source" type="text" value="Manual YouTube Studio snapshot"></label>
+        </div>
+        <div id="snapshot-video-inputs" class="snapshot-video-inputs"></div>
+        <div class="form-actions">
+          <button class="btn primary" type="submit">Зачувај snapshot</button>
+          <button class="btn ghost" id="export-btn" type="button">Export JSON</button>
+          <button class="btn danger" id="reset-btn" type="button">Избриши локални snapshots</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="section-block compact">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">HISTORY</p>
+          <h2>Snapshot Log</h2>
+        </div>
+      </div>
+      <div id="history-table" class="history-table"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>S&amp;P PULSE ENGINE v1.0</strong><span>deterministic · human controlled · calibration aware</span></div>
+    <p>© 2026 Sasho &amp; Popac Archive · Private operational dashboard</p>
+    <a href="#top">TOP ↑</a>
+  </footer>
+
+  <script src="pulse.js"></script>
+</body>
+</html>
