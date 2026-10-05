@@ -227,6 +227,7 @@ function renderGallery(items) {
           <strong>${esc(record.title || '')}</strong>
           <p>${esc(record.description || '')}</p>
           ${record.duration ? `<span class="artwork-duration">Траење: ${esc(record.duration)}</span>` : ''}
+          ${record.youtubeUrl ? `<a class="btn small primary" href="${esc(record.youtubeUrl)}" target="_blank" rel="noopener noreferrer">Официјално YouTube видео ↗</a>` : ''}
           <span class="note">${esc(record.rightsStatus || 'Изворот и правата се проверуваат.')}</span>
         </article>`).join('');
       card.innerHTML = `
