@@ -154,3 +154,14 @@ MPS-0003, MPS-0004 and MPS-0005 remain canonical archival records, but their loc
 - The record is displayed in the dedicated Popac interviews subsection and no longer appears in the general video grid.
 - Exact date, programme/station, host and other participants remain pending verification.
 - Source remains an external YouTube embed; no local copy is stored.
+
+
+## MPS-0024 — YouTube Content ID gate
+
+- Current public-upload candidate remains **Private**.
+- YouTube notice date: **2026-10-05**.
+- Claimant shown by YouTube: **SME**.
+- Claimed audio 1: **“Rose (From "Titanic" Soundtrack)” — James Horner**; effect: blocked in 1 territory.
+- Claimed audio 2: **“My Heart Will Go On” — Céline Dion**; effect shown by YouTube: no current impact until channel monetization.
+- YouTube states this is **not a copyright strike** and has **no impact on the channel**.
+- Archive decision: preserve the original MPS-0024 master unchanged and private; prepare **MPS-0024-PUB v1** as a public derivative without the claimed audio before any canonical public YouTube release.
