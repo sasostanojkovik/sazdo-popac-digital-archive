@@ -255,15 +255,18 @@
           "description": "Архивски MPEG-2 видео-master доставен за семејната архива, со визуелни мотиви од старо Скопје и уметнички материјал. Името на доставената датотека го наведува Миодраг Станојковиќ како музички извор; точната песна/песни, авторските кредити, датумот и правата остануваат за поединечна верификација.",
           "duration": "00:49",
           "mediaType": "archive-video-master",
-          "rightsStatus": "Чека потврда на музички, визуелни и архивски права пред јавна објава.",
-          "deploymentStatus": "STAGING PLAYBACK ACTIVE — оптимизиран H.264/AAC web derivative е достапен во password-protected staging; оригиналниот MPG master останува надвор од GitHub. Јавна објава/монетизација чека потврда на правата.",
+          "rightsStatus": "Јавна YouTube објава активна; YouTube Checks: No issues found (05.10.2026). Архивскиот master останува зачуван.",
+          "deploymentStatus": "PUBLIC CANONICAL YOUTUBE ACTIVE — https://youtu.be/s3t_51xDh28; локалниот H.264/AAC derivative останува архивски/staging playback.",
           "sourceFilename": "Слики од старо скопје со песни од Миодраг Станојковиќ.mpg",
           "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
           "sha256": "9ace9dacc007255561dc755226f582176c4d58c06b42d3062c95a3d9b0b88359",
           "localFile": "assets/video/mps-0025-staro-skopje-popac-web.mp4",
           "posterTime": 6,
           "posterLabel": "Слики од старо Скопје",
-          "posterSubtitle": "Архивско видео · Миодраг Станојковиќ"
+          "posterSubtitle": "Архивско видео · Миодраг Станојковиќ",
+          "youtubeId": "s3t_51xDh28",
+          "youtubeUrl": "https://youtu.be/s3t_51xDh28",
+          "publicationStatus": "PUBLIC — official YouTube canonical active (05.10.2026)"
         }
       ]
     }
