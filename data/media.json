@@ -274,14 +274,6 @@
       "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active."
     },
     {
-      "archiveId": "MPS-0011",
-      "title": "YouTube архивски запис — loLwcy9bJ84",
-      "description": "Јавен YouTube видео-линк доставен за дигиталната архива на Саздо & Попац. Точниот наслов, датумот, учесниците и односот кон другите архивски снимки ќе се дополнат по директна визуелна/авторска верификација.",
-      "youtubeId": "loLwcy9bJ84",
-      "externalUrl": "https://www.youtube.com/watch?v=loLwcy9bJ84",
-      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители."
-    },
-    {
       "archiveId": "MPS-0012",
       "title": "Кога бев млад — Миодраг Станојковиќ – Попац",
       "description": "Архивски музички видео-запис со изворен наслов „Miodrag Stanojkovic - Koga bev mlad - Makedonska Zabavna Muzika - Evergrin“. Визуелната проверка покажува црно-бели сценски/музички кадри со повеќе учесници. Точната година, емисијата или настанот, локацијата, авторите, придружниот состав и останатите учесници ќе се дополнат по верификација.",
@@ -322,21 +314,6 @@
       "visibility": "public",
       "youtubePublishDate": "2026-10-07",
       "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active."
-    },
-    {
-      "archiveId": "MPS-0013",
-      "title": "Црвени каранфили за Скопје — можен дупликат/алтернативен извор",
-      "description": "Јавен YouTube видео-линк доставен за дигиталната архива на Саздо & Попац. Точниот наслов, датумот, учесниците и односот кон другите архивски снимки ќе се дополнат по директна визуелна/авторска верификација.",
-      "youtubeId": "8e5hs9qaiM4",
-      "externalUrl": "https://www.youtube.com/watch?v=8e5hs9qaiM4",
-      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
-      "sourceTitle": "Miodrag Stanojkovic - Crveni Karanfili za Skopje - Makedonska Zabavna Muzika - Evergrin",
-      "sourcePlatform": "YouTube",
-      "canonicalSource": "https://www.youtube.com/watch?v=8e5hs9qaiM4",
-      "duplicateCandidateOf": "MPS-0005",
-      "verificationStatus": "Possible duplicate or alternate source of MPS-0005. Source title points to the same song; exact audiovisual identity, duration and edit/version must be compared before any separate public archival record is activated.",
-      "publicationStatus": "HOLD — do not activate as a separate canonical public record until duplicate/version review is completed.",
-      "pendingYoutubeUploadUrl": "https://youtu.be/6lHo_7dkhx4"
     },
     {
       "archiveId": "MPS-0014",
