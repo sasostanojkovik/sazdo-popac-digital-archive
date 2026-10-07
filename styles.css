@@ -86,3 +86,5 @@ footer{background:#070707;color:#888;padding:32px max(24px,calc((100vw - var(--m
 .popac-video-room{background:linear-gradient(145deg,#0d1214,#10171a)}.popac-video-room .interview-head .eyebrow{color:var(--cyan)}
 
 .facebook-nav-link{width:28px!important;height:28px;display:grid!important;place-items:center;padding:0!important;border:1px solid rgba(255,255,255,.24);border-radius:50%;text-decoration:none;color:#fff!important;font:800 15px/1 Arial,sans-serif!important;text-transform:none!important;letter-spacing:0!important}.facebook-nav-link:hover,.facebook-nav-link:focus-visible{border-color:var(--cyan);background:rgba(78,215,255,.08)}.facebook-nav-link::after{display:none!important}
+
+.instagram-nav-link{width:28px!important;height:28px;display:grid!important;place-items:center;padding:0!important;border:1px solid rgba(255,255,255,.24);border-radius:50%;text-decoration:none;color:#fff!important;font:700 17px/1 Arial,sans-serif!important;text-transform:none!important;letter-spacing:0!important}.instagram-nav-link:hover,.instagram-nav-link:focus-visible{border-color:var(--magenta);background:rgba(255,60,116,.08)}.instagram-nav-link::after{display:none!important}
