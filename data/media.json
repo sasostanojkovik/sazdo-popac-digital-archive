@@ -380,10 +380,12 @@
       "officialYoutubeUrl": "https://youtu.be/0wsYRqhiLyA",
       "canonicalSource": "https://youtu.be/0wsYRqhiLyA",
       "duration": "01:30",
-      "visibility": "private",
+      "visibility": "public",
       "youtubeChecks": "Checks complete — no issues found in YouTube Studio on 2026-10-07.",
       "verificationStatus": "Source title, source YouTube ID, 1:30 duration, official Sasho & Popac Archive upload URL, Private visibility and 'Checks complete. No issues found.' are confirmed from the supplied YouTube Studio screen. Visual content and event details still require direct file/frame review.",
-      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — official Sasho & Popac Archive upload linked; checks complete with no issues; awaiting archival review/publication decision."
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active; checks complete with no issues.",
+      "youtubePublishDate": "2026-10-07",
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. YouTube Studio checks completed with no issues. Visual/artwork details and item-level rights remain subject to archival verification."
     },
     {
       "archiveId": "MPS-0016",
