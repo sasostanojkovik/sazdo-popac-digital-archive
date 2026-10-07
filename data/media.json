@@ -191,7 +191,25 @@
       "sourceCategory": "Music",
       "sourceViewCountSnapshot": 365,
       "sourceSnapshotDate": "2026-10-07",
-      "programme": "До Пладне"
+      "programme": "До Пладне",
+      "preservationCopyStatus": "LOCAL SOURCE-DERIVED ACCESS COPY ACQUIRED — 2026-10-07; integrity check passed; not an original broadcast master and not served publicly from GitHub.",
+      "preservationCopyFileName": "MPS-0019_YouTube-access_2026-10-07.mp4",
+      "preservationCopySha256": "989ac180fb8254c35510e996d3b8a924bd06551f9a570bf9fc03fdefbcd6615c",
+      "preservationCopyBytes": 93863707,
+      "technicalMetadata": {
+        "container": "MP4",
+        "durationSeconds": 2849.808254,
+        "videoCodec": "H.264 / AVC",
+        "resolution": "320x240",
+        "frameRate": "25 fps",
+        "videoBitRate": "128834 bps",
+        "audioCodec": "AAC",
+        "audioSampleRate": "44100 Hz",
+        "audioChannels": "2 (stereo)",
+        "audioBitRate": "128000 bps",
+        "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
+      },
+      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not the original TV/broadcast master. The public portal continues to use the canonical YouTube embed while broadcaster, host, original recording date and redistribution rights remain under verification."
     },
     {
       "archiveId": "MPS-0020",
