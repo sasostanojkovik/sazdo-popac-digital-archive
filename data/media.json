@@ -319,8 +319,8 @@
       "archiveId": "MPS-0014",
       "title": "Емисија „Ексклузив“ — „Беше еднаш во Скопје“ — Миодраг Станојковиќ – Попац",
       "description": "Краток телевизиски архивски прилог поврзан со Миодраг Станојковиќ – Попац. Изворниот YouTube наслов го идентификува како „Miodrag Stanojkovic - emisija Eskluziv 17 12 2010 - Makedonska Zabavna Muzika - Evergrin“. Визуелната проверка покажува ТВ прилог со графика „ПРОМОЦИЈА — БЕШЕ ЕДНАШ ВО СКОПЈЕ“ и архивски кадри од Скопје, како и референци кон делата и колекцијата на Миодраг Станојковиќ. Датумот 17.12.2010 е преземен од изворниот наслов и останува за независна потврда; телевизијата, авторите на прилогот и останатите учесници ќе се дополнат по верификација.",
-      "youtubeId": "8omhcjGk5NA",
-      "externalUrl": "https://www.youtube.com/watch?v=8omhcjGk5NA",
+      "youtubeId": "TEzYaqerlQ0",
+      "externalUrl": "https://youtu.be/TEzYaqerlQ0",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
       "section": "popac-videos",
       "collection": "Видеа на Попац",
@@ -328,7 +328,7 @@
       "titleType": "archive-curatorial",
       "sourcePlatform": "YouTube",
       "sourceTitle": "Miodrag Stanojkovic - emisija Eskluziv 17 12 2010 - Makedonska Zabavna Muzika - Evergrin",
-      "canonicalSource": "https://www.youtube.com/watch?v=8omhcjGk5NA",
+      "canonicalSource": "https://youtu.be/TEzYaqerlQ0",
       "sourceThumbnail": "https://i.ytimg.com/vi/8omhcjGk5NA/hqdefault.jpg",
       "duration": "02:07",
       "sourceDateLabel": "17.12.2010",
@@ -351,7 +351,11 @@
         "embeddedArtworkStream": "MJPEG 480x360",
         "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
       },
-      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not an original broadcast master. Public portal playback remains tied to the source YouTube record until an official Sasho & Popac Archive upload is published."
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now linked as the preferred public-delivery candidate. Final visibility and YouTube checks remain pending confirmation. The local preserved file remains a YouTube-derived access/preservation copy, not an original broadcast master.",
+      "sourceYoutubeId": "8omhcjGk5NA",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=8omhcjGk5NA",
+      "officialYoutubeUrl": "https://youtu.be/TEzYaqerlQ0",
+      "deploymentStatus": "OFFICIAL SASHO & POPAC ARCHIVE YOUTUBE UPLOAD — link supplied; final visibility/checks status pending confirmation."
     },
     {
       "archiveId": "MPS-0015",
