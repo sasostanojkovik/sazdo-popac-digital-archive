@@ -322,8 +322,8 @@
       "youtubeId": "TEzYaqerlQ0",
       "externalUrl": "https://youtu.be/TEzYaqerlQ0",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
-      "section": "popac-videos",
-      "collection": "Видеа на Попац",
+      "section": "popac-interviews",
+      "collection": "Интервјуа на Попац",
       "subtype": "tv-feature",
       "titleType": "archive-curatorial",
       "sourcePlatform": "YouTube",
@@ -355,7 +355,8 @@
       "sourceYoutubeId": "8omhcjGk5NA",
       "sourceOriginalUrl": "https://www.youtube.com/watch?v=8omhcjGk5NA",
       "officialYoutubeUrl": "https://youtu.be/TEzYaqerlQ0",
-      "deploymentStatus": "OFFICIAL SASHO & POPAC ARCHIVE YOUTUBE UPLOAD — link supplied; final visibility/checks status pending confirmation."
+      "deploymentStatus": "OFFICIAL SASHO & POPAC ARCHIVE YOUTUBE UPLOAD — link supplied; final visibility/checks status pending confirmation.",
+      "classificationNote": "Editorially grouped under „Интервјуа на Попац“ as a television interview/feature record connected with Миодраг Станојковиќ – Попац."
     },
     {
       "archiveId": "MPS-0015",
