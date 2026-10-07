@@ -66,10 +66,10 @@
       "duration": "01:30",
       "description": "Видео-запис чиј изворен YouTube наслов го идентификува како промоција на уметнички слики. Точниот датум, местото, авторството на поединечните дела, организаторот и учесниците остануваат за визуелна/изворна верификација.",
       "source": "https://www.youtube.com/watch?v=Zay7R-azkXc",
-      "rightsStatus": "Official Sasho & Popac Archive upload is currently Private. YouTube Studio checks completed with no issues on 2026-10-07. Visual/artwork rights still require item-level archival verification.",
-      "publicStatus": "private-review",
+      "rightsStatus": "Official Sasho & Popac Archive upload is Public. YouTube Studio checks completed with no issues on 2026-10-07. Item-level visual/artwork rights and event metadata remain subject to archival verification.",
+      "publicStatus": "public",
       "officialYoutubeUrl": "https://youtu.be/0wsYRqhiLyA",
-      "notes": "Added to the artworks collection on the basis of the source title and supplied YouTube Studio evidence; direct file/frame review remains pending."
+      "notes": "Official public YouTube playback active as of 2026-10-07. Source title/provenance retained; direct file/frame review remains pending for detailed artwork/event metadata."
     }
   ]
 }
