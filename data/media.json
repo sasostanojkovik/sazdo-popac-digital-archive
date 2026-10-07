@@ -235,15 +235,15 @@
       "archiveId": "MPS-0010",
       "title": "Беше еднаш во Скопје — Миодраг Станојковиќ – Попац",
       "description": "Архивски музички видео-запис со Миодраг Станојковиќ – Попац и мотиви од старо Скопје. Изворниот YouTube наслов е „Miodrag Stanojkovic - Bese ednas vo Skopje - Makedonska Zabavna Muzika - Evergrin“. Визуелната проверка покажува монтажен запис со архивски фотографии и кадри од Скопје, како и фотографии/кадри поврзани со Попац. Точната година, авторите, изворите на поединечните фотографии и снимки и дополнителниот контекст ќе се дополнат по верификација.",
-      "youtubeId": "Rp_INXFGvJw",
-      "externalUrl": "https://www.youtube.com/watch?v=Rp_INXFGvJw",
+      "youtubeId": "SypKf2l_wfA",
+      "externalUrl": "https://youtu.be/SypKf2l_wfA",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
       "section": "popac-videos",
       "collection": "Видеа на Попац",
       "titleType": "archive-curatorial",
       "sourcePlatform": "YouTube",
       "sourceTitle": "Miodrag Stanojkovic - Bese ednas vo Skopje - Makedonska Zabavna Muzika - Evergrin",
-      "canonicalSource": "https://www.youtube.com/watch?v=Rp_INXFGvJw",
+      "canonicalSource": "https://youtu.be/SypKf2l_wfA",
       "sourceThumbnail": "https://i.ytimg.com/vi/Rp_INXFGvJw/hqdefault.jpg",
       "duration": "14:35",
       "verificationStatus": "Source title and YouTube ID confirmed from the downloaded source-derived access copy. Sample-frame review confirms a montage of archival Skopje imagery and Popac-related photographs/footage. Exact dates, image/video authors and wider historical context remain pending verification.",
@@ -265,7 +265,13 @@
         "embeddedArtworkStream": "MJPEG 480x360",
         "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
       },
-      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not an original broadcast/camera master. Public portal playback remains tied to the source YouTube record until an official Sasho & Popac Archive upload is published."
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. The local preserved file remains a YouTube-derived access/preservation copy, not an original broadcast/camera master.",
+      "sourceYoutubeId": "Rp_INXFGvJw",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=Rp_INXFGvJw",
+      "officialYoutubeUrl": "https://youtu.be/SypKf2l_wfA",
+      "visibility": "public",
+      "youtubePublishDate": "2026-10-07",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active."
     },
     {
       "archiveId": "MPS-0011",
