@@ -171,7 +171,7 @@
     {
       "archiveId": "MPS-0019",
       "title": "Интервју со Миодраг Станојковиќ – Попац",
-      "description": "Архивски видео-запис со интервју со Миодраг Станојковиќ – Попац, достапен преку јавен YouTube извор и каталогизиран во секцијата „Интервјуа на Попац“. Точниот датум на снимање и/или објавување, телевизијата или емисијата, името на водителот и останатите учесници ќе бидат дополнети по верификација на изворот.",
+      "description": "Архивски видео-запис со Миодраг Станојковиќ – Попац. Оригиналниот YouTube наслов го идентификува како гостување во емисијата „До Пладне“ („Miodrag Stanojkovic - Gostin vo emisijata Do Pladne - Makedonska Zabavna Muzika - Evergrin“). Јавниот YouTube извор е објавен на 1 февруари 2011 од каналот „sasogjovani“ и трае 47:30. Телевизијата, водителот, датумот на оригиналното ТВ-снимање и останатите учесници ќе се дополнат по дополнителна верификација.",
       "youtubeId": "nrLDNVtzWUY",
       "externalUrl": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
       "rightsStatus": "Канонски надворешен јавен YouTube запис. Се користи линк/вградување без локално преземање или реобјавување; правата остануваат кај соодветните носители.",
@@ -182,7 +182,16 @@
       "canonicalSource": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
       "sourceThumbnail": "https://i.ytimg.com/vi/nrLDNVtzWUY/hqdefault.jpg",
       "priorityStatus": "ACTIVE REVIEW — first interview record to be fully catalogued",
-      "verificationStatus": "YouTube ID and public source confirmed; original source title, upload date, duration, broadcaster/programme, host and participants pending verification."
+      "verificationStatus": "Verified from saved YouTube watch-page snapshot: video ID nrLDNVtzWUY; source title, uploader sasogjovani, upload/publish date 2011-02-01, duration 47:30 and category Music confirmed. Broadcaster, host, original recording date and other participants remain unverified.",
+      "sourceTitle": "Miodrag Stanojkovic - Gostin vo emisijata Do Pladne - Makedonska Zabavna Muzika - Evergrin",
+      "sourceChannel": "sasogjovani",
+      "sourceChannelUrl": "https://www.youtube.com/@sasogjovani",
+      "sourcePublishDate": "2011-02-01",
+      "duration": "47:30",
+      "sourceCategory": "Music",
+      "sourceViewCountSnapshot": 365,
+      "sourceSnapshotDate": "2026-10-07",
+      "programme": "До Пладне"
     },
     {
       "archiveId": "MPS-0020",
