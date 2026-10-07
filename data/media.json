@@ -285,15 +285,15 @@
       "archiveId": "MPS-0012",
       "title": "Кога бев млад — Миодраг Станојковиќ – Попац",
       "description": "Архивски музички видео-запис со изворен наслов „Miodrag Stanojkovic - Koga bev mlad - Makedonska Zabavna Muzika - Evergrin“. Визуелната проверка покажува црно-бели сценски/музички кадри со повеќе учесници. Точната година, емисијата или настанот, локацијата, авторите, придружниот состав и останатите учесници ќе се дополнат по верификација.",
-      "youtubeId": "wQN3DwykqxQ",
-      "externalUrl": "https://www.youtube.com/watch?v=wQN3DwykqxQ",
+      "youtubeId": "U8S0-8hDgOE",
+      "externalUrl": "https://youtu.be/U8S0-8hDgOE",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
       "section": "popac-videos",
       "collection": "Видеа на Попац",
       "titleType": "archive-curatorial",
       "sourcePlatform": "YouTube",
       "sourceTitle": "Miodrag Stanojkovic - Koga bev mlad - Makedonska Zabavna Muzika - Evergrin",
-      "canonicalSource": "https://www.youtube.com/watch?v=wQN3DwykqxQ",
+      "canonicalSource": "https://youtu.be/U8S0-8hDgOE",
       "sourceThumbnail": "https://i.ytimg.com/vi/wQN3DwykqxQ/hqdefault.jpg",
       "duration": "01:50",
       "verificationStatus": "Source title and YouTube ID confirmed from the downloaded source-derived access copy. Sample-frame review confirms black-and-white archival performance footage. Exact date, programme/event, location, authors and participants remain pending verification.",
@@ -315,7 +315,13 @@
         "embeddedArtworkStream": "MJPEG 480x360",
         "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
       },
-      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not an original broadcast/camera master. Public portal playback remains tied to the source YouTube record until an official Sasho & Popac Archive upload is published."
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. The local preserved file remains a YouTube-derived access/preservation copy, not an original broadcast/camera master.",
+      "sourceYoutubeId": "wQN3DwykqxQ",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=wQN3DwykqxQ",
+      "officialYoutubeUrl": "https://youtu.be/U8S0-8hDgOE",
+      "visibility": "public",
+      "youtubePublishDate": "2026-10-07",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active."
     },
     {
       "archiveId": "MPS-0013",
