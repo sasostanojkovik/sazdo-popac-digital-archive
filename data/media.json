@@ -65,15 +65,15 @@
       "archiveId": "MPS-0007",
       "title": "Матка – македонска пештера",
       "description": "Видео-запис со изворен наслов „matka - makedonska pestera“, каталогизиран во посебната колекција „Видеа на Сашо“. Точниот датум, авторството на снимката, учесниците и поширокиот контекст ќе се дополнат по верификација.",
-      "youtubeId": "bibAwqtJ5cI",
-      "externalUrl": "https://www.youtube.com/watch?v=bibAwqtJ5cI",
+      "youtubeId": "I6sAYbkLlds",
+      "externalUrl": "https://youtu.be/I6sAYbkLlds",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално реобјавување. Правата остануваат кај соодветните носители.",
       "section": "sasho-videos",
       "collection": "Видеа на Сашо",
       "titleType": "archive-curatorial",
       "sourcePlatform": "YouTube",
       "sourceTitle": "matka - makedonska pestera",
-      "canonicalSource": "https://www.youtube.com/watch?v=bibAwqtJ5cI",
+      "canonicalSource": "https://youtu.be/I6sAYbkLlds",
       "sourceThumbnail": "https://i.ytimg.com/vi/bibAwqtJ5cI/hqdefault.jpg",
       "duration": "15:26",
       "verificationStatus": "Source title and YouTube ID confirmed from the downloaded source-derived access copy; date, authorship, participants and wider context remain pending verification.",
@@ -93,7 +93,51 @@
         "audioChannels": "2 (stereo)",
         "audioBitRate": "127999 bps"
       },
-      "archivalNote": "Preserved local file is a YouTube-derived access/preservation copy, not an original camera/master file. Public portal playback continues to use the canonical YouTube embed."
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. Local preserved file remains a YouTube-derived access/preservation copy, not an original camera/master file.",
+      "sourceYoutubeId": "bibAwqtJ5cI",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=bibAwqtJ5cI",
+      "officialYoutubeUrl": "https://youtu.be/I6sAYbkLlds",
+      "visibility": "public",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active; partially blocked in Russia and Belarus because of Content ID claims.",
+      "youtubePublishDate": "2026-10-07",
+      "youtubeChecks": "Checks complete — claimed content found; no copyright strike and no impact on the channel. Video is blocked in Russia and Belarus.",
+      "copyrightClaims": [
+        {
+          "title": "Un homme et une femme",
+          "artist": "Fausto Papetti",
+          "type": "Audio",
+          "impact": "Blocked in some territories (Russia, Belarus)"
+        },
+        {
+          "title": "Lara's Theme",
+          "artist": "Richard Clayderman",
+          "type": "Audio",
+          "impact": "No impact on video"
+        },
+        {
+          "title": "Where Do I Begin? (From \"Love Story\")",
+          "type": "Melody or lyrics",
+          "impact": "No impact on video"
+        },
+        {
+          "title": "Alouette",
+          "artist": "Paul Mauriat",
+          "type": "Audio",
+          "impact": "Blocked in some territories (Russia, Belarus)"
+        },
+        {
+          "title": "Love Is Blue",
+          "artist": "Billy Vaughn",
+          "type": "Audio",
+          "impact": "No impact on video"
+        },
+        {
+          "title": "O sole mio",
+          "artist": "Paul Mauriat",
+          "type": "Audio",
+          "impact": "No impact on video"
+        }
+      ]
     },
     {
       "archiveId": "MPS-0008",
