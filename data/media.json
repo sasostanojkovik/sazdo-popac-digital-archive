@@ -174,9 +174,15 @@
       "description": "Архивски YouTube видео-запис, класифициран од архивскиот куратор во секцијата „Интервјуа на Попац“. Точниот датум, телевизија/емисија, водителот и останатите учесници ќе се дополнат по верификација.",
       "youtubeId": "nrLDNVtzWUY",
       "externalUrl": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
-      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
+      "rightsStatus": "Канонски надворешен јавен YouTube запис. Се користи линк/вградување без локално преземање или реобјавување; правата остануваат кај соодветните носители.",
       "section": "popac-interviews",
-      "collection": "Интервјуа на Попац"
+      "collection": "Интервјуа на Попац",
+      "titleType": "archive-curatorial",
+      "sourcePlatform": "YouTube",
+      "canonicalSource": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
+      "sourceThumbnail": "https://i.ytimg.com/vi/nrLDNVtzWUY/hqdefault.jpg",
+      "priorityStatus": "ACTIVE REVIEW — first interview record to be fully catalogued",
+      "verificationStatus": "YouTube ID and public source confirmed; original source title, upload date, duration, broadcaster/programme, host and participants pending verification."
     },
     {
       "archiveId": "MPS-0020",
