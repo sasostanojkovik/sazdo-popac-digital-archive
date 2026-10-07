@@ -90,6 +90,7 @@ function videoType(item) {
 function renderVideos(items) {
   const host = q('#video-grid');
   const interviewHost = q('#interviews-grid');
+  const sashoHost = q('#sasho-video-grid');
   if (!host) return;
   items.forEach(item => {
     const type = videoType(item);
@@ -112,7 +113,9 @@ function renderVideos(items) {
     }
 
     card.innerHTML = `${visual}<div class="video-body"><div class="meta">${esc(item.archiveId || '')} · ${type}</div><h3>${esc(item.title)}</h3><p>${esc(item.description)}</p>${item.duration ? `<p>Траење: ${esc(item.duration)}</p>` : ''}</div>`;
-    const targetHost = item.section === 'popac-interviews' && interviewHost ? interviewHost : host;
+    let targetHost = host;
+    if (item.section === 'popac-interviews' && interviewHost) targetHost = interviewHost;
+    else if (item.section === 'sasho-videos' && sashoHost) targetHost = sashoHost;
     targetHost.appendChild(card);
   });
 
@@ -134,7 +137,7 @@ function renderVideos(items) {
       qa('.filter-chip').forEach(b => b.classList.remove('active'));
       button.classList.add('active');
       const filter = button.dataset.filter;
-      qa('.video-card', host).forEach(card => {
+      qa('.video-card', q('#video') || document).forEach(card => {
         card.classList.toggle('is-hidden', filter !== 'all' && card.dataset.type !== filter);
       });
     });
