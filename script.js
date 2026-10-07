@@ -91,6 +91,7 @@ function renderVideos(items) {
   const host = q('#video-grid');
   const interviewHost = q('#interviews-grid');
   const sashoHost = q('#sasho-video-grid');
+  const popacHost = q('#popac-video-grid');
   if (!host) return;
   items.forEach(item => {
     const type = videoType(item);
@@ -116,6 +117,7 @@ function renderVideos(items) {
     let targetHost = host;
     if (item.section === 'popac-interviews' && interviewHost) targetHost = interviewHost;
     else if (item.section === 'sasho-videos' && sashoHost) targetHost = sashoHost;
+    else if (item.section === 'popac-videos' && popacHost) targetHost = popacHost;
     targetHost.appendChild(card);
   });
 
