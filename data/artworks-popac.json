@@ -5,7 +5,8 @@
   "description": "Контролирана архивска колекција за фотографии, скенови и видео-записи поврзани со уметнички слики и ателје. Авторство, наслов, година, техника, димензии, место и права се внесуваат само по потврда.",
   "relatedArchiveIds": [
     "MPS-0024",
-    "MPS-0025"
+    "MPS-0025",
+    "MPS-0015"
   ],
   "itemSchema": [
     "archiveId",
@@ -57,6 +58,18 @@
       "posterTime": 6,
       "posterLabel": "Слики од старо Скопје",
       "posterSubtitle": "Архивско видео · Миодраг Станојковиќ"
+    },
+    {
+      "archiveId": "MPS-0015",
+      "title": "Промоција на уметнички слики — Миодраг Станојковиќ – Попац",
+      "mediaType": "youtube-archive-video",
+      "duration": "01:30",
+      "description": "Видео-запис чиј изворен YouTube наслов го идентификува како промоција на уметнички слики. Точниот датум, местото, авторството на поединечните дела, организаторот и учесниците остануваат за визуелна/изворна верификација.",
+      "source": "https://www.youtube.com/watch?v=Zay7R-azkXc",
+      "rightsStatus": "Official Sasho & Popac Archive upload is currently Private. YouTube Studio checks completed with no issues on 2026-10-07. Visual/artwork rights still require item-level archival verification.",
+      "publicStatus": "private-review",
+      "officialYoutubeUrl": "https://youtu.be/0wsYRqhiLyA",
+      "notes": "Added to the artworks collection on the basis of the source title and supplied YouTube Studio evidence; direct file/frame review remains pending."
     }
   ]
 }
