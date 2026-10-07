@@ -22,6 +22,7 @@ This directory contains selected optimized H.264/AAC web derivatives used for co
 | `MPS-0009` | Кратка биографија — Миодраг Станојковиќ – Попац | Public · potential earning limitation shown in Studio | https://youtu.be/aGVKMeY1xHI |
 | `MPS-0010` | Беше еднаш во Скопје — Миодраг Станојковиќ – Попац | Public | https://youtu.be/SypKf2l_wfA |
 | `MPS-0012` | Кога бев млад — Миодраг Станојковиќ – Попац | Public | https://youtu.be/U8S0-8hDgOE |
+| `MPS-0014` | Емисија „Ексклузив“ — „Беше еднаш во Скопје“ — Миодраг Станојковиќ – Попац | Upload linked · visibility/checks pending confirmation | https://youtu.be/TEzYaqerlQ0 |
 | `MPS-0024` | Ателје со најнови слики — Миодраг Станојковиќ – Попац | Private · partially blocked; retained for archival evidence | YouTube Studio upload |
 | `MPS-0025` | Слики од старо Скопје — Миодраг Станојковиќ – Попац | Public · checks completed with no issues | Official channel upload |
 
