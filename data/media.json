@@ -130,12 +130,12 @@
         "audioChannels": "2 (stereo)",
         "audioBitRate": "127999 bps"
       },
-      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. Local preserved file remains a YouTube-derived access/preservation copy, not an original camera/master file.",
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. Local preserved file remains a YouTube-derived access/preservation copy, not an original camera/master file. A replacement derivative MPS-0007-PUB-v2 was prepared on 2026-10-10 with the original source audio fully removed and replaced by a newly generated ambient/water soundtrack. It is not canonical/public until YouTube upload and clean checks are confirmed.",
       "sourceYoutubeId": "bibAwqtJ5cI",
       "sourceOriginalUrl": "https://www.youtube.com/watch?v=bibAwqtJ5cI",
       "officialYoutubeUrl": "https://youtu.be/I6sAYbkLlds",
       "visibility": "public",
-      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active; partially blocked in Russia and Belarus because of Content ID claims.",
+      "deploymentStatus": "CURRENT PUBLIC UPLOAD remains active and partially blocked. MPS-0007-PUB-v2 Water & Cave Edition has been prepared locally; upload/checks pending.",
       "youtubePublishDate": "2026-10-07",
       "youtubeChecks": "Checks complete — claimed content found; no copyright strike and no impact on the channel. Video is blocked in Russia and Belarus.",
       "copyrightClaims": [
@@ -174,7 +174,23 @@
           "type": "Audio",
           "impact": "No impact on video"
         }
-      ]
+      ],
+      "replacementCandidate": {
+        "archiveId": "MPS-0007-PUB-v2",
+        "title": "Матка – македонска пештера | Water & Cave Edition",
+        "status": "prepared-locally-youtube-upload-pending",
+        "preparedAt": "2026-10-10",
+        "durationSeconds": 925.611111,
+        "duration": "15:26",
+        "fileName": "MPS-0007-PUB-v2_MATKA_WATER_CAVE_ORIGINAL.mp4",
+        "fileBytes": 40159370,
+        "sha256": "051ed56e1505c3f5dc0f614a1bd3f2a53dbfdaad14a1d093875f34fe24bb44ed",
+        "audioFileName": "MPS-0007-PUB-v2_MATKA_WATER_CAVE_ORIGINAL.m4a",
+        "audioSha256": "4a654762683ea449a493caec8f3b2f86b71fd55f40f5a631c17f1a8f8b55a05a",
+        "audioDesign": "Original procedural ambient instrumental with synthesized flowing-water texture; original source audio fully removed.",
+        "rightsBasis": "New soundtrack generated locally from synthesized tones/noise; no external recording or copyrighted music embedded.",
+        "youtubeChecks": "Pending upload and YouTube Studio checks"
+      }
     },
     {
       "archiveId": "MPS-0008",
