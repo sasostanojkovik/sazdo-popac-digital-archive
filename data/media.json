@@ -952,8 +952,8 @@
       "title": "MIODRAG STANOJKOVIĆ - Makedonski hitovi 60' i 70' godina",
       "status": "high-priority-pending-tracklist",
       "discovered": "2026-10-10",
-      "evidence": "Muzika Balkana archive post dated 2016-07-13, tagged Makedonija / Zabavna muzika.",
-      "nextAction": "Locate tracklist, cover/label information and any surviving audio source; compare every title against existing MPS records before assigning new IDs.",
+      "evidence": "Muzika Balkana archive post dated 2016-07-13 titled 'MIODRAG STANOJKOVIĆ - Makedonski hitovi 60' i 70' godina', tagged Dalibor / Makedonija / Zabavna muzika; the indexed post displays '60/70' but no tracklist.",
+      "nextAction": "Locate the original collector upload, cover image, tracklist and audio source. Compare every title and recording against existing MPS records; preserve source/label data before assigning new MPS IDs.",
       "url": "https://muzika-balkana.blogspot.com/2016/07/?m=0"
     },
     {
@@ -1031,6 +1031,49 @@
       "evidence": "A Kajgana forum repost/reference describes a Miodrag Stanojkovik in Skopje among experienced solo performers/band musicians. Name/nickname alignment should be checked before treating it as definitive Popac biography.",
       "nextAction": "Trace the quoted original article/source and verify identity, date and context.",
       "url": "https://forum.kajgana.com/threads/skopski-legendi.62670/page-2"
+    },
+    {
+      "id": "POPAC-RL-009",
+      "type": "yugoslav-festival-crosscheck",
+      "title": "Opatija 1962 — „Ljubov/Ljubav i motor“: конфликтни изведувачки кредити",
+      "status": "high-priority-original-program-needed",
+      "discovered": "2026-10-10",
+      "evidence": "A Slovenian Kulturnik/Radio Student retrospective list of Opatija-era hits names 'Ljubov i motor - Miodrag Stanojković 1962'. Separate Opatija 1962 repertoire/discographic sources list 'Ljubav i motor' with Kvartet 4M / Miodrag Miki Jevremović and credit Aleksandar Džambazov / Nikola Drenovac.",
+      "nextAction": "Locate the original Opatija 1962 programme, JRT/Radio Zagreb/Radio Ljubljana/Radio Beograd documentation and original label/score credits to determine whether Popac performed an alternate Macedonian/JRT/radio version or whether the retrospective attribution is erroneous.",
+      "urls": [
+        "https://novice.kulturnik.si/cat/glasba/before/2015-02-06",
+        "https://www.enciklopedija.cc/wiki/Opatijski_festival",
+        "https://www.goglasi.com/search?q=+MIKI+JEVREMOVIC&sort=cdn&start=0"
+      ]
+    },
+    {
+      "id": "POPAC-RL-010",
+      "type": "yugoslav-discography",
+      "title": "PGP RTB EP 50911 — Opatija ’62 Nagrađene melodije",
+      "status": "verified-release-context-not-popac-master",
+      "discovered": "2026-10-10",
+      "evidence": "Collector/discographic listings identify PGP RTB EP 50911 with Zoran Georgiev 'Eden baknež', Gabi Novak 'Mili', Miodrag Miki Jevremović 'Ljubav i motor' and Lola Novaković 'Jedno davno leto'. This confirms the physical Yugoslav release context for the composition but does not by itself prove a Popac master on this EP.",
+      "nextAction": "Find label scans/catalogue card for EP 50911 and cross-check JRT festival master logs for alternate performers/versions.",
+      "url": "https://www.goglasi.com/search?q=+MIKI+JEVREMOVIC&sort=cdn&start=0"
+    },
+    {
+      "id": "POPAC-RL-011",
+      "type": "regional-radio-retrospective",
+      "title": "Slovenian Radio Student / Kulturnik retrospective — Popac in Yugoslav schlager chronology",
+      "status": "verified-secondary-performance-reference",
+      "discovered": "2026-10-10",
+      "evidence": "The Slovenian Kulturnik archive reproduces a Radio Student retrospective programme on the Opatija festival and places 'Ljubov i motor - Miodrag Stanojković 1962' among Yugoslav schlager selections from 1958-1968.",
+      "nextAction": "Trace the underlying Radio Student broadcast/playlist metadata and determine which recording was aired; request audio if preserved.",
+      "url": "https://novice.kulturnik.si/cat/glasba/before/2015-02-06"
+    }
+  ],
+  "excludedResearchHits": [
+    {
+      "id": "POPAC-XH-001",
+      "title": "Miodrag Stanojković of Kumanovo — Cinematheque film donor",
+      "status": "identity-not-established-do-not-merge",
+      "evidence": "Kinoteka chronology for 1999 states that film materials were acquired from 'Miodrag Stanojković of Kumanovo'. No source found in this pass links that person to Miodrag Stanojković-Popac (1936-2013), so the record must not be merged into the Popac archive without independent identity evidence.",
+      "url": "https://kinoteka.mk/wp-content/uploads/2019/02/Kinopis-33-34-za-WEB-LR-2.pdf"
     }
   ]
 }
