@@ -127,10 +127,10 @@
       "mediaType": "youtube-archive-video",
       "description": "Видео-запис чиј изворен YouTube наслов го идентификува како „Во ателјето на уметникот“. Записот е поврзан со ателјето и визуелното уметничко наследство на Миодраг Станојковиќ – Попац. Точниот датум, местото, прикажаните дела, учесниците и правата за поединечните уметнички дела остануваат за визуелна/изворна верификација.",
       "source": "https://www.youtube.com/watch?v=KAGaVkaTVVc",
-      "rightsStatus": "MPS-0021-PUB-v2 is Public on the official channel with replacement instrumental audio and no notices shown in YouTube Studio on 2026-10-10. Previous upload np6V19-KgSU remains Public and Partially blocked pending privatization as archival evidence.",
+      "rightsStatus": "MPS-0021-PUB-v2 is Public with replacement instrumental audio and no notices shown in YouTube Studio. Previous partially blocked upload np6V19-KgSU is now Private and retained as archival evidence.",
       "publicStatus": "public",
       "officialYoutubeUrl": "https://youtu.be/MSjYXyYqfXY",
-      "notes": "Canonical public derivative MPS-0021-PUB-v2 published and verified clean in YouTube Studio on 2026-10-10: https://youtu.be/MSjYXyYqfXY. Previous upload https://youtu.be/np6V19-KgSU remains Public and Partially blocked and should be made Private.",
+      "notes": "Canonical public derivative MPS-0021-PUB-v2: https://youtu.be/MSjYXyYqfXY. Previous partially blocked upload https://youtu.be/np6V19-KgSU was moved to Private on 2026-10-10 and is retained as archival evidence.",
       "duration": "03:49",
       "canonicalPublicVersion": "MPS-0021-PUB-v2",
       "publicDerivative": {
