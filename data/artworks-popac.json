@@ -39,11 +39,25 @@
       "publicStatus": "private",
       "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
       "sha256": "f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee",
-      "notes": "Original MPG master remains outside GitHub. Official YouTube upload remains Private. YouTube notice dated 2026-10-05: SME claimant; Rose (James Horner) audio blocked in 1 territory; My Heart Will Go On (Céline Dion) audio has no current impact until channel monetization; no strike. Planned public derivative: MPS-0024-PUB v1 without claimed audio.",
+      "notes": "Original MPG master remains outside GitHub. Official YouTube upload remains Private. YouTube notice dated 2026-10-05: SME claimant; Rose (James Horner) audio blocked in 1 territory; My Heart Will Go On (Céline Dion) audio has no current impact until channel monetization; no strike. Planned public derivative: MPS-0024-PUB v1 without claimed audio. Full 03:48 original replacement score created on 2026-10-10; final mux/export pending.",
       "localFile": "assets/video/mps-0024-atelje-popac-web.mp4",
       "posterTime": 20,
       "posterLabel": "Ателје со најнови слики",
-      "posterSubtitle": "Уметнички слики – Попац"
+      "posterSubtitle": "Уметнички слики – Попац",
+      "derivativeScore": {
+        "title": "MPS-0024-PUB-v1 — POPAC SIGNATURE ORIGINAL SCORE",
+        "status": "full-score-created-final-mux-pending",
+        "duration": "03:48",
+        "format": "AAC / M4A",
+        "sampleRate": "44.1 kHz",
+        "channels": "stereo",
+        "approximateBitrate": "251 kb/s",
+        "sha256": "aedfa2758fa61f7245163c2bb0b96a22adce850e85fa812398928b834cc505d1",
+        "design": "Original archive score: warm piano, nylon/clean guitar, upright bass, restrained cello/strings, subtle brushed percussion and occasional clarinet/muted-trumpet colour; original four-note archive motif; no vocals.",
+        "rightsNote": "Newly created original instrumental score for the archive derivative. It intentionally does not copy or reproduce a recognizable melody, lyrics, master recording or arrangement from an existing Popac or third-party song.",
+        "descriptProjectUrl": "https://web.descript.com/5e84391d-6802-4f20-b893-a271ac7a52ba/1e3bd",
+        "muxStatus": "Original claimed soundtrack is muted in the Descript derivative project. The complete 03:48 score is ready for placement at 00:00; final public export remains pending."
+      }
     },
     {
       "archiveId": "MPS-0025",
