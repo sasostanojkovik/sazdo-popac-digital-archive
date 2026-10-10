@@ -1250,6 +1250,13 @@
       "status": "identity-not-established-do-not-merge",
       "evidence": "Kinoteka chronology for 1999 states that film materials were acquired from 'Miodrag Stanojković of Kumanovo'. No source found in this pass links that person to Miodrag Stanojković-Popac (1936-2013), so the record must not be merged into the Popac archive without independent identity evidence.",
       "url": "https://kinoteka.mk/wp-content/uploads/2019/02/Kinopis-33-34-za-WEB-LR-2.pdf"
+    },
+    {
+      "id": "POPAC-XH-002",
+      "title": "TikTok @hajr.ba / 7644541239001435413",
+      "status": "confirmed-not-popac-do-not-merge",
+      "evidence": "User directly confirmed on 2026-10-10 that this TikTok video is not Miodrag Stanojkovic-Popac.",
+      "url": "https://www.tiktok.com/@hajr.ba/video/7644541239001435413"
     }
   ],
   "regionalResearchAudit": {
@@ -1287,15 +1294,5 @@
       "popacSegmentTimestampSource": "User-confirmed by direct listening"
     }
   ],
-  "externalResearchLinks": [
-    {
-      "id": "TIKTOK-HAJRBA-7644541239001435413",
-      "platform": "TikTok",
-      "account": "@hajr.ba",
-      "url": "https://www.tiktok.com/@hajr.ba/video/7644541239001435413",
-      "status": "pending-content-verification",
-      "relationToArchive": "User-supplied external lead; public fetch unavailable in current research pass. Do not merge with an MPS item until content/identity is verified.",
-      "added": "2026-10-10"
-    }
-  ]
+  "externalResearchLinks": []
 }
