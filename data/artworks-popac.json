@@ -39,7 +39,7 @@
       "publicStatus": "private",
       "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
       "sha256": "f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee",
-      "notes": "Original MPG master remains outside GitHub. Official YouTube upload remains Private. YouTube notice dated 2026-10-05: SME claimant; Rose (James Horner) audio blocked in 1 territory; My Heart Will Go On (Céline Dion) audio has no current impact until channel monetization; no strike. Planned public derivative: MPS-0024-PUB v1 without claimed audio. Full 03:48 original replacement score created on 2026-10-10; final mux/export pending.",
+      "notes": "Original MPG master remains outside GitHub. Official YouTube upload remains Private. YouTube notice dated 2026-10-05: SME claimant; Rose (James Horner) audio blocked in 1 territory; My Heart Will Go On (Céline Dion) audio has no current impact until channel monetization; no strike. Planned public derivative: MPS-0024-PUB v1 without claimed audio. Full 03:48 original replacement score created on 2026-10-10; final mux/export pending. V2 full-length 7/8 Macedonian-inspired ethno smooth-jazz instrumental prepared on 2026-10-10; final video mux pending.",
       "localFile": "assets/video/mps-0024-atelje-popac-web.mp4",
       "posterTime": 20,
       "posterLabel": "Ателје со најнови слики",
@@ -57,6 +57,19 @@
         "rightsNote": "Newly created original instrumental score for the archive derivative. It intentionally does not copy or reproduce a recognizable melody, lyrics, master recording or arrangement from an existing Popac or third-party song.",
         "descriptProjectUrl": "https://web.descript.com/5e84391d-6802-4f20-b893-a271ac7a52ba/1e3bd",
         "muxStatus": "Original claimed soundtrack is muted in the Descript derivative project. The complete 03:48 score is ready for placement at 00:00; final public export remains pending."
+      },
+      "derivativeScoreV2": {
+        "version": "MPS-0024-PUB-v2",
+        "title": "Macedonian 7/8 Ethno Smooth Jazz — POPAC Archive Instrumental",
+        "duration": "03:48",
+        "meter": "7/8, alternating 3+2+2 and 2+2+3",
+        "style": "Macedonian-inspired ethno smooth jazz / evergreen archive score",
+        "instrumentation": "warm piano, clean/nylon guitar, upright-style bass, restrained strings/cello, light brushed percussion, clarinet/kaval-like lead colour",
+        "motifPolicy": "Original motifs and phrasing only. The score evokes Popac-era evergreen character without copying a recognizable melody, lyric, master recording or existing arrangement.",
+        "sourceFile": "MPS-0024-PUB-v2_MACEDONIAN_7-8_ETHNO_SMOOTH_JAZZ.m4a",
+        "sha256": "e76da57f01a43f5ad460e1b0c2bcf5992b3de5bf241e3f21b672a54e0ccf2665",
+        "status": "score-ready-final-video-mux-pending",
+        "createdDate": "2026-10-10"
       }
     },
     {
