@@ -581,20 +581,20 @@
       "officialYoutubeUrl": "https://youtu.be/MSjYXyYqfXY",
       "canonicalSource": "https://youtu.be/MSjYXyYqfXY",
       "visibility": "public",
-      "verificationStatus": "Verified in YouTube Studio on 2026-10-10: MPS-0021-PUB-v2 is Public and shows no notice. Earlier upload np6V19-KgSU remains Public and Partially blocked.",
+      "verificationStatus": "Verified in YouTube Studio on 2026-10-10: MPS-0021-PUB-v2 is Public with no notice; earlier partially blocked upload np6V19-KgSU is Private.",
       "youtubeChecks": "No issues / no notices shown in YouTube Studio on 2026-10-10 for MPS-0021-PUB-v2.",
-      "deploymentStatus": "PUBLIC CANONICAL DERIVATIVE — MPS-0021-PUB-v2 is live on the official channel with no notices shown in YouTube Studio. Previous upload np6V19-KgSU remains Public and partially blocked pending curator action to make it Private as archival evidence.",
+      "deploymentStatus": "PUBLIC CANONICAL DERIVATIVE — MPS-0021-PUB-v2 is live with no notices shown in YouTube Studio. Previous partially blocked upload np6V19-KgSU is now Private and retained as archival evidence.",
       "duration": "03:49",
       "youtubePublishDate": "2026-10-10",
       "youtubeNotice": "None",
-      "archivalNote": "Original source provenance remains preserved via sourceYoutubeId/sourceOriginalUrl. MPS-0021-PUB-v2 (MSjYXyYqfXY) is the canonical public derivative and was verified Public with no notices shown in YouTube Studio on 2026-10-10. Earlier upload np6V19-KgSU remains Public and Partially blocked and should be changed to Private as archival evidence.",
+      "archivalNote": "Original source provenance remains preserved. MPS-0021-PUB-v2 (MSjYXyYqfXY) is the canonical public derivative and is Public with no notices shown. Earlier upload np6V19-KgSU is Private and retained as archival evidence.",
       "publicStatus": "public",
       "canonicalPublicVersion": "MPS-0021-PUB-v2",
       "previousPublicUpload": {
         "youtubeId": "np6V19-KgSU",
         "url": "https://youtu.be/np6V19-KgSU",
-        "status": "public-partially-blocked",
-        "archivalAction": "Keep as evidence; change to Private after confirming the replacement upload is clean in YouTube Studio."
+        "status": "private-partially-blocked-archival-evidence",
+        "archivalAction": "Completed: previous partially blocked upload moved to Private on 2026-10-10 and retained as archival evidence."
       },
       "publicDerivative": {
         "archiveId": "MPS-0021-PUB-v2",
