@@ -494,11 +494,11 @@
     },
     {
       "archiveId": "MPS-0019",
-      "title": "„До Пладне“ — интервју со Миодраг Станојковиќ – Попац",
-      "description": "Архивски телевизиски разговор со Миодраг Станојковиќ – Попац, идентификуван во изворниот YouTube наслов како гостување во емисијата „До Пладне“ („Miodrag Stanojkovic - Gostin vo emisijata Do Pladne - Makedonska Zabavna Muzika - Evergrin“). Јавниот извор е објавен на YouTube на 1 февруари 2011 од каналот „sasogjovani“ и трае 47:30. Датумот 1 февруари 2011 е датум на YouTube-објавата, а не потврден датум на оригиналното телевизиско снимање. Телевизијата, водителот, точниот датум на емитување и останатите учесници остануваат предмет на дополнителна архивска верификација.",
+      "title": "Миодраг Станојковиќ – Попац | „До Пладне“ | Интервју",
+      "description": "Архивски телевизиски разговор со Миодраг Станојковиќ – Попац, идентификуван во изворниот YouTube наслов како гостување во емисијата „До Пладне“. Јавниот извор е објавен на YouTube на 1 февруари 2011 од каналот „sasogjovani“ и трае 47:30. Датумот 01.02.2011 е датум на YouTube-објавата, а не потврден датум на оригиналното телевизиско снимање. Телевизијата, водителот, точниот датум на емитување и останатите учесници се дополнуваат по архивска верификација.",
       "youtubeId": "nrLDNVtzWUY",
       "externalUrl": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
-      "rightsStatus": "Канонски надворешен јавен YouTube запис. Се користи линк/вградување без локално преземање или реобјавување; правата остануваат кај соодветните носители.",
+      "rightsStatus": "Public portal playback uses the existing canonical YouTube embed from the source record; no new binary is redistributed from GitHub. Rights remain with the appropriate rights holders.",
       "section": "popac-interviews",
       "collection": "Интервјуа на Попац",
       "titleType": "archive-curatorial",
@@ -533,9 +533,14 @@
         "audioBitRate": "128000 bps",
         "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
       },
-      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not the original TV/broadcast master. The public portal continues to use the canonical YouTube embed. Broadcaster, host, original recording/broadcast date, participants and redistribution rights remain under verification. If an official Sasho & Popac Archive derivative is later created, the external source record and preservation provenance must remain linked.",
+      "archivalNote": "The portal uses the canonical public YouTube embed nrLDNVtzWUY. The preserved local file remains a YouTube-derived access/preservation copy and is not stored as a public GitHub binary. An official Sasho & Popac Archive channel mirror may be added later after YouTube upload/checks.",
       "programmeVerification": "Programme name is derived from the source YouTube title; broadcaster and host are not yet verified.",
-      "dateNote": "2011-02-01 is the YouTube publication date, not a verified original television recording/broadcast date."
+      "dateNote": "2011-02-01 is the YouTube publication date, not a verified original television recording/broadcast date.",
+      "publicStatus": "public",
+      "deliveryMode": "canonical-youtube-embed",
+      "portalPlaybackStatus": "PUBLIC — canonical YouTube embed active",
+      "officialArchiveChannelMirrorStatus": "not-yet-mirrored",
+      "lastUpdated": "2026-10-10"
     },
     {
       "archiveId": "MPS-0020",
