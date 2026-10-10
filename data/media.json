@@ -418,11 +418,21 @@
     },
     {
       "archiveId": "MPS-0017",
-      "title": "YouTube архивски запис — zHlHd_-Os0o",
+      "title": "Безгрижно девојче — можен дупликат/алтернативен извор",
       "description": "Јавен YouTube видео-линк доставен за дигиталната архива на Саздо & Попац. Точниот наслов, датумот, учесниците и односот кон другите архивски снимки ќе се дополнат по директна визуелна/авторска верификација.",
       "youtubeId": "zHlHd_-Os0o",
       "externalUrl": "https://www.youtube.com/watch?v=zHlHd_-Os0o",
-      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители."
+      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
+      "sourceTitle": "Miodrag Stanojkovic - Bezgrizno devojce - Makedonska Zabavna Muzika - Evergrin",
+      "sourcePlatform": "YouTube",
+      "sourceYoutubeId": "zHlHd_-Os0o",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=zHlHd_-Os0o",
+      "duplicateCandidateOf": "MPS-0004",
+      "pendingYoutubeUploadUrl": "https://youtu.be/0TpFg3wqwsQ",
+      "visibility": "private",
+      "verificationStatus": "YouTube Studio confirms the uploaded filename/source title as 'Miodrag Stanojkovic - Bezgrizno devojce - Makedonska Zabavna Muzika - Evergrin'. This strongly overlaps with existing canonical record MPS-0004 'Безгрижно девојче'. Exact 1:1 audiovisual identity has not yet been verified by file/hash comparison.",
+      "publicationStatus": "HOLD — probable duplicate/alternate source of MPS-0004; do not publish as a separate canonical record until file comparison is completed.",
+      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — processing pending; probable duplicate/alternate source of MPS-0004."
     },
     {
       "archiveId": "MPS-0018",
