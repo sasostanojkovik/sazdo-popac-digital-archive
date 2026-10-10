@@ -578,6 +578,60 @@
       "youtubeId": "J8yHsaMI7f4",
       "externalUrl": "https://www.youtube.com/watch?v=J8yHsaMI7f4",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители."
+    },
+    {
+      "archiveId": "MPS-0026",
+      "title": "Еден бакнеж — интервју со Миодраг Станојковиќ – Попац",
+      "description": "Архивски телевизиски сегмент од емисијата „Еден бакнеж“ со Миодраг Станојковиќ – Попац како главен гост. Видео-анализата потврдува дека двата откриени YouTube извори KR7uPxez29U и iG2OMEExdzE се од истото телевизиско гостување, но се различно монтирани изводи: KR7uPxez29U содржи вовед/музички сегмент и подолг интервју-извод, додека iG2OMEExdzE е пократок interview-only извод.",
+      "section": "popac-interviews",
+      "collection": "Интервјуа на Попац",
+      "subtype": "tv-interview",
+      "titleType": "archive-curatorial",
+      "program": "Еден бакнеж",
+      "broadcaster": "Алфа ТВ — визуелно идентификувано лого; дополнителна изворна верификација е пожелна",
+      "hosts": [
+        "Игор Ангелов",
+        "Ирена — презиме непотврдено"
+      ],
+      "sourceDateLabel": "10.02.2013 — преземено од насловот на алтернативниот извор iG2OMEExdzE; не е независно архивски потврдено",
+      "sourcePlatform": "YouTube",
+      "sourceTitle": "eden baknes Popac",
+      "sourceYoutubeId": "KR7uPxez29U",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=KR7uPxez29U",
+      "sourceThumbnail": "https://i.ytimg.com/vi/KR7uPxez29U/hqdefault.jpg",
+      "duration": "14:49",
+      "youtubeId": "bHWADshTJAw",
+      "externalUrl": "https://youtu.be/bHWADshTJAw",
+      "officialYoutubeUrl": "https://youtu.be/bHWADshTJAw",
+      "canonicalSource": "https://youtu.be/bHWADshTJAw",
+      "visibility": "private",
+      "rightsStatus": "Official Sasho & Popac Archive upload is currently Private while upload/processing/checks are pending. Broadcast, music and other third-party rights remain subject to verification.",
+      "verificationStatus": "vidIQ visual analysis confirms Miodrag Stanojkovic–Popac as the principal guest in Alfa TV's 'Еден бакнеж'. KR7uPxez29U (14:49) and iG2OMEExdzE (12:30) are not separate events: they overlap in studio, guest, hosts and interview topics and are best treated as alternate edits/source versions of the same appearance.",
+      "youtubeChecks": "Pending — YouTube Studio showed the new upload at 100% and still uploading at the captured moment.",
+      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — official Sasho & Popac Archive upload linked; processing/checks pending before publication.",
+      "sourceVersions": [
+        {
+          "relation": "primary-extended-excerpt",
+          "sourceTitle": "eden baknes Popac",
+          "sourceYoutubeId": "KR7uPxez29U",
+          "sourceOriginalUrl": "https://www.youtube.com/watch?v=KR7uPxez29U",
+          "duration": "14:49",
+          "sourcePublishedAt": "2014-03-31T11:17:56Z",
+          "channelTitle": "Tomislav Boceski",
+          "notes": "Includes show opening/hosts, a musical performance segment, then Popac interview. Ends mid-conversation."
+        },
+        {
+          "relation": "alternate-interview-only-excerpt",
+          "sourceTitle": "Miodrag Stanojkovic vo emisijata Eden Baknez 10 02 2013",
+          "sourceYoutubeId": "iG2OMEExdzE",
+          "sourceOriginalUrl": "https://www.youtube.com/watch?v=iG2OMEExdzE",
+          "duration": "12:30",
+          "sourcePublishedAt": "2013-02-14T15:04:05Z",
+          "channelTitle": "Tomislav Boceski",
+          "notes": "Interview-only edit from the same appearance. Source title supplies the date 10.02.2013."
+        }
+      ],
+      "archivalNote": "Canonical archive treatment: one event/record with two source edits. Do not create a second public canonical item for iG2OMEExdzE unless later file comparison demonstrates materially distinct content beyond the shared broadcast segment."
     }
   ],
   "gallery": [
