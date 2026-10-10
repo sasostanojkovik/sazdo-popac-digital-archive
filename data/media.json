@@ -679,7 +679,7 @@
           "duration": "03:48",
           "mediaType": "archive-video-master",
           "rightsStatus": "Private YouTube archive upload; YouTube Content ID: SME claim on „Rose (From \\\"Titanic\\\" Soundtrack)“ — James Horner and „My Heart Will Go On“ — Céline Dion. Делумно блокирано; нема copyright strike. Јавна derivative верзија без спорното аудио е планирана.",
-          "deploymentStatus": "PRIVATE ORIGINAL UPLOAD RETAINED. Rights-clean derivative MPS-0024-PUB-v2 is fully muxed and exported for final review in Descript; YouTube upload/checks pending.",
+          "deploymentStatus": "PUBLIC CANONICAL DERIVATIVE: MPS-0024-PUB-v2 published on YouTube with no notices/checks issues. Original partially blocked upload retained privately as archival evidence.",
           "sourceFilename": "atelje_so najnovi sliki.mpg",
           "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
           "sha256": "f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee",
@@ -712,15 +712,23 @@
           "publicDerivative": {
             "id": "MPS-0024-PUB-v2",
             "title": "MPS-0024-PUB-v2 — POPAC SIGNATURE MACEDONIAN 7/8",
-            "status": "final-review-export-ready",
+            "status": "public-canonical",
             "duration": "03:48",
             "soundtrack": "Original instrumental archive score in 7/8 Macedonian-inspired ethno smooth-jazz language; no original claimed soundtrack retained.",
             "audioMasterSha256": "e76da57f01a43f5ad460e1b0c2bcf5992b3de5bf241e3f21b672a54e0ccf2665",
             "descriptProjectUrl": "https://web.descript.com/0bec7fa4-1082-49d2-83da-9384d2fb4199/69c23",
             "descriptReviewUrl": "https://share.descript.com/view/qq5OnPNLxT2",
-            "exportStatus": "Private Descript video export completed successfully on 2026-10-10; YouTube upload/checks still pending.",
-            "rightsNote": "Original claimed source audio is muted in the derivative. Replacement score is newly created for this archive version and does not intentionally reproduce a recognizable existing master recording, melody, lyrics, or arrangement."
-          }
+            "exportStatus": "Published publicly on YouTube on 2026-10-10; YouTube checks reported no issues.",
+            "rightsNote": "Original claimed source audio is muted in the derivative. Replacement score is newly created for this archive version and does not intentionally reproduce a recognizable existing master recording, melody, lyrics, or arrangement.",
+            "youtubeUrl": "https://youtu.be/1__doW0TVw8",
+            "youtubeChecks": "No issues found",
+            "publishedAt": "2026-10-10"
+          },
+          "publicStatus": "public",
+          "officialYoutubeUrl": "https://youtu.be/1__doW0TVw8",
+          "canonicalPublicVersion": "MPS-0024-PUB-v2",
+          "youtubeChecks": "No issues found",
+          "publicationDate": "2026-10-10"
         },
         {
           "archiveId": "MPS-0025",
