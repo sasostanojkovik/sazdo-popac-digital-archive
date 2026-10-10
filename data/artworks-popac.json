@@ -127,11 +127,20 @@
       "mediaType": "youtube-archive-video",
       "description": "Видео-запис чиј изворен YouTube наслов го идентификува како „Во ателјето на уметникот“. Записот е поврзан со ателјето и визуелното уметничко наследство на Миодраг Станојковиќ – Попац. Точниот датум, местото, прикажаните дела, учесниците и правата за поединечните уметнички дела остануваат за визуелна/изворна верификација.",
       "source": "https://www.youtube.com/watch?v=KAGaVkaTVVc",
-      "rightsStatus": "Official Sasho & Popac Archive upload is Public. YouTube Studio shows a 'Partially blocked' notice on 2026-10-10. Exact claim, claimant, affected content and territories are not yet captured; item-level visual/artwork rights remain subject to archival verification.",
+      "rightsStatus": "MPS-0021-PUB-v2 is publicly visible on the official channel with replacement instrumental audio. Explicit YouTube Studio Checks/Notices status for the replacement upload remains pending capture. Previous upload np6V19-KgSU remains Public and Partially blocked until it is moved to Private as archival evidence.",
       "publicStatus": "public",
-      "officialYoutubeUrl": "https://youtu.be/np6V19-KgSU",
-      "notes": "Official public YouTube playback active as of 2026-10-10. Source provenance retained. Exact Content ID claim details, artwork metadata, date/location and participants remain pending verification.",
-      "duration": "03:49"
+      "officialYoutubeUrl": "https://youtu.be/MSjYXyYqfXY",
+      "notes": "Canonical public derivative MPS-0021-PUB-v2 published on 2026-10-10: https://youtu.be/MSjYXyYqfXY. Previous upload https://youtu.be/np6V19-KgSU remains Public and Partially blocked pending archival privatization after clean-check verification.",
+      "duration": "03:49",
+      "canonicalPublicVersion": "MPS-0021-PUB-v2",
+      "publicDerivative": {
+        "archiveId": "MPS-0021-PUB-v2",
+        "youtubeId": "MSjYXyYqfXY",
+        "youtubeUrl": "https://youtu.be/MSjYXyYqfXY",
+        "status": "public-canonical",
+        "publishedAt": "2026-10-10",
+        "youtubeChecks": "Pending explicit Studio capture"
+      }
     }
   ]
 }
