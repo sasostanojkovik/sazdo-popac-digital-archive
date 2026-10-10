@@ -17,7 +17,7 @@ This directory contains selected optimized H.264/AAC web derivatives used for co
 | `MPS-0003` | Таков е животот — Миодраг Станојковиќ – Попац | Public | https://youtu.be/HSZyC6Aswqg |
 | `MPS-0004` | Безгрижно девојче — Миодраг Станојковиќ – Попац | Public | https://youtu.be/d1YixjKLwgU |
 | `MPS-0005` | Црвени каранфили за Скопје — Миодраг Станојковиќ – Попац | Public | https://youtu.be/iS8P1QIY3YA |
-| `MPS-0007` | Матка – македонска пештера | Public · partially blocked in Russia and Belarus | https://youtu.be/I6sAYbkLlds |
+| `MPS-0007` | Матка – македонска пештера | Current upload Public · partially blocked; replacement `MPS-0007-PUB-v2` Water & Cave Edition prepared locally · YouTube checks pending | https://youtu.be/I6sAYbkLlds |
 | `MPS-0008` | Љубов и мотор — Миодраг Станојковиќ – Попац | Public · potential earning limitation shown in Studio | https://youtu.be/3nI2OFKJN6g |
 | `MPS-0009` | Кратка биографија — Миодраг Станојковиќ – Попац | Public · potential earning limitation shown in Studio | https://youtu.be/aGVKMeY1xHI |
 | `MPS-0010` | Беше еднаш во Скопје — Миодраг Станојковиќ – Попац | Public | https://youtu.be/SypKf2l_wfA |
