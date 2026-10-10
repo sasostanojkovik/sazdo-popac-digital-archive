@@ -27,7 +27,7 @@ This directory contains selected optimized H.264/AAC web derivatives used for co
 | `MPS-0016` | Промоција на CD и DVD – евергрин македонска музика — Дом на АРМ, Скопје — Миодраг Станојковиќ – Попац | Public · partially blocked | https://youtu.be/BWLaO469hVA |
 | `MPS-0018` | Децата од сиот свет — Миодраг Станојковиќ – Попац | Public · no notice shown in Studio | https://youtu.be/IDKqqsqnhs4 |
 | `MPS-0020` | Промоција на уметникот — Миодраг Станојковиќ – Попац | Public · no notice shown in Studio | https://youtu.be/vp71KpR3gCc |
-| `MPS-0021` | Во ателјето на уметникот — Миодраг Станојковиќ – Попац | Private · processing/checks pending | https://youtu.be/np6V19-KgSU |
+| `MPS-0021` | Во ателјето на уметникот — Миодраг Станојковиќ – Попац | Public · partially blocked | https://youtu.be/np6V19-KgSU |
 | `MPS-0024` | Ателје со најнови слики — Миодраг Станојковиќ – Попац | Private · partially blocked; retained for archival evidence | YouTube Studio upload |
 | `MPS-0025` | Слики од старо Скопје — Миодраг Станојковиќ – Попац | Public · checks completed with no issues | Official channel upload |
 
