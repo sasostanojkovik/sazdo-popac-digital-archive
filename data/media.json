@@ -49,7 +49,38 @@
       "visibility": "public",
       "youtubeChecks": "Checks complete — no issues found (YouTube Studio, 2026-10-04).",
       "section": "popac-videos",
-      "collection": "Видеа на Попац"
+      "collection": "Видеа на Попац",
+      "sourceVersions": [
+        {
+          "relation": "duplicate-source-copy",
+          "sourceTitle": "Miodrag Stanojkovic - Bezgrizno devojce - Makedonska Zabavna Muzika - Evergrin",
+          "sourcePlatform": "YouTube",
+          "sourceYoutubeId": "zHlHd_-Os0o",
+          "sourceOriginalUrl": "https://www.youtube.com/watch?v=zHlHd_-Os0o",
+          "preservationCopyFileName": "MPS-0017_YouTube-access_2026-10-10.mp4",
+          "preservationCopySha256": "0ac6eac75e1ddc68be6a66a722fc6f1289e427e3927593927add6603a917db53",
+          "preservationCopyBytes": 4809373,
+          "technicalMetadata": {
+            "container": "MP4",
+            "durationSeconds": 127.686531,
+            "videoCodec": "H.264 / AVC",
+            "resolution": "320x240",
+            "frameRate": "25 fps",
+            "videoBitRate": "165655 bps",
+            "audioCodec": "AAC",
+            "audioSampleRate": "44100 Hz",
+            "audioChannels": "2 (stereo)",
+            "audioBitRate": "127999 bps",
+            "embeddedArtworkStream": "MJPEG 480x360",
+            "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
+          },
+          "visualReview": "Black-and-white music/performance footage matching the existing 'Безгрижно девојче' record context.",
+          "duplicateResolution": "Merged into canonical MPS-0004; no separate public archive record retained.",
+          "privateReuploadUrl": "https://youtu.be/0TpFg3wqwsQ",
+          "reviewedDate": "2026-10-10"
+        }
+      ],
+      "archivalNote": "Canonical record retained as MPS-0004. Alternate/source-derived copy from YouTube ID zHlHd_-Os0o was reviewed on 2026-10-10 and absorbed as provenance/version metadata rather than kept as a separate public record."
     },
     {
       "archiveId": "MPS-0005",
@@ -415,24 +446,6 @@
       "youtubePublishDate": "2026-10-10",
       "youtubeNotice": "Partially blocked",
       "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is the canonical public playback. YouTube Studio shows a 'Partially blocked' notice; exact claim details and affected territories remain to be documented. Date 13.12.2010 and location Дом на АРМ, Скопје come from the source title and remain pending independent archival verification."
-    },
-    {
-      "archiveId": "MPS-0017",
-      "title": "Безгрижно девојче — можен дупликат/алтернативен извор",
-      "description": "Јавен YouTube видео-линк доставен за дигиталната архива на Саздо & Попац. Точниот наслов, датумот, учесниците и односот кон другите архивски снимки ќе се дополнат по директна визуелна/авторска верификација.",
-      "youtubeId": "zHlHd_-Os0o",
-      "externalUrl": "https://www.youtube.com/watch?v=zHlHd_-Os0o",
-      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
-      "sourceTitle": "Miodrag Stanojkovic - Bezgrizno devojce - Makedonska Zabavna Muzika - Evergrin",
-      "sourcePlatform": "YouTube",
-      "sourceYoutubeId": "zHlHd_-Os0o",
-      "sourceOriginalUrl": "https://www.youtube.com/watch?v=zHlHd_-Os0o",
-      "duplicateCandidateOf": "MPS-0004",
-      "pendingYoutubeUploadUrl": "https://youtu.be/0TpFg3wqwsQ",
-      "visibility": "private",
-      "verificationStatus": "YouTube Studio confirms the uploaded filename/source title as 'Miodrag Stanojkovic - Bezgrizno devojce - Makedonska Zabavna Muzika - Evergrin'. This strongly overlaps with existing canonical record MPS-0004 'Безгрижно девојче'. Exact 1:1 audiovisual identity has not yet been verified by file/hash comparison.",
-      "publicationStatus": "HOLD — probable duplicate/alternate source of MPS-0004; do not publish as a separate canonical record until file comparison is completed.",
-      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — processing pending; probable duplicate/alternate source of MPS-0004."
     },
     {
       "archiveId": "MPS-0018",
