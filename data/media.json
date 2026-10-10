@@ -604,11 +604,11 @@
       "externalUrl": "https://youtu.be/bHWADshTJAw",
       "officialYoutubeUrl": "https://youtu.be/bHWADshTJAw",
       "canonicalSource": "https://youtu.be/bHWADshTJAw",
-      "visibility": "private",
-      "rightsStatus": "Official Sasho & Popac Archive upload is currently Private while upload/processing/checks are pending. Broadcast, music and other third-party rights remain subject to verification.",
-      "verificationStatus": "vidIQ visual analysis confirms Miodrag Stanojkovic–Popac as the principal guest in Alfa TV's 'Еден бакнеж'. KR7uPxez29U (14:49) and iG2OMEExdzE (12:30) are not separate events: they overlap in studio, guest, hosts and interview topics and are best treated as alternate edits/source versions of the same appearance.",
+      "visibility": "public",
+      "rightsStatus": "Official Sasho & Popac Archive upload is Public. Broadcast, music and other third-party rights remain subject to verification.",
+      "verificationStatus": "Public channel page confirms MPS-0026 is published on the official Sasho & Popac Archive channel with duration 14:49. vidIQ visual analysis confirms Miodrag Stanojkovic–Popac as the principal guest in Alfa TV's 'Еден бакнеж'. KR7uPxez29U and iG2OMEExdzE remain catalogued as alternate edits/source versions of the same appearance.",
       "youtubeChecks": "Pending — YouTube Studio showed the new upload at 100% and still uploading at the captured moment.",
-      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — official Sasho & Popac Archive upload linked; processing/checks pending before publication.",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active.",
       "sourceVersions": [
         {
           "relation": "primary-extended-excerpt",
@@ -631,7 +631,8 @@
           "notes": "Interview-only edit from the same appearance. Source title supplies the date 10.02.2013."
         }
       ],
-      "archivalNote": "Canonical archive treatment: one event/record with two source edits. Do not create a second public canonical item for iG2OMEExdzE unless later file comparison demonstrates materially distinct content beyond the shared broadcast segment."
+      "archivalNote": "Canonical archive treatment: one event/record with two source edits. Do not create a second public canonical item for iG2OMEExdzE unless later file comparison demonstrates materially distinct content beyond the shared broadcast segment.",
+      "youtubePublishDate": "2026-10-10"
     }
   ],
   "gallery": [
