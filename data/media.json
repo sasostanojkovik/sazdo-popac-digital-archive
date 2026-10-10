@@ -255,7 +255,17 @@
         "sourceUrls": [
           "https://novice.kulturnik.si/cat/glasba/before/2015-02-06"
         ]
-      }
+      },
+      "relatedRadioSources": [
+        {
+          "sourceId": "RADIO-RS-2015-02-08-OPATIJA-VOL1",
+          "broadcaster": "Radio Študent",
+          "programme": "ZLATA LETA OPATIJSKEGA FESTIVALA VOL. 1 1958-1968",
+          "timestamp": "32:40",
+          "timestampSeconds": 1960,
+          "relation": "Radio retrospective segment indexed under Miodrag Stanojković; exact recording/master comparison pending."
+        }
+      ]
     },
     {
       "archiveId": "MPS-0009",
@@ -1103,7 +1113,7 @@
       "status": "direct-audio-source-confirmed",
       "discovered": "2026-10-10",
       "evidence": "Radio Študent maintains a dedicated creator/taxonomy page for 'Miodrag Stanojković'. That page links directly to the programme 'ZLATA LETA OPATIJSKEGA FESTIVALA VOL. 1 1958-1968', category 'Nedeljska šlagerica', broadcast on 2015-02-08 at 11:00, authored by Marko Doles, with a preserved 55:54 MP3 recording. This confirms that Radio Študent's archive explicitly indexes the programme under Miodrag Stanojković.",
-      "nextAction": "Acquire/listen to the preserved 55:54 programme audio and timestamp the exact Miodrag Stanojković / 'Ljubov i motor' segment. Compare the aired recording with Popac's surviving archive recording and Opatija/PGP RTB metadata before creating a separate MPS audio item.",
+      "nextAction": "Compare the Radio Student segment beginning at 32:40 with Popac's surviving 'Ljubov i motor' archive recording and with Opatija/PGP RTB metadata. Determine whether it is the same master, an alternate festival/radio version, or a different performance.",
       "url": "https://novice.kulturnik.si/cat/glasba/before/2015-02-06",
       "lastVerified": "2026-10-10",
       "programme": {
@@ -1126,7 +1136,10 @@
         "https://radiostudent.si/glasba/nedeljska-slagerica/zlata-leta-opatijskega-festivala-vol-1-1958-1968",
         "https://radiostudent.si/sites/default/files/posnetki/Nedeljska%20%C5%A1lagerica/2015-02-08-nedeljska-%C5%A1lagerica-zlata-leta-opatijskega-festivala-vol-1-1958-1968.mp3"
       ],
-      "sourceCapturedFrom": "User-supplied saved HTML from Radio Študent creator page"
+      "sourceCapturedFrom": "User-supplied saved HTML from Radio Študent creator page",
+      "segmentTimestamp": "32:40",
+      "segmentTimestampSeconds": 1960,
+      "segmentTimestampSource": "User-confirmed by direct listening on 2026-10-10"
     }
   ],
   "excludedResearchHits": [
@@ -1167,7 +1180,10 @@
       "mp3Url": "https://radiostudent.si/sites/default/files/posnetki/Nedeljska%20%C5%A1lagerica/2015-02-08-nedeljska-%C5%A1lagerica-zlata-leta-opatijskega-festivala-vol-1-1958-1968.mp3",
       "programmeUrl": "https://radiostudent.si/glasba/nedeljska-slagerica/zlata-leta-opatijskega-festivala-vol-1-1958-1968",
       "creatorUrl": "https://radiostudent.si/ustvarjalci/miodrag-stanojkovic",
-      "status": "public-radio-archive-source-confirmed-timestamp-pending"
+      "status": "public-radio-archive-source-confirmed-popac-segment-located",
+      "popacSegmentTimestamp": "32:40",
+      "popacSegmentTimestampSeconds": 1960,
+      "popacSegmentTimestampSource": "User-confirmed by direct listening"
     }
   ]
 }
