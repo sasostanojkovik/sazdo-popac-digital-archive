@@ -959,15 +959,55 @@
     {
       "id": "POPAC-RL-002",
       "type": "institutional-archive",
-      "title": "MRT / Macedonian Radio audio documentation and phonotheque",
-      "status": "high-priority-source",
+      "title": "Македонско радио — Одделение за аудио документација и фонотека",
+      "status": "highest-priority-source-direct-contact-path-confirmed",
       "discovered": "2026-10-10",
-      "evidence": "MRT states that its audio documentation/phonotheque receives and documents radio tapes and CDs and stores studio tapes, gramophone records and CDs in a searchable database.",
-      "nextAction": "Search/request holdings under Миодраг Станојковиќ, Миодраг Станојковиќ-Попац, Miodrag Stanojkovic, Miodrag Stanojković and Popac; request title, performer, author, recording/broadcast date and catalogue/signature metadata.",
+      "evidence": "MRT's own organizational acts state that the Audio Documentation and Phonotheque Department of Macedonian Radio receives radio tapes and CDs containing programmes, listens and documents them, assigns a computer number, and stores/searches documented material. The phonotheque contains studio tapes, gramophone records and CDs. MRT's current contact page also confirms Macedonian Radio's active programme services and lists the First Programme editor/contact, giving us a direct institutional route for an archive request.",
+      "searchNames": [
+        "Миодраг Станојковиќ",
+        "Миодраг Станојковиќ-Попац",
+        "Попац",
+        "Miodrag Stanojkovic",
+        "Miodrag Stanojković",
+        "Miodrag Stanoјković"
+      ],
+      "searchTitles": [
+        "Љубов и мотор",
+        "Таков е животот",
+        "Безгрижно девојче",
+        "Црвени каранфили за Скопје",
+        "Беше еднаш во Скопје",
+        "Кога бев млад",
+        "Децата од сиот свет"
+      ],
+      "requestFields": [
+        "наслов на снимка/емисија",
+        "изведувач",
+        "композитор",
+        "текстописец",
+        "аранжер",
+        "датум на снимање",
+        "датум на емитување",
+        "студио/емисија",
+        "траење",
+        "архивски/компјутерски број",
+        "носител: студиска лента / грамофонска плоча / CD",
+        "статус и услови за преслушување/копија"
+      ],
+      "nextAction": "Send a formal archive research request to Macedonian Radio asking the Audio Documentation and Phonotheque Department to search all name/transliteration variants and known titles, and to return catalogue metadata plus conditions for listening or obtaining preservation copies.",
+      "contactRoute": {
+        "organization": "ЈРП Македонска радиотелевизија — Македонско радио",
+        "mainSwitchboard": "+389 02 5119 899",
+        "firstProgrammeEditor": "Снежана Димовска",
+        "firstProgrammePhone": "+389 02 5119-837",
+        "address": "Бул. Гоце Делчев б.б., 1000 Скопје"
+      },
       "urls": [
-        "https://www.mrt.com.mk/node/29486",
+        "https://mrt.com.mk/node/29486",
+        "https://mrt.com.mk/kontakt",
         "https://www.mrt.com.mk/sites/default/files/%D0%9F%D0%A0%D0%90%D0%92%D0%98%D0%9B%D0%9D%D0%98%D0%9A%20%D0%97%D0%90%20%D0%90%D0%A0%D0%A5%D0%98%D0%92%D0%98%D0%A0%D0%90%D0%8A%D0%95%20%D0%A1%D0%9E%20%D0%92%D0%9A%D0%9B%D0%A3%D0%A7%D0%95%D0%9D%20%D0%A6%D0%95%D0%9D%D0%9E%D0%92%D0%9D%D0%98%D0%9A.pdf"
-      ]
+      ],
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "POPAC-RL-003",
