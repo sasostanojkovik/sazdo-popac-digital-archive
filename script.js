@@ -29,6 +29,7 @@ fetch('data/media.json', { cache: 'no-store' })
     renderStats(data);
     renderBooks(data.books || []);
     renderMusic(data.music || []);
+    renderResearch(data.researchLeads || []);
     renderVideos(data.videos || []);
     renderGallery(data.gallery || []);
   })
@@ -75,6 +76,26 @@ function renderMusic(items) {
       <div class="music-num">${pad(idx + 1)}</div>
       <div><h3>${esc(item.title)}</h3><p>${esc(item.description)}</p></div>
       <div class="status">${esc(item.status || 'чека каталогизација')}</div>`;
+    host.appendChild(card);
+  });
+}
+
+function renderResearch(items) {
+  const host = q('#research-grid');
+  if (!host) return;
+  items.forEach((item, idx) => {
+    const card = document.createElement('article');
+    card.className = 'research-card';
+    const urls = item.urls || (item.url ? [item.url] : []);
+    const links = urls.map((url, i) => `<a class="research-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Извор ${urls.length > 1 ? i + 1 : ''} ↗</a>`).join('');
+    card.innerHTML = `
+      <div class="research-code">DISCOVERY ${pad(idx + 1)} · ${esc(item.id || '')}</div>
+      <h3>${esc(item.title || '')}</h3>
+      <div class="research-status">${esc(item.status || 'pending-verification')}</div>
+      ${item.evidence ? `<p class="research-evidence">${esc(item.evidence)}</p>` : ''}
+      ${item.nextAction ? `<p class="research-next"><strong>Следно:</strong> ${esc(item.nextAction)}</p>` : ''}
+      ${links ? `<div class="research-links">${links}</div>` : ''}
+    `;
     host.appendChild(card);
   });
 }
