@@ -1171,6 +1171,46 @@
         "https://rts.rs/magazin/kultura/kultura/1707776/.html?print=true"
       ],
       "lastVerified": "2026-10-10"
+    },
+    {
+      "id": "POPAC-RL-013",
+      "type": "international-radio-tv-archive",
+      "title": "RAI / Rai Teche — италијанска радио-телевизиска архива",
+      "status": "high-priority-internal-catalog-search-needed",
+      "discovered": "2026-10-10",
+      "evidence": "Targeted public searches of Rai/Rai Teche for Miodrag Stanojkovic/Stanojković, 'Ljubav/Ljubov i motor' and Opatija/Abbazia 1962 produced no direct Popac hit. Rai Teche states, however, that its unified multimedia catalogue covers national and regional radio/TV holdings and cannot be fully published on the web for rights reasons. Rai's media libraries provide access to the complete audiovisual archive, including radio and television programmes, scripts, scores, photographs and historical periodicals. Rai Com also offers catalogue access on request.",
+      "searchNames": [
+        "Miodrag Stanojkovic",
+        "Miodrag Stanojković",
+        "Miodrag Stanojkovitch",
+        "Miodrag Stanoikovitch",
+        "Popac"
+      ],
+      "searchTitles": [
+        "Ljubav i motor",
+        "Ljubov i motor",
+        "Opatija 1962",
+        "Abbazia 1962",
+        "Festival di Abbazia",
+        "Jugoslavia musica leggera 1962"
+      ],
+      "nextAction": "Request an internal Rai Teche catalogue search for all name variants plus Opatija/Abbazia 1962 and 'Ljubav/Ljubov i motor'. Ask specifically for radio programme logs, international/JRT exchange material, variety/music programmes, Radiocorriere listings, scripts and any audio/film items involving Yugoslav performers. If a relevant item exists, request catalogue metadata and listening/viewing conditions before creating an MPS item.",
+      "contactRoute": {
+        "RaiTecheCustomerService": "service@rai.it",
+        "RaiComLibrary": "library@rai.it",
+        "RaiComCatalogOnline": "raicomcatalogonline@rai.it",
+        "RomeMediaLibrary": "biblioteu@rai.it",
+        "RomeAddress": "Via Teulada 66, 00195 Roma"
+      },
+      "urls": [
+        "https://www.teche.rai.it/chi-siamo-2/",
+        "https://www.teche.rai.it/biblioteche-rai/",
+        "https://www.teche.rai.it/contatta-le-teche-rai/",
+        "https://www.raicom.rai.it/teche-e-servizi-produttivi/",
+        "https://www.teche.rai.it/richiesta-dei-materiali-rai-teche/",
+        "https://www.teche.rai.it/varieta-1961-1963/"
+      ],
+      "lastVerified": "2026-10-10"
     }
   ],
   "excludedResearchHits": [
