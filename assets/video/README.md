@@ -27,7 +27,7 @@ This directory contains selected optimized H.264/AAC web derivatives used for co
 | `MPS-0016` | Промоција на CD и DVD – евергрин македонска музика — Дом на АРМ, Скопје — Миодраг Станојковиќ – Попац | Public canonical derivative `MPS-0016-PUB-v2` · YouTube Studio: no notices; previous upload remains public/partially blocked pending privatization | https://youtu.be/3Zud6xFjgeA |
 | `MPS-0018` | Децата од сиот свет — Миодраг Станојковиќ – Попац | Public · no notice shown in Studio | https://youtu.be/IDKqqsqnhs4 |
 | `MPS-0020` | Промоција на уметникот — Миодраг Станојковиќ – Попац | Public · no notice shown in Studio | https://youtu.be/vp71KpR3gCc |
-| `MPS-0021` | Во ателјето на уметникот — Миодраг Станојковиќ – Попац | Public canonical derivative `MPS-0021-PUB-v2` · YouTube Studio: no notices | https://youtu.be/MSjYXyYqfXY |
+| `MPS-0021` | Во ателјето на уметникот — Миодраг Станојковиќ – Попац | Public canonical derivative `MPS-0021-PUB-v2` · YouTube Studio: no notices · previous partially blocked upload now Private archival evidence | https://youtu.be/MSjYXyYqfXY |
 | `MPS-0026` | Еден бакнеж — интервју со Миодраг Станојковиќ – Попац | Public | https://youtu.be/bHWADshTJAw |
 | `MPS-0024` | Ателје со најнови слики — Миодраг Станојковиќ – Попац | Public canonical derivative `MPS-0024-PUB-v2` · YouTube checks: no issues | https://youtu.be/1__doW0TVw8 |
 | `MPS-0025` | Слики од старо Скопје — Миодраг Станојковиќ – Попац | Public · checks completed with no issues | Official channel upload |
