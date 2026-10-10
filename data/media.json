@@ -405,12 +405,16 @@
       "sourceThumbnail": "https://i.ytimg.com/vi/tjRpZHf2apQ/hqdefault.jpg",
       "officialYoutubeUrl": "https://youtu.be/BWLaO469hVA",
       "canonicalSource": "https://youtu.be/BWLaO469hVA",
-      "visibility": "private",
+      "visibility": "public",
       "sourceDateLabel": "13.12.2010",
       "sourceLocationLabel": "Дом на АРМ, Скопје",
       "verificationStatus": "YouTube Studio confirms the official Sasho & Popac Archive upload URL and the uploaded filename/source title. Processing had not yet started at the captured moment. Date 13.12.2010 and location Дом на АРМ, Скопје come from the source title and remain pending independent verification.",
-      "youtubeChecks": "Pending — YouTube Studio showed 'Processing will begin shortly' at the captured moment.",
-      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — official Sasho & Popac Archive upload linked; processing/checks pending before publication."
+      "youtubeChecks": "YouTube Studio shows the video as Public and Published on 2026-10-10 with a 'Partially blocked' notice. The exact claim, claimant, affected content and territories are not yet captured.",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active; partially blocked according to YouTube Studio.",
+      "duration": "07:53",
+      "youtubePublishDate": "2026-10-10",
+      "youtubeNotice": "Partially blocked",
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is the canonical public playback. YouTube Studio shows a 'Partially blocked' notice; exact claim details and affected territories remain to be documented. Date 13.12.2010 and location Дом на АРМ, Скопје come from the source title and remain pending independent archival verification."
     },
     {
       "archiveId": "MPS-0017",
