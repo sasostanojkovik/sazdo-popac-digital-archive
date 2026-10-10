@@ -535,10 +535,14 @@
       "sourceThumbnail": "https://i.ytimg.com/vi/WU7g_oDVLx8/hqdefault.jpg",
       "officialYoutubeUrl": "https://youtu.be/vp71KpR3gCc",
       "canonicalSource": "https://youtu.be/vp71KpR3gCc",
-      "visibility": "private",
+      "visibility": "public",
       "verificationStatus": "YouTube Studio confirms the source filename/title and official Sasho & Popac Archive upload URL. At the captured moment the upload was complete but processing had not yet begun; duration, visual content and event details remain pending verification.",
-      "youtubeChecks": "Pending — YouTube Studio showed 'Processing will begin shortly' at the captured moment.",
-      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — official Sasho & Popac Archive upload linked; processing/checks pending before publication."
+      "youtubeChecks": "YouTube Studio shows the video as Public and Published on 2026-10-10 with no notice displayed.",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active; no notice shown in YouTube Studio.",
+      "duration": "01:41",
+      "youtubePublishDate": "2026-10-10",
+      "youtubeNotice": "none shown",
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. YouTube Studio shows the video as Public and Published on 2026-10-10 with no notice displayed. Exact event context, date, location, organizer and participants remain subject to archival verification."
     },
     {
       "archiveId": "MPS-0021",
