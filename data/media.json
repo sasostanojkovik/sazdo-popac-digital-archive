@@ -243,7 +243,19 @@
       "visibility": "public",
       "youtubePublishDate": "2026-10-07",
       "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active.",
-      "youtubeChecks": "Published Public on 2026-10-07. YouTube Studio shows 'Potential earning limitation'; exact underlying claim/ad-suitability reason has not yet been captured."
+      "youtubeChecks": "Published Public on 2026-10-07. YouTube Studio shows 'Potential earning limitation'; exact underlying claim/ad-suitability reason has not yet been captured.",
+      "authorshipResearch": {
+        "status": "CONFLICTING SOURCES — do not treat composition authorship as resolved",
+        "updated": "2026-10-10",
+        "findings": [
+          "Kulturnik/Radio Student retrospective list for Opatija-era schlager history identifies 'Ljubov i motor - Miodrag Stanojković' for 1962, supporting Popac as a documented performer associated with the song.",
+          "Separate discographic/catalogue sources for the Opatija 1962 repertoire attribute the composition to Aleksandar Dzambazov with lyrics by Nikola Drenovac and preserve other performers/versions; therefore performer credit must not be conflated with composition authorship."
+        ],
+        "archivePolicy": "Preserve Popac's performance as an archival recording. Do not claim that Popac composed the underlying work until original label, score, MRT phonotheque or monograph credits are verified.",
+        "sourceUrls": [
+          "https://novice.kulturnik.si/cat/glasba/before/2015-02-06"
+        ]
+      }
     },
     {
       "archiveId": "MPS-0009",
@@ -931,6 +943,94 @@
       "cover": "assets/books/book-8.svg",
       "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%201998&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%201998%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
       "status": "Достапноста и библиографските детали ќе се дополнуваат по авторска/каталошка потврда."
+    }
+  ],
+  "researchLeads": [
+    {
+      "id": "POPAC-RL-001",
+      "type": "music-compilation",
+      "title": "MIODRAG STANOJKOVIĆ - Makedonski hitovi 60' i 70' godina",
+      "status": "high-priority-pending-tracklist",
+      "discovered": "2026-10-10",
+      "evidence": "Muzika Balkana archive post dated 2016-07-13, tagged Makedonija / Zabavna muzika.",
+      "nextAction": "Locate tracklist, cover/label information and any surviving audio source; compare every title against existing MPS records before assigning new IDs.",
+      "url": "https://muzika-balkana.blogspot.com/2016/07/?m=0"
+    },
+    {
+      "id": "POPAC-RL-002",
+      "type": "institutional-archive",
+      "title": "MRT / Macedonian Radio audio documentation and phonotheque",
+      "status": "high-priority-source",
+      "discovered": "2026-10-10",
+      "evidence": "MRT states that its audio documentation/phonotheque receives and documents radio tapes and CDs and stores studio tapes, gramophone records and CDs in a searchable database.",
+      "nextAction": "Search/request holdings under Миодраг Станојковиќ, Миодраг Станојковиќ-Попац, Miodrag Stanojkovic, Miodrag Stanojković and Popac; request title, performer, author, recording/broadcast date and catalogue/signature metadata.",
+      "urls": [
+        "https://www.mrt.com.mk/node/29486",
+        "https://www.mrt.com.mk/sites/default/files/%D0%9F%D0%A0%D0%90%D0%92%D0%98%D0%9B%D0%9D%D0%98%D0%9A%20%D0%97%D0%90%20%D0%90%D0%A0%D0%A5%D0%98%D0%92%D0%98%D0%A0%D0%90%D0%8A%D0%95%20%D0%A1%D0%9E%20%D0%92%D0%9A%D0%9B%D0%A3%D0%A7%D0%95%D0%9D%20%D0%A6%D0%95%D0%9D%D0%9E%D0%92%D0%9D%D0%98%D0%9A.pdf"
+      ]
+    },
+    {
+      "id": "POPAC-RL-003",
+      "type": "institutional-video-archive",
+      "title": "MRT Archiver video database",
+      "status": "high-priority-source",
+      "discovered": "2026-10-10",
+      "evidence": "Public-facing MRT Archiver exposes a video asset list with fields including title, duration, genre, signature, LTO number and broadcast date; the indexed counter showed 2904 video assets.",
+      "nextAction": "Systematically search transliteration/name variants and known song/program titles; capture any matching asset ID, title, duration, broadcast date and signature before requesting access/copy.",
+      "urls": [
+        "https://arhiva.mrt.com.mk/video",
+        "https://arhiva.mrt.com.mk/index/set_language/mk?sort=title&sort_type=asc"
+      ]
+    },
+    {
+      "id": "POPAC-RL-004",
+      "type": "monograph",
+      "title": "Сеќавање на Миодраг Станојковиќ-Попац",
+      "status": "verified-existence-copy-pending",
+      "discovered": "2026-10-10",
+      "evidence": "Listed in Ministry of Culture programme material as a monograph, associated with Slobodanka Stanojkovik.",
+      "nextAction": "Locate physical/digital copy and extract discography, chronology, photographs, festival appearances, TV/radio programmes and rights/credit information.",
+      "url": "https://www.yumpu.com/en/document/view/54979276/-"
+    },
+    {
+      "id": "POPAC-RL-005",
+      "type": "visual-art-exhibition",
+      "title": "ЖИВОТЕН ВАЛЦЕР — ретроспективна изложба, Миодраг Станојковиќ Попац (1936–2013)",
+      "status": "verified-reference-catalogue-pending",
+      "discovered": "2026-10-10",
+      "evidence": "Referenced in a visual-arts programme/document as a retrospective exhibition.",
+      "nextAction": "Locate exhibition catalogue, organizer, venue, date, photographs and any recorded opening/interview footage; cross-link to MPS-0015/MPS-0020/MPS-0021 if related.",
+      "url": "https://www.scribd.com/document/457027838/%D0%92%D0%98%D0%97%D0%A3%D0%95%D0%9B%D0%9D%D0%98-%D0%A3%D0%9C%D0%95%D0%A2%D0%9D%D0%9E%D0%A1%D0%A2%D0%98-%D0%90%D0%A0%D0%A5%D0%98%D0%A2%D0%95%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%98-%D0%94%D0%98%D0%97%D0%90%D0%88%D0%9D"
+    },
+    {
+      "id": "POPAC-RL-006",
+      "type": "festival-performance",
+      "title": "Љубов и мотор — documented 1962 performance association",
+      "status": "verified-performance-association-authorship-unresolved",
+      "discovered": "2026-10-10",
+      "evidence": "A retrospective list of Yugoslav schlager/festival repertoire identifies 'Ljubov i motor - Miodrag Stanojković 1962'.",
+      "nextAction": "Verify original Opatija 1962 programme/label/score and MRT phonotheque credits to distinguish performer, composer, lyricist and arrangement.",
+      "url": "https://novice.kulturnik.si/cat/glasba/before/2015-02-06"
+    },
+    {
+      "id": "POPAC-RL-007",
+      "type": "municipal-record",
+      "title": "Општина Карпош 2011 — Миодраг Станојковиќ-Попац",
+      "status": "context-only",
+      "discovered": "2026-10-10",
+      "evidence": "A 2011 municipal official gazette lists 'Станојковиќ Миодраг- Попац' with an amount of 10,000.00 denars; the indexed excerpt alone does not identify the exact project/purpose.",
+      "nextAction": "Read surrounding decision pages before linking this payment to any specific artistic project.",
+      "url": "https://karpos.gov.mk/Upload/Editor_Upload/Sluzbeni%20Glasnici%202011/sl_glasnik03-2011.pdf"
+    },
+    {
+      "id": "POPAC-RL-008",
+      "type": "secondary-biographical-trace",
+      "title": "Skopje street/solo performing reference",
+      "status": "secondary-source-context",
+      "discovered": "2026-10-10",
+      "evidence": "A Kajgana forum repost/reference describes a Miodrag Stanojkovik in Skopje among experienced solo performers/band musicians. Name/nickname alignment should be checked before treating it as definitive Popac biography.",
+      "nextAction": "Trace the quoted original article/source and verify identity, date and context.",
+      "url": "https://forum.kajgana.com/threads/skopski-legendi.62670/page-2"
     }
   ]
 }
