@@ -24,7 +24,7 @@ This directory contains selected optimized H.264/AAC web derivatives used for co
 | `MPS-0012` | Кога бев млад — Миодраг Станојковиќ – Попац | Public | https://youtu.be/U8S0-8hDgOE |
 | `MPS-0014` | Емисија „Ексклузив“ — „Беше еднаш во Скопје“ — Миодраг Станојковиќ – Попац | Public · no notices shown in Studio | https://youtu.be/TEzYaqerlQ0 |
 | `MPS-0015` | Промоција на уметнички слики — Миодраг Станојковиќ – Попац | Public · checks complete, no issues | https://youtu.be/0wsYRqhiLyA |
-| `MPS-0016` | Промоција на CD и DVD – евергрин македонска музика — Дом на АРМ, Скопје — Миодраг Станојковиќ – Попац | Public · partially blocked | https://youtu.be/BWLaO469hVA |
+| `MPS-0016` | Промоција на CD и DVD – евергрин македонска музика — Дом на АРМ, Скопје — Миодраг Станојковиќ – Попац | Public canonical derivative `MPS-0016-PUB-v2` · YouTube Studio: no notices; previous upload remains public/partially blocked pending privatization | https://youtu.be/3Zud6xFjgeA |
 | `MPS-0018` | Децата од сиот свет — Миодраг Станојковиќ – Попац | Public · no notice shown in Studio | https://youtu.be/IDKqqsqnhs4 |
 | `MPS-0020` | Промоција на уметникот — Миодраг Станојковиќ – Попац | Public · no notice shown in Studio | https://youtu.be/vp71KpR3gCc |
 | `MPS-0021` | Во ателјето на уметникот — Миодраг Станојковиќ – Попац | Public canonical derivative `MPS-0021-PUB-v2` · YouTube Studio: no notices | https://youtu.be/MSjYXyYqfXY |
