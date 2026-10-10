@@ -686,7 +686,16 @@
           "localFile": "assets/video/mps-0024-atelje-popac-web.mp4",
           "posterTime": 20,
           "posterLabel": "Ателје со најнови слики",
-          "posterSubtitle": "Уметнички слики – Попац"
+          "posterSubtitle": "Уметнички слики – Попац",
+          "derivativeScore": {
+            "title": "MPS-0024-PUB-v1 — POPAC SIGNATURE ORIGINAL SCORE",
+            "status": "score-created-mux-pending",
+            "duration": "03:48",
+            "format": "AAC / M4A",
+            "sha256": "aedfa2758fa61f7245163c2bb0b96a22adce850e85fa812398928b834cc505d1",
+            "descriptProjectUrl": "https://web.descript.com/5e84391d-6802-4f20-b893-a271ac7a52ba/1e3bd",
+            "note": "Complete original instrumental replacement score prepared for the public derivative. Final placement/export is pending."
+          }
         },
         {
           "archiveId": "MPS-0025",
