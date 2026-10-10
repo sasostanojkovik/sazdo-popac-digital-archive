@@ -1062,9 +1062,10 @@
       "title": "Slovenian Radio Student / Kulturnik retrospective — Popac in Yugoslav schlager chronology",
       "status": "verified-secondary-performance-reference",
       "discovered": "2026-10-10",
-      "evidence": "The Slovenian Kulturnik archive reproduces a Radio Student retrospective programme on the Opatija festival and places 'Ljubov i motor - Miodrag Stanojković 1962' among Yugoslav schlager selections from 1958-1968.",
-      "nextAction": "Trace the underlying Radio Student broadcast/playlist metadata and determine which recording was aired; request audio if preserved.",
-      "url": "https://novice.kulturnik.si/cat/glasba/before/2015-02-06"
+      "evidence": "Kulturnik reproduces a Radio Student retrospective programme covering Opatija schlager repertoire 1958-1968. In the published playlist, item #9 is 'Ljubov i motor - Miodrag Stanojković 1962', immediately followed by #10 'Eden baknež - Zoran Georgiev 1962'. This is stronger than a generic mention because it places Popac explicitly inside a curated Yugoslav festival chronology.",
+      "nextAction": "Trace the underlying Radio Student broadcast/playlist metadata and, if preserved, the exact recording aired. Compare that audio against Popac's surviving recording and against Opatija/PGP RTB issue metadata.",
+      "url": "https://novice.kulturnik.si/cat/glasba/before/2015-02-06",
+      "lastVerified": "2026-10-10"
     }
   ],
   "excludedResearchHits": [
@@ -1075,5 +1076,18 @@
       "evidence": "Kinoteka chronology for 1999 states that film materials were acquired from 'Miodrag Stanojković of Kumanovo'. No source found in this pass links that person to Miodrag Stanojković-Popac (1936-2013), so the record must not be merged into the Popac archive without independent identity evidence.",
       "url": "https://kinoteka.mk/wp-content/uploads/2019/02/Kinopis-33-34-za-WEB-LR-2.pdf"
     }
-  ]
+  ],
+  "regionalResearchAudit": {
+    "updated": "2026-10-10",
+    "scope": [
+      "Former Yugoslav festival history and Opatija retrospective sources",
+      "Serbian/RTS indexed archives and Trezor pages",
+      "Slovenian dLib/Kulturnik and Radio Student indexed material",
+      "Croatian/HRT and regional web-indexed catalogue traces",
+      "PGP RTB/Jugoton/Diskos collector-discography traces",
+      "National-library and archival web-indexed references"
+    ],
+    "result": "No additional securely identified Popac song title or new audiovisual master was discovered in this pass beyond the already captured Opatija 1962 / 'Ljubov i motor' evidence and the 'Makedonski hitovi 60' i 70' godina' collector compilation lead.",
+    "caution": "Numerous same-name Miodrag Stanojković/Stanojkovic hits refer to unrelated persons. These must not be merged without independent identity evidence."
+  }
 }
