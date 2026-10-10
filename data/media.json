@@ -1140,6 +1140,37 @@
       "segmentTimestamp": "32:40",
       "segmentTimestampSeconds": 1960,
       "segmentTimestampSource": "User-confirmed by direct listening on 2026-10-10"
+    },
+    {
+      "id": "POPAC-RL-012",
+      "type": "institutional-radio-archive",
+      "title": "Радио Београд / РТС — Фонотека и Архив Радио Београда",
+      "status": "highest-priority-source-public-index-no-direct-popac-hit",
+      "discovered": "2026-10-10",
+      "evidence": "Public RTS pages confirm that Radio Beograd maintains a major phonotheque/tone archive. RTS reported about 60,000 hours of preserved sound recordings, while RTS Planeta exposes a dedicated 'Arhiv Radio Beograda' area including 'Muzika iz fonoteke'. Targeted public-web searches for Miodrag Stanojković/Stanojkovic/Миодраг Станојковић and 'Ljubav/Ljubov i motor' returned no direct indexed Popac result, so absence from web search must not be treated as absence from the internal archive.",
+      "searchNames": [
+        "Миодраг Станојковиќ",
+        "Миодраг Станојковић",
+        "Miodrag Stanojkovic",
+        "Miodrag Stanojković",
+        "Попац",
+        "Popac"
+      ],
+      "searchTitles": [
+        "Ljubav i motor",
+        "Ljubov i motor",
+        "Љубов и мотор",
+        "Opatija 1962",
+        "Опатија 1962"
+      ],
+      "nextAction": "Contact Radio Beograd/RTS phonotheque/archive directly and request an internal catalogue search for all name variants, Opatija 1962, 'Ljubav/Ljubov i motor', and any Radio Skopje/JRT exchange recordings. Ask specifically for catalogue card, performer, recording date, programme, duration, master/carrier ID and listening/copy conditions.",
+      "urls": [
+        "https://rts.rs/radio/radio-beograd-3/emisija/6805/iz-arhive-radio-beograda.html?s=6805",
+        "https://www.rts.rs/radio/arhiv.html",
+        "https://rtsplaneta.rs/category/214/arhiv-radio-beograda",
+        "https://rts.rs/magazin/kultura/kultura/1707776/.html?print=true"
+      ],
+      "lastVerified": "2026-10-10"
     }
   ],
   "excludedResearchHits": [
