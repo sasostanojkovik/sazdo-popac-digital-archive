@@ -562,10 +562,14 @@
       "sourceThumbnail": "https://i.ytimg.com/vi/KAGaVkaTVVc/hqdefault.jpg",
       "officialYoutubeUrl": "https://youtu.be/np6V19-KgSU",
       "canonicalSource": "https://youtu.be/np6V19-KgSU",
-      "visibility": "private",
+      "visibility": "public",
       "verificationStatus": "YouTube Studio confirms the source filename/title and official Sasho & Popac Archive upload URL. At the captured moment the upload was complete but processing had not yet begun; duration, artwork details, date/location and participant metadata remain pending verification.",
-      "youtubeChecks": "Pending — YouTube Studio showed 'Processing will begin shortly' at the captured moment.",
-      "deploymentStatus": "PRIVATE YOUTUBE UPLOAD — official Sasho & Popac Archive upload linked; processing/checks pending before publication."
+      "youtubeChecks": "YouTube Studio shows the video as Public and Published on 2026-10-10 with a 'Partially blocked' notice. Exact claim, claimant, affected content and territories are not yet captured.",
+      "deploymentStatus": "PUBLIC YOUTUBE PLAYBACK — official Sasho & Popac Archive upload active; partially blocked according to YouTube Studio.",
+      "duration": "03:49",
+      "youtubePublishDate": "2026-10-10",
+      "youtubeNotice": "Partially blocked",
+      "archivalNote": "Original source provenance is preserved via sourceYoutubeId/sourceOriginalUrl. The official Sasho & Popac Archive upload is now the canonical public playback. YouTube Studio shows a 'Partially blocked' notice; exact claim details and affected territories remain to be documented. Artwork details, date/location and participant metadata remain subject to archival verification."
     },
     {
       "archiveId": "MPS-0022",
