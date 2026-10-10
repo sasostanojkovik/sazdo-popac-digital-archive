@@ -706,7 +706,10 @@
       "portalPlaybackStatus": "PUBLIC — legacy/source YouTube embed active; official Sasho & Popac Archive mirror pending",
       "visibility": "public-source-only",
       "deploymentStatus": "SOURCE EMBED ACTIVE — official archive-channel mirror not yet created",
-      "archivalNote": "The current portal player uses the original/source YouTube upload J8yHsaMI7f4. The preserved MP4 access copy is available for preparation of an official Sasho & Popac Archive mirror, but no new official-channel YouTube ID has been assigned yet."
+      "archivalNote": "The current portal player uses the original/source YouTube upload J8yHsaMI7f4. The preserved MP4 access copy is available for preparation of an official Sasho & Popac Archive mirror, but no new official-channel YouTube ID has been assigned yet.",
+      "section": "popac-videos",
+      "collection": "Видеа на Попац",
+      "portalPlacement": "ВИДЕА НА ПОПАЦ"
     },
     {
       "archiveId": "MPS-0026",
