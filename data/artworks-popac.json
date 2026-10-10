@@ -78,10 +78,11 @@
       "mediaType": "youtube-archive-video",
       "description": "Видео-запис чиј изворен YouTube наслов го идентификува како „Во ателјето на уметникот“. Записот е поврзан со ателјето и визуелното уметничко наследство на Миодраг Станојковиќ – Попац. Точниот датум, местото, прикажаните дела, учесниците и правата за поединечните уметнички дела остануваат за визуелна/изворна верификација.",
       "source": "https://www.youtube.com/watch?v=KAGaVkaTVVc",
-      "rightsStatus": "Official Sasho & Popac Archive upload created as Private; YouTube processing/checks pending. Item-level visual/artwork rights and contextual metadata remain subject to archival verification.",
-      "publicStatus": "private-processing",
+      "rightsStatus": "Official Sasho & Popac Archive upload is Public. YouTube Studio shows a 'Partially blocked' notice on 2026-10-10. Exact claim, claimant, affected content and territories are not yet captured; item-level visual/artwork rights remain subject to archival verification.",
+      "publicStatus": "public",
       "officialYoutubeUrl": "https://youtu.be/np6V19-KgSU",
-      "notes": "Official channel upload completed on 2026-10-10; at the captured moment YouTube Studio showed processing had not yet begun. No file/hash or frame-level review has been recorded yet."
+      "notes": "Official public YouTube playback active as of 2026-10-10. Source provenance retained. Exact Content ID claim details, artwork metadata, date/location and participants remain pending verification.",
+      "duration": "03:49"
     }
   ]
 }
