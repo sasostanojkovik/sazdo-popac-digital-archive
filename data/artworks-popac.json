@@ -127,19 +127,19 @@
       "mediaType": "youtube-archive-video",
       "description": "Видео-запис чиј изворен YouTube наслов го идентификува како „Во ателјето на уметникот“. Записот е поврзан со ателјето и визуелното уметничко наследство на Миодраг Станојковиќ – Попац. Точниот датум, местото, прикажаните дела, учесниците и правата за поединечните уметнички дела остануваат за визуелна/изворна верификација.",
       "source": "https://www.youtube.com/watch?v=KAGaVkaTVVc",
-      "rightsStatus": "MPS-0021-PUB-v2 is publicly visible on the official channel with replacement instrumental audio. Explicit YouTube Studio Checks/Notices status for the replacement upload remains pending capture. Previous upload np6V19-KgSU remains Public and Partially blocked until it is moved to Private as archival evidence.",
+      "rightsStatus": "MPS-0021-PUB-v2 is Public on the official channel with replacement instrumental audio and no notices shown in YouTube Studio on 2026-10-10. Previous upload np6V19-KgSU remains Public and Partially blocked pending privatization as archival evidence.",
       "publicStatus": "public",
       "officialYoutubeUrl": "https://youtu.be/MSjYXyYqfXY",
-      "notes": "Canonical public derivative MPS-0021-PUB-v2 published on 2026-10-10: https://youtu.be/MSjYXyYqfXY. Previous upload https://youtu.be/np6V19-KgSU remains Public and Partially blocked pending archival privatization after clean-check verification.",
+      "notes": "Canonical public derivative MPS-0021-PUB-v2 published and verified clean in YouTube Studio on 2026-10-10: https://youtu.be/MSjYXyYqfXY. Previous upload https://youtu.be/np6V19-KgSU remains Public and Partially blocked and should be made Private.",
       "duration": "03:49",
       "canonicalPublicVersion": "MPS-0021-PUB-v2",
       "publicDerivative": {
         "archiveId": "MPS-0021-PUB-v2",
         "youtubeId": "MSjYXyYqfXY",
         "youtubeUrl": "https://youtu.be/MSjYXyYqfXY",
-        "status": "public-canonical",
+        "status": "public-canonical-clean",
         "publishedAt": "2026-10-10",
-        "youtubeChecks": "Pending explicit Studio capture"
+        "youtubeChecks": "No issues / no notices shown in YouTube Studio on 2026-10-10"
       }
     }
   ]
