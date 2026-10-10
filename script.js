@@ -20,7 +20,7 @@ const esc = value => String(value ?? '')
   .replaceAll('>', '&gt;')
   .replaceAll('"', '&quot;');
 
-fetch('data/media.json')
+fetch('data/media.json', { cache: 'no-store' })
   .then(r => {
     if (!r.ok) throw new Error(`media.json: ${r.status}`);
     return r.json();
