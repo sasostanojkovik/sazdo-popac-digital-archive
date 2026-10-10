@@ -666,11 +666,41 @@
     },
     {
       "archiveId": "MPS-0022",
-      "title": "YouTube архивски запис — J8yHsaMI7f4",
-      "description": "Јавен YouTube видео-линк доставен за дигиталната архива на Саздо & Попац. Точниот наслов, датумот, учесниците и односот кон другите архивски снимки ќе се дополнат по директна визуелна/авторска верификација.",
+      "title": "PROMOCIJA — Миодраг Станојковиќ – Попац",
+      "description": "Долг архивски видео-запис со изворен YouTube наслов „Miodrag Stanojkovic - PROMOCIJA“. Локалната source-derived access copy го потврдува оригиналниот YouTube ID J8yHsaMI7f4, каналот/artist metadata „sasogjovani“, траење околу 1:56:18 и датум 01.02.2011 во вградените метаподатоци. Точниот повод, локацијата, организаторот, учесниците и дали 01.02.2011 е датум на YouTube објава или оригинален настан остануваат за дополнителна визуелна/изворна верификација.",
       "youtubeId": "J8yHsaMI7f4",
       "externalUrl": "https://www.youtube.com/watch?v=J8yHsaMI7f4",
-      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители."
+      "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
+      "sourcePlatform": "YouTube",
+      "sourceTitle": "Miodrag Stanojkovic - PROMOCIJA",
+      "sourceYoutubeId": "J8yHsaMI7f4",
+      "sourceOriginalUrl": "https://www.youtube.com/watch?v=J8yHsaMI7f4",
+      "canonicalSource": "https://www.youtube.com/watch?v=J8yHsaMI7f4",
+      "sourceChannel": "sasogjovani",
+      "duration": "1:56:18",
+      "preservationCopyStatus": "LOCAL SOURCE-DERIVED ACCESS COPY ACQUIRED — 2026-10-10; technical metadata verified; not served publicly from GitHub.",
+      "preservationCopyFileName": "Miodrag Stanojkovic - PROMOCIJA [J8yHsaMI7f4].mp4",
+      "preservationCopySha256": "e9803d80e1adbb5000e2ae45df91af37f95ae6708d870193072145d6e2200f20",
+      "preservationCopyBytes": 182164677,
+      "technicalMetadata": {
+        "container": "MP4",
+        "durationSeconds": 6978.827029,
+        "videoCodec": "H.264 / AVC",
+        "resolution": "176x144",
+        "frameRate": "25 fps",
+        "videoBitRate": "74403 bps",
+        "audioCodec": "AAC",
+        "audioSampleRate": "44100 Hz",
+        "audioChannels": "2 (stereo)",
+        "audioBitRate": "127999 bps",
+        "embeddedArtworkStream": "MJPEG 480x360",
+        "metadataTitle": "Miodrag Stanojkovic - PROMOCIJA",
+        "metadataArtist": "sasogjovani",
+        "metadataDate": "20110201",
+        "metadataComment": "https://www.youtube.com/watch?v=J8yHsaMI7f4"
+      },
+      "verificationStatus": "SOURCE IDENTITY CONFIRMED FROM LOCAL MP4 METADATA; event context pending.",
+      "lastUpdated": "2026-10-10"
     },
     {
       "archiveId": "MPS-0026",
@@ -1255,6 +1285,17 @@
       "popacSegmentTimestamp": "32:40",
       "popacSegmentTimestampSeconds": 1960,
       "popacSegmentTimestampSource": "User-confirmed by direct listening"
+    }
+  ],
+  "externalResearchLinks": [
+    {
+      "id": "TIKTOK-HAJRBA-7644541239001435413",
+      "platform": "TikTok",
+      "account": "@hajr.ba",
+      "url": "https://www.tiktok.com/@hajr.ba/video/7644541239001435413",
+      "status": "pending-content-verification",
+      "relationToArchive": "User-supplied external lead; public fetch unavailable in current research pass. Do not merge with an MPS item until content/identity is verified.",
+      "added": "2026-10-10"
     }
   ]
 }
