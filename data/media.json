@@ -494,8 +494,8 @@
     },
     {
       "archiveId": "MPS-0019",
-      "title": "Интервју со Миодраг Станојковиќ – Попац",
-      "description": "Архивски видео-запис со Миодраг Станојковиќ – Попац. Оригиналниот YouTube наслов го идентификува како гостување во емисијата „До Пладне“ („Miodrag Stanojkovic - Gostin vo emisijata Do Pladne - Makedonska Zabavna Muzika - Evergrin“). Јавниот YouTube извор е објавен на 1 февруари 2011 од каналот „sasogjovani“ и трае 47:30. Телевизијата, водителот, датумот на оригиналното ТВ-снимање и останатите учесници ќе се дополнат по дополнителна верификација.",
+      "title": "„До Пладне“ — интервју со Миодраг Станојковиќ – Попац",
+      "description": "Архивски телевизиски разговор со Миодраг Станојковиќ – Попац, идентификуван во изворниот YouTube наслов како гостување во емисијата „До Пладне“ („Miodrag Stanojkovic - Gostin vo emisijata Do Pladne - Makedonska Zabavna Muzika - Evergrin“). Јавниот извор е објавен на YouTube на 1 февруари 2011 од каналот „sasogjovani“ и трае 47:30. Датумот 1 февруари 2011 е датум на YouTube-објавата, а не потврден датум на оригиналното телевизиско снимање. Телевизијата, водителот, точниот датум на емитување и останатите учесници остануваат предмет на дополнителна архивска верификација.",
       "youtubeId": "nrLDNVtzWUY",
       "externalUrl": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
       "rightsStatus": "Канонски надворешен јавен YouTube запис. Се користи линк/вградување без локално преземање или реобјавување; правата остануваат кај соодветните носители.",
@@ -505,8 +505,8 @@
       "sourcePlatform": "YouTube",
       "canonicalSource": "https://www.youtube.com/watch?v=nrLDNVtzWUY",
       "sourceThumbnail": "https://i.ytimg.com/vi/nrLDNVtzWUY/hqdefault.jpg",
-      "priorityStatus": "ACTIVE REVIEW — first interview record to be fully catalogued",
-      "verificationStatus": "Verified from saved YouTube watch-page snapshot: video ID nrLDNVtzWUY; source title, uploader sasogjovani, upload/publish date 2011-02-01, duration 47:30 and category Music confirmed. Broadcaster, host, original recording date and other participants remain unverified.",
+      "priorityStatus": "CATALOGUED — canonical external YouTube source retained pending broadcaster/host verification",
+      "verificationStatus": "Verified from the preserved YouTube source record: video ID nrLDNVtzWUY; source title, uploader sasogjovani, YouTube publish date 2011-02-01, duration 47:30 and category Music are recorded. The YouTube publication date is not treated as the original TV recording/broadcast date. Broadcaster, host, original recording/broadcast date and other participants remain unverified.",
       "sourceTitle": "Miodrag Stanojkovic - Gostin vo emisijata Do Pladne - Makedonska Zabavna Muzika - Evergrin",
       "sourceChannel": "sasogjovani",
       "sourceChannelUrl": "https://www.youtube.com/@sasogjovani",
@@ -533,7 +533,9 @@
         "audioBitRate": "128000 bps",
         "integrityCheck": "PASS — ffmpeg decode scan returned no errors"
       },
-      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not the original TV/broadcast master. The public portal continues to use the canonical YouTube embed while broadcaster, host, original recording date and redistribution rights remain under verification."
+      "archivalNote": "The preserved local file is a YouTube-derived access/preservation copy, not the original TV/broadcast master. The public portal continues to use the canonical YouTube embed. Broadcaster, host, original recording/broadcast date, participants and redistribution rights remain under verification. If an official Sasho & Popac Archive derivative is later created, the external source record and preservation provenance must remain linked.",
+      "programmeVerification": "Programme name is derived from the source YouTube title; broadcaster and host are not yet verified.",
+      "dateNote": "2011-02-01 is the YouTube publication date, not a verified original television recording/broadcast date."
     },
     {
       "archiveId": "MPS-0020",
