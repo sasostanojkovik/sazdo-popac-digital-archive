@@ -550,7 +550,7 @@
       "description": "Архивски видео-запис со изворен наслов „Miodrag Stanojkovic - Vo ateljeto na umetnikot“, поврзан со ателјето и визуелното уметничко наследство на Миодраг Станојковиќ – Попац. Точниот датум, местото, прикажаните дела, авторството/правата за поединечните уметнички дела и останатите учесници ќе се дополнат по директна визуелна и изворна верификација.",
       "youtubeId": "MSjYXyYqfXY",
       "externalUrl": "https://youtu.be/MSjYXyYqfXY",
-      "rightsStatus": "Canonical public derivative MPS-0021-PUB-v2 uses replacement instrumental audio. Public playback is active; final YouTube Studio Checks/Notices status for the replacement upload remains to be explicitly captured.",
+      "rightsStatus": "Canonical public derivative MPS-0021-PUB-v2 uses replacement instrumental audio and is publicly visible with no notices shown in YouTube Studio on 2026-10-10.",
       "section": "popac-videos",
       "collection": "Уметнички слики – Попац",
       "subtype": "atelier-feature",
@@ -563,13 +563,13 @@
       "officialYoutubeUrl": "https://youtu.be/MSjYXyYqfXY",
       "canonicalSource": "https://youtu.be/MSjYXyYqfXY",
       "visibility": "public",
-      "verificationStatus": "Public channel view confirms MPS-0021-PUB-v2 is live on 2026-10-10. The replacement upload's YouTube Studio Checks/Notices result still requires explicit capture.",
-      "youtubeChecks": "MPS-0021-PUB-v2 is publicly visible on the official Sasho & Popac Archive channel as of 2026-10-10. Explicit YouTube Studio Checks/Notices result for this replacement upload has not yet been captured.",
-      "deploymentStatus": "PUBLIC CANONICAL DERIVATIVE — MPS-0021-PUB-v2 is live on the official channel. Previous upload np6V19-KgSU remains Public and partially blocked pending curator action to make it Private as archival evidence.",
+      "verificationStatus": "Verified in YouTube Studio on 2026-10-10: MPS-0021-PUB-v2 is Public and shows no notice. Earlier upload np6V19-KgSU remains Public and Partially blocked.",
+      "youtubeChecks": "No issues / no notices shown in YouTube Studio on 2026-10-10 for MPS-0021-PUB-v2.",
+      "deploymentStatus": "PUBLIC CANONICAL DERIVATIVE — MPS-0021-PUB-v2 is live on the official channel with no notices shown in YouTube Studio. Previous upload np6V19-KgSU remains Public and partially blocked pending curator action to make it Private as archival evidence.",
       "duration": "03:49",
       "youtubePublishDate": "2026-10-10",
-      "youtubeNotice": "Pending explicit Studio notice/check capture for the replacement upload",
-      "archivalNote": "Original source provenance remains preserved via sourceYoutubeId/sourceOriginalUrl. The earlier official upload np6V19-KgSU is still Public and Partially blocked as of 2026-10-10. MPS-0021-PUB-v2 (MSjYXyYqfXY) is now the canonical public derivative; once Studio confirms no notice/claim, the earlier upload should be made Private as archival evidence.",
+      "youtubeNotice": "None",
+      "archivalNote": "Original source provenance remains preserved via sourceYoutubeId/sourceOriginalUrl. MPS-0021-PUB-v2 (MSjYXyYqfXY) is the canonical public derivative and was verified Public with no notices shown in YouTube Studio on 2026-10-10. Earlier upload np6V19-KgSU remains Public and Partially blocked and should be changed to Private as archival evidence.",
       "publicStatus": "public",
       "canonicalPublicVersion": "MPS-0021-PUB-v2",
       "previousPublicUpload": {
@@ -583,11 +583,11 @@
         "title": "Миодраг Станојковиќ – Попац | Во ателјето на уметникот | Македонски 7/8",
         "youtubeId": "MSjYXyYqfXY",
         "youtubeUrl": "https://youtu.be/MSjYXyYqfXY",
-        "status": "public-canonical",
+        "status": "public-canonical-clean",
         "publishedAt": "2026-10-10",
         "soundtrack": "Replacement Macedonian 7/8 instrumental soundtrack",
         "sourceVideoAudio": "Removed/muted in derivative",
-        "youtubeChecks": "Pending explicit Studio capture"
+        "youtubeChecks": "No issues / no notices shown in YouTube Studio on 2026-10-10"
       }
     },
     {
