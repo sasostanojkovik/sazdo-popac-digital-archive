@@ -12,6 +12,7 @@
 - `assets/books/pdfs/` — интернет PDF-прегледи доставени од архивата
 - `assets/video/` — deployment note; големите MP4 master-и намерно не се чуваат во GitHub
 - `assets/images/` — фотографии, корици и постери
+- `assets/images/sasho/` — издвоена фото-архива на Саздо Станојковиќ-Сашо
 - `archive-rights-register.csv` — работен регистар на извор/права/статус
 - `SOURCE-MANIFEST.md` — канонски извори, варијанти и дедупликација
 

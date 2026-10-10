@@ -62,7 +62,7 @@ The latest ingestion adds one user-supplied archive photograph plus 15 new uniqu
 
 ### Archive photo
 
-- `MPS-0001` - `assets/images/gallery/archive-photo-mps-0001.jpg` - three people visible; identities/date/place/event intentionally left unlabelled until confirmed by the archive curator.
+- `MPS-0001` - `assets/images/sasho/archive-photo-mps-0001.jpg` - three people visible; identities/date/place/event intentionally left unlabelled until confirmed by the archive curator.
 
 ### New YouTube records
 
