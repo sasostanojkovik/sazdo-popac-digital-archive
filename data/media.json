@@ -679,7 +679,7 @@
           "duration": "03:48",
           "mediaType": "archive-video-master",
           "rightsStatus": "Private YouTube archive upload; YouTube Content ID: SME claim on „Rose (From \\\"Titanic\\\" Soundtrack)“ — James Horner and „My Heart Will Go On“ — Céline Dion. Делумно блокирано; нема copyright strike. Јавна derivative верзија без спорното аудио е планирана.",
-          "deploymentStatus": "PRIVATE OFFICIAL YOUTUBE UPLOAD — partially blocked by Content ID; local H.264/AAC derivative retained for controlled archive/staging playback; original MPG master remains outside GitHub.",
+          "deploymentStatus": "PRIVATE OFFICIAL YOUTUBE UPLOAD — partially blocked by Content ID. Replacement-score derivative V2 is ready: full 03:48 original Macedonian-inspired 7/8 ethno smooth-jazz instrumental prepared; final video mux/export pending.",
           "sourceFilename": "atelje_so najnovi sliki.mpg",
           "technicalMaster": "MPEG-PS / MPEG-2 video, 720x480, 4:3, 29.97 fps, interlaced; PCM stereo 48 kHz",
           "sha256": "f38865a32af388024430eb04d4ca3dc2baebee53ad9a7ad4d72d27c12b000aee",
@@ -695,6 +695,19 @@
             "sha256": "aedfa2758fa61f7245163c2bb0b96a22adce850e85fa812398928b834cc505d1",
             "descriptProjectUrl": "https://web.descript.com/5e84391d-6802-4f20-b893-a271ac7a52ba/1e3bd",
             "note": "Complete original instrumental replacement score prepared for the public derivative. Final placement/export is pending."
+          },
+          "derivativeScoreV2": {
+            "version": "MPS-0024-PUB-v2",
+            "title": "Macedonian 7/8 Ethno Smooth Jazz — POPAC Archive Instrumental",
+            "duration": "03:48",
+            "meter": "7/8, alternating 3+2+2 and 2+2+3",
+            "style": "Macedonian-inspired ethno smooth jazz / evergreen archive score",
+            "instrumentation": "warm piano, clean/nylon guitar, upright-style bass, restrained strings/cello, light brushed percussion, clarinet/kaval-like lead colour",
+            "motifPolicy": "Original motifs and phrasing only. The score evokes Popac-era evergreen character without copying a recognizable melody, lyric, master recording or existing arrangement.",
+            "sourceFile": "MPS-0024-PUB-v2_MACEDONIAN_7-8_ETHNO_SMOOTH_JAZZ.m4a",
+            "sha256": "e76da57f01a43f5ad460e1b0c2bcf5992b3de5bf241e3f21b672a54e0ccf2665",
+            "status": "score-ready-final-video-mux-pending",
+            "createdDate": "2026-10-10"
           }
         },
         {
