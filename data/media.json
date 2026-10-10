@@ -667,7 +667,7 @@
     {
       "archiveId": "MPS-0022",
       "title": "PROMOCIJA — Миодраг Станојковиќ – Попац",
-      "description": "Долг архивски видео-запис со изворен YouTube наслов „Miodrag Stanojkovic - PROMOCIJA“. Локалната source-derived access copy го потврдува оригиналниот YouTube ID J8yHsaMI7f4, каналот/artist metadata „sasogjovani“, траење околу 1:56:18 и датум 01.02.2011 во вградените метаподатоци. Точниот повод, локацијата, организаторот, учесниците и дали 01.02.2011 е датум на YouTube објава или оригинален настан остануваат за дополнителна визуелна/изворна верификација.",
+      "description": "Долг архивски видео-запис со изворен YouTube наслов „Miodrag Stanojkovic - PROMOCIJA“. Тековниот portal player сè уште го користи оригиналниот/source YouTube ID J8yHsaMI7f4 од „sasogjovani“; официјална mirror-објава на каналот Sasho & Popac Archive сè уште не е активирана. Локалната source-derived access copy го потврдува траењето околу 1:56:18 и датумот 01.02.2011 во вградените метаподатоци. Точниот повод, локацијата, организаторот, учесниците и дали 01.02.2011 е датум на YouTube објава или оригинален настан остануваат за дополнителна визуелна/изворна верификација.",
       "youtubeId": "J8yHsaMI7f4",
       "externalUrl": "https://www.youtube.com/watch?v=J8yHsaMI7f4",
       "rightsStatus": "Надворешен јавен YouTube линк/вградување; нема локално преземање или реобјавување. Правата остануваат кај соодветните носители.",
@@ -700,7 +700,13 @@
         "metadataComment": "https://www.youtube.com/watch?v=J8yHsaMI7f4"
       },
       "verificationStatus": "SOURCE IDENTITY CONFIRMED FROM LOCAL MP4 METADATA; event context pending.",
-      "lastUpdated": "2026-10-10"
+      "lastUpdated": "2026-10-11",
+      "officialArchiveChannelMirrorStatus": "PENDING — not yet uploaded to Sasho & Popac Archive",
+      "deliveryMode": "legacy-source-youtube-embed",
+      "portalPlaybackStatus": "PUBLIC — legacy/source YouTube embed active; official Sasho & Popac Archive mirror pending",
+      "visibility": "public-source-only",
+      "deploymentStatus": "SOURCE EMBED ACTIVE — official archive-channel mirror not yet created",
+      "archivalNote": "The current portal player uses the original/source YouTube upload J8yHsaMI7f4. The preserved MP4 access copy is available for preparation of an official Sasho & Popac Archive mirror, but no new official-channel YouTube ID has been assigned yet."
     },
     {
       "archiveId": "MPS-0026",
