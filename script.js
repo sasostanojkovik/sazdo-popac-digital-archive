@@ -53,7 +53,7 @@ function renderArchiveFolders(items) {
     const a=document.createElement('a');
     a.className='archive-folder-card folder-'+esc(item.accent||'default');
     a.href=item.target||'#';
-    a.innerHTML=`<span class="folder-tab">${esc(item.code||'')}</span><div class="folder-body"><span class="meta">${esc(item.subtitle||'')}</span><h3>${esc(item.title||'')}</h3><p>${esc(item.description||'')}</p><span class="folder-open">ОТВОРИ ПАПКА →</span></div>`;
+    a.innerHTML=`<span class="folder-tab">${esc(item.code||'')}</span>${item.image ? `<span class="folder-visual"><img loading="lazy" src="${esc(item.image)}" alt=""></span>` : ''}<div class="folder-body"><span class="meta">${esc(item.subtitle||'')}</span><h3>${esc(item.title||'')}</h3><p>${esc(item.description||'')}</p><span class="folder-open">ОТВОРИ ПАПКА →</span></div>`;
     host.appendChild(a);
   });
 }
