@@ -152,3 +152,5 @@ footer{background:#070707;color:#888;padding:32px max(24px,calc((100vw - var(--m
 .bibliography-author{margin:0;color:#fff;font-weight:700}
 .bibliography-card small{display:block;margin-top:8px;color:#928a81}
 @media(max-width:850px){.bibliography-grid{grid-template-columns:1fr}}
+
+.book-price{margin:10px 0 14px;color:#f4c86a;font-size:18px;letter-spacing:.01em}.book-price strong{font-weight:800}
