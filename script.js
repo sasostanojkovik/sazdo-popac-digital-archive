@@ -27,6 +27,10 @@ fetch('data/media.json', { cache: 'no-store' })
   })
   .then(data => {
     renderStats(data);
+    renderArchiveFolders(data.archiveFolders || []);
+    renderBiographies(data.biographies || []);
+    renderFamilyLineage(data.familyLineage || {});
+    renderArchiveDocuments(data.archiveDocuments || []);
     renderBooks(data.books || []);
     renderMusic(data.music || []);
     renderResearch(data.researchLeads || []);
@@ -40,6 +44,44 @@ function renderStats(data) {
   q('#stat-books').textContent = pad((data.books || []).length);
   q('#stat-videos').textContent = pad((data.videos || []).length);
   q('#stat-photos').textContent = pad(photoCount);
+}
+
+
+function renderArchiveFolders(items) {
+  const host = q('#archive-folder-grid'); if (!host) return;
+  items.forEach(item => {
+    const a=document.createElement('a');
+    a.className='archive-folder-card folder-'+esc(item.accent||'default');
+    a.href=item.target||'#';
+    a.innerHTML=`<span class="folder-tab">${esc(item.code||'')}</span><div class="folder-body"><span class="meta">${esc(item.subtitle||'')}</span><h3>${esc(item.title||'')}</h3><p>${esc(item.description||'')}</p><span class="folder-open">ОТВОРИ ПАПКА →</span></div>`;
+    host.appendChild(a);
+  });
+}
+function renderBiographies(items) {
+  const host=q('#biography-grid'); if(!host) return;
+  items.forEach(item=>{
+    const card=document.createElement('article'); card.className='bio-card';
+    const links=(item.links||[]).map(x=>`<a href="${esc(x.target||'#')}">${esc(x.label||'Повеќе')} →</a>`).join('');
+    card.innerHTML=`<div class="bio-portrait"><img loading="lazy" src="${esc(item.portrait||'')}" alt=""></div><div class="bio-copy"><span class="meta">${esc(item.role||'')}</span><h3>${esc(item.name||'')} ${item.lifespan?'<small>'+esc(item.lifespan)+'</small>':''}</h3><p>${esc(item.summary||'')}</p><div class="bio-links">${links}</div></div>`;
+    host.appendChild(card);
+  });
+}
+function renderFamilyLineage(item) {
+  const host=q('#family-lineage-grid'); if(!host) return;
+  (item.names||[]).forEach((name,i)=>{
+    const node=document.createElement('div'); node.className='lineage-node';
+    node.innerHTML=`<span>${String(i+1).padStart(2,'0')}</span><strong>${esc(name)}</strong><small>роднинска врска · чека потврда</small>`;
+    host.appendChild(node);
+  });
+  const note=q('#family-lineage-note'); if(note) note.textContent=item.note||'';
+}
+function renderArchiveDocuments(items) {
+  const host=q('#archive-documents-grid'); if(!host) return;
+  items.forEach(item=>{
+    const card=document.createElement('article'); card.className='archive-doc-card';
+    card.innerHTML=`<span class="meta">${esc(item.id||'')} · ${esc(item.type||'')}</span><h3>${esc(item.title||'')}</h3><p>${esc(item.description||'')}</p><small>${esc(item.status||'')}</small>`;
+    host.appendChild(card);
+  });
 }
 
 function renderBooks(items) {
