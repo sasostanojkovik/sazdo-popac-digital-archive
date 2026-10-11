@@ -1337,7 +1337,9 @@
       "subtitle": "Автор · книги · идеи · режисерски поглед",
       "description": "Авторското дело на Саздо Станојковиќ–Сашо: книги, текстови, лични видео-записи, фотографии и материјали поврзани со неговата творечка работа.",
       "target": "#books",
-      "accent": "author"
+      "accent": "author",
+      "image": "assets/images/sasho/sazdo-stanojkovik-profile.jpg",
+      "identity": "sazdo"
     },
     {
       "id": "folder-popac",
@@ -1346,7 +1348,9 @@
       "subtitle": "Глас · слика · сцена · спомен",
       "description": "Музичкото, телевизиското и ликовното наследство на Миодраг Станојковиќ–Попац: песни, интервјуа, настапи, ателје, уметнички дела и архивски документи.",
       "target": "#legacy",
-      "accent": "legacy"
+      "accent": "legacy",
+      "image": "assets/images/takov-e-zivotot-poster.jpg",
+      "identity": "popac"
     },
     {
       "id": "folder-bios",
@@ -1355,7 +1359,9 @@
       "subtitle": "Две личности · две творечки линии",
       "description": "Одвоени биографски профили за Саздо и Попац, со факти што се објавуваат само кога се потврдени од семејната архива или проверлив извор.",
       "target": "#biographies",
-      "accent": "bio"
+      "accent": "bio",
+      "image": "assets/images/sasho/sazdo-stanojkovik-profile.jpg",
+      "identity": "shared"
     },
     {
       "id": "folder-family",
@@ -1364,7 +1370,9 @@
       "subtitle": "Имиња · генерации · семејна меморија",
       "description": "Семејни колажи, портрети и имиња од архивата. Роднинските врски се означуваат постепено, само по потврда од Саздо.",
       "target": "#family-lineage",
-      "accent": "family"
+      "accent": "family",
+      "image": "assets/images/sasho/archive-photo-mps-0002.jpg",
+      "identity": "family"
     },
     {
       "id": "folder-docs",
@@ -1373,7 +1381,9 @@
       "subtitle": "Монографија · писма · автобиографија · списоци",
       "description": "Документарната меморија: монографијата за Попац, последното своеврачно писмо/автобиографија, музички списоци и други примарни материјали.",
       "target": "#photos",
-      "accent": "docs"
+      "accent": "docs",
+      "image": "assets/images/sasho/archive-photo-mps-0001.jpg",
+      "identity": "popac"
     },
     {
       "id": "folder-research",
@@ -1382,7 +1392,9 @@
       "subtitle": "МРТ · Радио Београд · RAI · Radio Študent",
       "description": "Проверени траги и институционални извори што можат да доведат до нови снимки, каталошки записи и дополнителна дискографија.",
       "target": "#research",
-      "accent": "research"
+      "accent": "research",
+      "image": "assets/images/takov-e-zivotot-poster.jpg",
+      "identity": "popac"
     },
     {
       "id": "folder-music",
@@ -1391,7 +1403,9 @@
       "subtitle": "Песни · радио · фестивали",
       "description": "Звучни записи и истражување на песните на Попац, со раздвојување на изведувачки, авторски и мастер-права.",
       "target": "#music",
-      "accent": "music"
+      "accent": "music",
+      "image": "assets/images/crveni-karanfili-za-skopje-poster.jpg",
+      "identity": "popac"
     },
     {
       "id": "folder-video",
@@ -1400,7 +1414,9 @@
       "subtitle": "Сашо · Попац · интервјуа",
       "description": "Видеоархивата е поделена на посебни колекции за Саздо, Попац и интервјуата со Попац, без мешање и без дупликати.",
       "target": "#video",
-      "accent": "video"
+      "accent": "video",
+      "image": "assets/images/bezgrizno-devojce-poster.jpg",
+      "identity": "popac"
     }
   ],
   "biographies": [
@@ -1491,6 +1507,83 @@
       "type": "семејна фото-документација",
       "status": "врските се каталогизираат",
       "description": "Семејни фотографии и колажи со имиња од повеќе генерации; роднинските врски ќе се внесуваат по потврда."
+    }
+  ],
+  "memorial": {
+    "title": "Љубовта кон таткото станува верна меморија",
+    "eyebrow": "MEMORY / FATHER & SON",
+    "dedication": "Во чест на Миодраг Станојковиќ – Попац",
+    "text": "Овој дигитален архивски дом го чува музичкото, телевизиското и ликовното наследство на Миодраг Станојковиќ–Попац и го поврзува со авторското дело на неговиот син Саздо Станојковиќ–Сашо. Секој материјал се води во своја папка, со потекло, контекст и статус на права, за љубовта и споменот да останат трајно организирани.",
+    "quote": "„Да го овековечам татко ми.“",
+    "sazdoImage": "assets/images/sasho/sazdo-stanojkovik-profile.jpg",
+    "popacImage": "assets/images/takov-e-zivotot-poster.jpg",
+    "familyImage": "assets/images/sasho/archive-photo-mps-0002.jpg"
+  },
+  "archiveCollections": [
+    {
+      "id": "COL-SAZDO-001",
+      "owner": "sazdo",
+      "title": "Саздо — авторско дело",
+      "contains": [
+        "книги",
+        "текстови",
+        "лични видеа",
+        "фотографии",
+        "авторски материјали"
+      ],
+      "target": "#books"
+    },
+    {
+      "id": "COL-POPAC-001",
+      "owner": "popac",
+      "title": "Попац — музичко и уметничко наследство",
+      "contains": [
+        "песни",
+        "настапи",
+        "ТВ интервјуа",
+        "ателје",
+        "уметнички дела",
+        "архивски документи"
+      ],
+      "target": "#legacy"
+    },
+    {
+      "id": "COL-BIO-001",
+      "owner": "shared",
+      "title": "Биографии",
+      "contains": [
+        "Саздо Станојковиќ–Сашо",
+        "Миодраг Станојковиќ–Попац"
+      ],
+      "target": "#biographies"
+    },
+    {
+      "id": "COL-FAMILY-001",
+      "owner": "family",
+      "title": "Семејна лоза и меморија",
+      "contains": [
+        "Саздо",
+        "Томач",
+        "Миодраг",
+        "Аце",
+        "Елена",
+        "Љубинка",
+        "Персијана",
+        "Верица"
+      ],
+      "target": "#family-lineage"
+    },
+    {
+      "id": "COL-DOC-001",
+      "owner": "popac",
+      "title": "Документи и ракописи",
+      "contains": [
+        "монографија",
+        "последно своеврачно писмо / автобиографија",
+        "музички список",
+        "семејна фото-документација"
+      ],
+      "target": "#archive-documents"
     }
   ]
 }
