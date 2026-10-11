@@ -47,7 +47,7 @@ function renderBooks(items) {
   if (!host) return;
   items.forEach(item => {
     const card = document.createElement('article');
-    card.className = `book-card${item.slot > 4 ? ' book-slot-empty' : ''}`;
+    card.className = 'book-card';
     const meta = [item.year, item.material, item.language].filter(Boolean).join(' · ');
     const details = item.detailsUrl ? `<a class="btn small secondary" href="${esc(item.detailsUrl)}">Детали · MK/EN</a>` : '';
     const preview = item.previewUrl ? `<a class="btn small secondary" href="${esc(item.previewUrl)}" target="_blank" rel="noopener">${esc(item.previewLabel || 'PDF преглед')}</a>` : '';
