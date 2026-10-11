@@ -103,6 +103,7 @@ function renderBooks(items) {
         ${item.subtitle ? `<p class="book-subtitle">${esc(item.subtitle)}</p>` : ''}
         <p class="book-meta">${esc(meta)}</p>
         ${item.status ? `<p class="book-status">${esc(item.status)}</p>` : ''}
+        ${item.priceLabel ? `<p class="book-price"><strong>${esc(item.priceLabel)}</strong></p>` : ''}
         <div class="book-actions">${details}${preview}${order}</div>
       </div>`;
     host.appendChild(card);
