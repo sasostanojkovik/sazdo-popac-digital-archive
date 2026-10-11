@@ -769,6 +769,17 @@
   ],
   "gallery": [
     {
+      "archiveId": "SAZDO-PHOTO-BOOK-006",
+      "owner": "sazdo",
+      "collection": "Саздо · книги и авторски материјали",
+      "title": "„Љубовен валцер“ — македонска и англиска корица",
+      "description": "Авторски архивски материјал за Книга 6 „Љубовен валцер“ / “Love Waltz” од Саздо Станојковиќ–Сашо.",
+      "image": "assets/images/sasho/books/ljuboven-valcer-front-cover-mk.jpg",
+      "linkedBook": "Љубовен валцер",
+      "rightsStatus": "Семејна/авторска архива — доставено од овластениот сопственик.",
+      "status": "catalogued"
+    },
+    {
       "archiveId": "SAZDO-PHOTO-BOOK-007",
       "owner": "sazdo",
       "collection": "Саздо · книги и авторски материјали",
@@ -978,14 +989,34 @@
       "slot": 6,
       "title": "Љубовен валцер",
       "subtitle": "Љубовта во пријателството, интимните и брачните врски.",
-      "shortDescription": "Книга што детално ја разгледува љубовта во пријателството, интимните односи и бракот, со акцент на зрелите и трајни врски.",
+      "shortDescription": "„Љубовен валцер“ детално ја објаснува љубовта во пријателството, во интимните (љубовните) и во брачните врски.",
       "year": "година за потврда",
       "material": "печатена книга",
       "language": "македонски",
       "label": "Книга 6 · Енциклопедија на животот",
-      "cover": "assets/books/book-6.svg",
+      "cover": "assets/images/sasho/books/ljuboven-valcer-front-cover-mk.jpg",
       "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%89%D1%83%D0%B1%D0%BE%D0%B2%D0%B5%D0%BD%20%D0%B2%D0%B0%D0%BB%D1%86%D0%B5%D1%80&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%89%D1%83%D0%B1%D0%BE%D0%B2%D0%B5%D0%BD%20%D0%B2%D0%B0%D0%BB%D1%86%D0%B5%D1%80%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Дел од 7-книжниот комплет · година/издание за каталошка потврда."
+      "status": "Дел од 7-книжниот комплет · година/издание за каталошка потврда.",
+      "author": "Саздо Станојковиќ–Сашо",
+      "longDescription": "Книгата ја разгледува љубовта како однос што се гради и се одржува во пријателството, интимните партнерства и бракот, со акцент на меѓучовечките односи, изборот на партнер и взаемната, безусловна и трајна љубов.",
+      "covers": {
+        "mk": {
+          "front": "assets/images/sasho/books/ljuboven-valcer-front-cover-mk.jpg",
+          "full": "assets/images/sasho/books/ljuboven-valcer-full-cover-mk.jpg",
+          "label": "ЉУБОВЕН ВАЛЦЕР"
+        },
+        "en": {
+          "front": "assets/images/sasho/books/love-waltz-front-cover-en.jpg",
+          "full": "assets/images/sasho/books/love-waltz-full-cover-en.jpg",
+          "label": "LOVE WALTZ",
+          "subtitle": "About love in friendship, in intimate and marital relationships"
+        }
+      },
+      "languages": [
+        "македонски",
+        "англиски"
+      ],
+      "coverSource": "author-provided archive"
     },
     {
       "slot": 7,
