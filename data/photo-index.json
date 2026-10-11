@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-10-11",
+  "note": "Индекс изработен од семејните фотографии доставени во разговорот. Идентификациите се преземени само од видливи натписи/семејни ознаки; непотврдените лица не се именувани.",
+  "collections": [
+    {
+      "id": "FAMILY",
+      "folder": "assets/archive/family/",
+      "title": "Семејна лоза и семејна меморија",
+      "items": [
+        {
+          "target": "family-archive-collage-01.jpg",
+          "source": "viber_image_2026-10-11_12-41-00-459.jpg",
+          "title": "Семеен архивски колаж",
+          "status": "имињата/врските се дополнуваат по семејна потврда"
+        },
+        {
+          "target": "family-group-01.jpg",
+          "source": "viber_image_2026-10-11_12-42-03-854.jpg",
+          "title": "Семејна групна фотографија",
+          "status": "врските се дополнуваат по семејна потврда"
+        },
+        {
+          "target": "family-group-02.jpg",
+          "source": "viber_image_2026-10-11_12-44-11-852.jpg",
+          "title": "Семејна групна фотографија",
+          "status": "врските се дополнуваат по семејна потврда"
+        },
+        {
+          "target": "family-couple-archive.jpg",
+          "source": "viber_image_2026-10-11_12-46-34-444.jpg",
+          "title": "Семејна архивска фотографија",
+          "status": "имињата се дополнуваат по семејна потврда"
+        },
+        {
+          "target": "elena-and-sazdo-stanojkovic.jpg",
+          "source": "viber_image_2026-10-11_12-47-40-622.jpg",
+          "title": "Елена и Саздо Станојковиќ",
+          "status": "името е преземено од натписот на доставената слика"
+        },
+        {
+          "target": "family-portrait-archive.jpg",
+          "source": "viber_image_2026-10-11_12-48-43-863.jpg",
+          "title": "Семеен портрет",
+          "status": "врските се дополнуваат по семејна потврда"
+        },
+        {
+          "target": "family-lineage-named-collage.jpg",
+          "source": "viber_image_2026-10-11_12-52-08-543.jpg",
+          "title": "Семеен колаж со имиња",
+          "caption": "Саздо · Томач · Миодраг · Аце · Елена · Љубинка · Персијана · Верица",
+          "status": "имињата се преземени од натписите; точните роднински врски остануваат за потврда"
+        }
+      ]
+    },
+    {
+      "id": "POPAC-DOCS",
+      "folder": "assets/archive/popac/documents/",
+      "title": "Миодраг Станојковиќ – Попац · документи и биографија",
+      "items": [
+        {
+          "target": "popac-song-list-young.jpg",
+          "source": "viber_image_2026-10-11_13-11-19-408.jpg",
+          "title": "POP-SONGS I USED TO SING WHEN I WAS YOUNG"
+        },
+        {
+          "target": "popac-monograph-sekavanje-cover.jpg",
+          "source": "viber_image_2026-10-11_13-12-07-252.jpg",
+          "title": "Монографија „Сеќавање на Миодраг Станојковиќ–Попац“",
+          "caption": "пејач и ликовен уметник (1936–2013)"
+        },
+        {
+          "target": "miodrag-stanojkovic-popac-quote-portrait.jpg",
+          "source": "viber_image_2026-10-11_13-12-55-028.jpg",
+          "title": "Миодраг Станојковиќ–Попац",
+          "caption": "„Сакам да оставам трага и спомен дека и вака постоев“"
+        },
+        {
+          "target": "miodrag-stanojkovic-popac-life-portraits.jpg",
+          "source": "viber_image_2026-10-11_13-14-30-841.jpg",
+          "title": "Миодраг Станојковиќ–Попац · животен фото-колаж"
+        },
+        {
+          "target": "miodrag-stanojkovic-popac-life-collage.jpg",
+          "source": "viber_image_2026-10-11_13-15-18-837.jpg",
+          "title": "Миодраг Станојковиќ · фото-колаж"
+        },
+        {
+          "target": "popac-last-letter-autobiography-overview.jpg",
+          "source": "viber_image_2026-10-11_13-16-06-649.jpg",
+          "title": "Последното своеврачно писмо / автобиографија на Миодраг Станојковиќ"
+        },
+        {
+          "target": "popac-handwritten-autobiography-01.jpg",
+          "source": "viber_image_2026-10-11_13-16-54-429.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · ракопис I"
+        },
+        {
+          "target": "popac-handwritten-autobiography-02.jpg",
+          "source": "viber_image_2026-10-11_13-17-42-642.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · ракопис II"
+        },
+        {
+          "target": "popac-autobiography-transcription-01.jpg",
+          "source": "viber_image_2026-10-11_13-18-30-809.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · транскрипција I"
+        },
+        {
+          "target": "popac-autobiography-transcription-02.jpg",
+          "source": "viber_image_2026-10-11_13-19-18-690.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · транскрипција II"
+        },
+        {
+          "target": "popac-autobiography-transcription-03.jpg",
+          "source": "viber_image_2026-10-11_13-20-06-788.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · транскрипција III"
+        },
+        {
+          "target": "popac-autobiography-transcription-04.jpg",
+          "source": "viber_image_2026-10-11_13-20-54-602.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · транскрипција IV"
+        },
+        {
+          "target": "popac-autobiography-transcription-05.jpg",
+          "source": "viber_image_2026-10-11_13-21-42-396.jpg",
+          "title": "Автобиографија на Миодраг Станојковиќ–Попац · транскрипција V"
+        }
+      ]
+    },
+    {
+      "id": "POPAC-TV",
+      "folder": "assets/archive/popac/tv/",
+      "title": "Миодраг Станојковиќ – Попац · телевизиски гостувања",
+      "items": [
+        {
+          "target": "popac-amazon-tv-prilog.jpg",
+          "source": "viber_image_2026-10-11_13-43-04-294.jpg",
+          "title": "Миодраг гостин во емисијата (Прилог)",
+          "broadcaster": "Амазон Телевизија"
+        },
+        {
+          "target": "popac-mtm-info-art.jpg",
+          "source": "viber_image_2026-10-11_13-43-58-404.jpg",
+          "title": "Миодраг гостин во емисијата (Инфо арт)",
+          "broadcaster": "МТМ Телевизија"
+        },
+        {
+          "target": "popac-telma-gledam-ili-mi-se-cini-2005-04-23.jpg",
+          "source": "viber_image_2026-10-11_13-44-50-065.jpg",
+          "title": "„Гледам или ми се чини“",
+          "broadcaster": "Телма телевизија",
+          "date": "2005-04-23"
+        },
+        {
+          "target": "popac-telma-skopje-na-mojata-mladost-1998.jpg",
+          "source": "viber_image_2026-10-11_13-46-09-602.jpg",
+          "title": "„Скопје на мојата младост“",
+          "broadcaster": "Телма телевизија",
+          "year": "1998"
+        },
+        {
+          "target": "popac-btr-turnime-da-kinisam-1998-01-23.jpg",
+          "source": "viber_image_2026-10-11_13-47-13-663.jpg",
+          "title": "„Турниме да кинисам“",
+          "broadcaster": "БТР Телевизија",
+          "date": "1998-01-23"
+        },
+        {
+          "target": "popac-alfa-eden-baknez-2013-02-10.jpg",
+          "source": "viber_image_2026-10-11_13-48-17-515.jpg",
+          "title": "„Еден бакнеж“",
+          "broadcaster": "Алфа Телевизија",
+          "date": "2013-02-10"
+        },
+        {
+          "target": "popac-sky-net-na-pladne-2010-12-20.jpg",
+          "source": "viber_image_2026-10-11_13-49-20-893.jpg",
+          "title": "„На пладне“",
+          "broadcaster": "Скај Нет Телевизија",
+          "date": "2010-12-20"
+        },
+        {
+          "target": "popac-mtv-dobro-utro-dobar-den-01.jpg",
+          "source": "viber_image_2026-10-11_13-50-24-113.jpg",
+          "title": "„Добро утро добар ден“ · кадар 1",
+          "broadcaster": "МТВ Македонската телевизија"
+        },
+        {
+          "target": "popac-mtv-dobro-utro-dobar-den-02.jpg",
+          "source": "viber_image_2026-10-11_13-51-27-512.jpg",
+          "title": "„Добро утро добар ден“ · кадар 2",
+          "broadcaster": "МТВ Македонската телевизија"
+        },
+        {
+          "target": "popac-mtv-dobro-utro-dobar-den-03.jpg",
+          "source": "viber_image_2026-10-11_13-52-46-522.jpg",
+          "title": "„Добро утро добар ден“ · кадар 3",
+          "broadcaster": "МТВ Македонската телевизија"
+        },
+        {
+          "target": "popac-mtv-dobro-utro-dobar-den-04.jpg",
+          "source": "viber_image_2026-10-11_13-54-04-697.jpg",
+          "title": "„Добро утро добар ден“ · кадар 4",
+          "broadcaster": "МТВ Македонската телевизија"
+        }
+      ]
+    },
+    {
+      "id": "SAZDO",
+      "folder": "assets/archive/sazdo/",
+      "title": "Саздо Станојковиќ–Сашо · авторско дело",
+      "items": [
+        {
+          "target": "documents/sazdo-thoughts-wisdom-page.jpg",
+          "source": "viber_image_2026-10-11_14-03-54-335.jpg",
+          "title": "Саздо Станојковиќ–Сашо · мисли и мудрости"
+        },
+        {
+          "target": "books/vistinski-pravec-full-cover.jpg",
+          "source": "viber_image_2026-10-11_14-07-41-678.jpg",
+          "title": "ВИСТИНСКИ ПРАВЕЦ · целосна корица"
+        },
+        {
+          "target": "books/vistinski-pravec-front-cover.jpg",
+          "source": "viber_image_2026-10-11_14-09-02-221.jpg",
+          "title": "ВИСТИНСКИ ПРАВЕЦ · предна корица"
+        },
+        {
+          "target": "books/tajnite-na-ljubovta-full-cover.jpg",
+          "source": "viber_image_2026-10-11_14-21-02-522.jpg",
+          "title": "ТАЈНИТЕ НА ЉУБОВТА · целосна корица"
+        },
+        {
+          "target": "books/tajnite-na-ljubovta-front-cover.jpg",
+          "source": "viber_image_2026-10-11_14-22-41-485.jpg",
+          "title": "ТАЈНИТЕ НА ЉУБОВТА · предна корица"
+        },
+        {
+          "target": "books/the-secrets-of-love-full-cover.jpg",
+          "source": "viber_image_2026-10-11_14-23-44-655.jpg",
+          "title": "THE SECRETS OF LOVE · full cover"
+        },
+        {
+          "target": "books/ljuboven-valcer-full-cover-mk.jpg",
+          "source": "viber_image_2026-10-11_14-30-21-411.jpg",
+          "title": "ЉУБОВЕН ВАЛЦЕР · целосна корица"
+        },
+        {
+          "target": "books/ljuboven-valcer-front-cover-mk.jpg",
+          "source": "viber_image_2026-10-11_14-31-24-933.jpg",
+          "title": "ЉУБОВЕН ВАЛЦЕР · предна корица"
+        },
+        {
+          "target": "books/love-waltz-full-cover-en.jpg",
+          "source": "viber_image_2026-10-11_14-32-28-520.jpg",
+          "title": "LOVE WALTZ · full cover"
+        },
+        {
+          "target": "books/love-waltz-front-cover-en.jpg",
+          "source": "viber_image_2026-10-11_14-33-00-724.jpg",
+          "title": "LOVE WALTZ · front cover"
+        },
+        {
+          "target": "books/zivotot-e-ubav-collage.jpg",
+          "source": "viber_image_2026-10-11_14-35-58-375.jpg",
+          "title": "ЖИВОТОТ Е УБАВ · авторски фото-колаж"
+        },
+        {
+          "target": "books/zivotot-e-ubav-full-cover-mk.jpg",
+          "source": "viber_image_2026-10-11_14-37-18-129.jpg",
+          "title": "ЖИВОТОТ Е УБАВ · целосна корица"
+        },
+        {
+          "target": "books/zivotot-e-ubav-front-cover-mk.jpg",
+          "source": "viber_image_2026-10-11_14-38-21-796.jpg",
+          "title": "ЖИВОТОТ Е УБАВ · предна корица"
+        },
+        {
+          "target": "books/life-is-beautiful-full-cover-en.jpg",
+          "source": "viber_image_2026-10-11_14-39-56-801.jpg",
+          "title": "LIFE IS BEAUTIFUL · full cover"
+        },
+        {
+          "target": "books/life-is-beautiful-front-cover-en.jpg",
+          "source": "viber_image_2026-10-11_14-41-00-251.jpg",
+          "title": "LIFE IS BEAUTIFUL · front cover"
+        }
+      ]
+    }
+  ]
+}
