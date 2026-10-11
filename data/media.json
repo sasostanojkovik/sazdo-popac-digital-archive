@@ -887,15 +887,16 @@
   "books": [
     {
       "slot": 1,
-      "title": "Преку пеколот за сиромашните до рајот на богатите",
-      "subtitle": "Книга за меѓучовечките односи",
+      "title": "Преку пеколот за сиромашните до рајот за богатите",
+      "subtitle": "Книга за меѓучовечки односи, власта, нееднаквоста и изборите што го обликуваат животот.",
+      "shortDescription": "Книга за меѓучовечките односи и власта, за сиромаштијата и богатството и за вредносните избори што го определуваат животниот пат.",
       "year": "2022",
       "material": "печатена книга",
       "language": "македонски · English preview",
-      "label": "Книга 1 · авторски архивски редослед",
+      "label": "Книга 1 · Енциклопедија на животот",
       "cover": "assets/images/books/preku-pekolot-front-mk.jpg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%9F%D1%80%D0%B5%D0%BA%D1%83%20%D0%BF%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%81%D0%B8%D1%80%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D1%82%D0%B5%20%D0%B4%D0%BE%20%D1%80%D0%B0%D1%98%D0%BE%D1%82%20%D0%BD%D0%B0%20%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D0%B8%D1%82%D0%B5&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%9F%D1%80%D0%B5%D0%BA%D1%83%20%D0%BF%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%81%D0%B8%D1%80%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D1%82%D0%B5%20%D0%B4%D0%BE%20%D1%80%D0%B0%D1%98%D0%BE%D1%82%20%D0%BD%D0%B0%20%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D0%B8%D1%82%D0%B5%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "MK/EN интернет-прегледи · Скопје 2022 · достапноста и цената ги потврдува авторот.",
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%9F%D1%80%D0%B5%D0%BA%D1%83%20%D0%BF%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%81%D0%B8%D1%80%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D1%82%D0%B5%20%D0%B4%D0%BE%20%D1%80%D0%B0%D1%98%D0%BE%D1%82%20%D0%B7%D0%B0%20%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D0%B8%D1%82%D0%B5&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%9F%D1%80%D0%B5%D0%BA%D1%83%20%D0%BF%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%81%D0%B8%D1%80%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D1%82%D0%B5%20%D0%B4%D0%BE%20%D1%80%D0%B0%D1%98%D0%BE%D1%82%20%D0%B7%D0%B0%20%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D0%B8%D1%82%D0%B5%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет.",
       "detailsUrl": "books/preku-pekolot.html",
       "previewUrl": "assets/books/pdfs/preku-pekolot-internet-pregled-mk-2022.pdf",
       "previewLabel": "PDF преглед · MK"
@@ -903,14 +904,15 @@
     {
       "slot": 2,
       "title": "Никогаш повеќе танго со ѓаволот",
-      "subtitle": "Како да се распознае и нормализира прекумерното его во себе и во другите луѓе",
+      "subtitle": "Како да се распознае и нормализира прекумерното его во себе и во другите луѓе.",
+      "shortDescription": "Практична книга за препознавање на прекумерното его, неговото влијание врз односите и начините за свесна лична промена.",
       "year": "2022",
       "material": "печатена книга",
       "language": "македонски · English preview",
-      "label": "Книга 2 · авторски архивски редослед",
+      "label": "Книга 2 · Енциклопедија на животот",
       "cover": "assets/images/books/tango-front-mk.jpg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%B0%D1%88%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%9C%D0%B5%20%D1%82%D0%B0%D0%BD%D0%B3%D0%BE%20%D1%81%D0%BE%20%D1%93%D0%B0%D0%B2%D0%BE%D0%BB%D0%BE%D1%82&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%B0%D1%88%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%9C%D0%B5%20%D1%82%D0%B0%D0%BD%D0%B3%D0%BE%20%D1%81%D0%BE%20%D1%93%D0%B0%D0%B2%D0%BE%D0%BB%D0%BE%D1%82%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Доставени MK и EN интернет-прегледи · Скопје 2022.",
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%B0%D1%88%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%9C%D0%B5%20%D1%82%D0%B0%D0%BD%D0%B3%D0%BE%20%D1%81%D0%BE%20%D1%93%D0%B0%D0%B2%D0%BE%D0%BB%D0%BE%D1%82&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%B0%D1%88%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%9C%D0%B5%20%D1%82%D0%B0%D0%BD%D0%B3%D0%BE%20%D1%81%D0%BE%20%D1%93%D0%B0%D0%B2%D0%BE%D0%BB%D0%BE%D1%82%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет.",
       "detailsUrl": "books/tango-so-gjavolot.html",
       "previewUrl": "assets/books/pdfs/tango-mk-2022.pdf",
       "previewLabel": "PDF преглед · MK"
@@ -918,14 +920,15 @@
     {
       "slot": 3,
       "title": "Дијаманти на мудроста",
-      "subtitle": "Мудри мисли за поздрав, поуспешен и посреќен живот",
+      "subtitle": "Мудри мисли за поздрав, поуспешен и посреќен живот.",
+      "shortDescription": "Збирка од мудрости, идеи и практични совети за здравје, успех, среќа, карактер и секојдневно живеење.",
       "year": "2022",
       "material": "печатена книга",
       "language": "македонски · English preview",
-      "label": "Книга 3 · авторски архивски редослед",
+      "label": "Книга 3 · Енциклопедија на животот",
       "cover": "assets/images/books/gems-front-mk.jpg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%94%D0%B8%D1%98%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%20%D0%BD%D0%B0%20%D0%BC%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%94%D0%B8%D1%98%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%20%D0%BD%D0%B0%20%D0%BC%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Доставени MK и EN интернет-прегледи · Скопје 2022.",
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%94%D0%B8%D1%98%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%20%D0%BD%D0%B0%20%D0%BC%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%94%D0%B8%D1%98%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%20%D0%BD%D0%B0%20%D0%BC%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет.",
       "detailsUrl": "books/dijamanti-na-mudrosta.html",
       "previewUrl": "assets/books/pdfs/gems-mk-2022.pdf",
       "previewLabel": "PDF преглед · MK"
@@ -933,14 +936,15 @@
     {
       "slot": 4,
       "title": "Убави жени погрешни мажи",
-      "subtitle": "Стоп за семејното насилство, неверствата и разводите",
+      "subtitle": "Стоп за семејното насилство, неверствата и разводите.",
+      "shortDescription": "Книга за изборот на партнер, вредносните критериуми, семејните конфликти и воспитувањето на девојките да препознаваат квалитетни односи.",
       "year": "2022",
       "material": "печатена книга",
       "language": "македонски · English preview",
-      "label": "Книга 4 · авторски архивски редослед",
+      "label": "Книга 4 · Енциклопедија на животот",
       "cover": "assets/images/books/beautiful-women-front-mk.jpg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%A3%D0%B1%D0%B0%D0%B2%D0%B8%20%D0%B6%D0%B5%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%B8%20%D0%BC%D0%B0%D0%B6%D0%B8&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%A3%D0%B1%D0%B0%D0%B2%D0%B8%20%D0%B6%D0%B5%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%B8%20%D0%BC%D0%B0%D0%B6%D0%B8%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Доставени MK и EN интернет-прегледи · Скопје 2022.",
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%A3%D0%B1%D0%B0%D0%B2%D0%B8%20%D0%B6%D0%B5%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%B8%20%D0%BC%D0%B0%D0%B6%D0%B8&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%A3%D0%B1%D0%B0%D0%B2%D0%B8%20%D0%B6%D0%B5%D0%BD%D0%B8%20%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%B8%20%D0%BC%D0%B0%D0%B6%D0%B8%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет.",
       "detailsUrl": "books/ubavi-zeni-pogresni-mazi.html",
       "previewUrl": "assets/books/pdfs/beautiful-women-mk-2022.pdf",
       "previewLabel": "PDF преглед · MK"
@@ -948,50 +952,56 @@
     {
       "slot": 5,
       "title": "Тајните на љубовта",
-      "subtitle": "безусловната љубов ги осмислува човековите животи",
+      "subtitle": "Безусловната љубов ги осмислува човековите животи.",
+      "shortDescription": "Поучна книга за видовите љубов и формула за вистинска љубов што е обострана, безусловна и трајна.",
       "year": "2022",
-      "material": "роман · печатена книга",
-      "language": "македонски",
-      "label": "COBISS библиографски запис",
+      "material": "печатена книга",
+      "language": "македонски · English preview",
+      "label": "Книга 5 · Енциклопедија на животот",
       "cover": "assets/books/book-5.svg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%A2%D0%B0%D1%98%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%20%D1%99%D1%83%D0%B1%D0%BE%D0%B2%D1%82%D0%B0&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%A2%D0%B0%D1%98%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%20%D1%99%D1%83%D0%B1%D0%BE%D0%B2%D1%82%D0%B0%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Достапноста и библиографските детали ќе се дополнуваат по авторска/каталошка потврда."
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%A2%D0%B0%D1%98%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%20%D1%99%D1%83%D0%B1%D0%BE%D0%B2%D1%82%D0%B0&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%A2%D0%B0%D1%98%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%20%D1%99%D1%83%D0%B1%D0%BE%D0%B2%D1%82%D0%B0%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет.",
+      "previewLabel": "MK/EN материјал доставен"
     },
     {
       "slot": 6,
-      "title": "Вистински правец",
-      "subtitle": "за љубовта, неверството, љубомората, лажните пријатели, судбината ...",
-      "year": "2018",
-      "material": "стручна монографија · печатена книга",
+      "title": "Љубовен валцер",
+      "subtitle": "Љубовта во пријателството, интимните и брачните врски.",
+      "shortDescription": "Книга што детално ја разгледува љубовта во пријателството, интимните односи и бракот, со акцент на зрелите и трајни врски.",
+      "year": "2022",
+      "material": "печатена книга",
       "language": "македонски",
-      "label": "COBISS библиографски запис",
+      "label": "Книга 6 · Енциклопедија на животот",
       "cover": "assets/books/book-6.svg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%202018&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%202018%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Достапноста и библиографските детали ќе се дополнуваат по авторска/каталошка потврда."
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%89%D1%83%D0%B1%D0%BE%D0%B2%D0%B5%D0%BD%20%D0%B2%D0%B0%D0%BB%D1%86%D0%B5%D1%80&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%89%D1%83%D0%B1%D0%BE%D0%B2%D0%B5%D0%BD%20%D0%B2%D0%B0%D0%BB%D1%86%D0%B5%D1%80%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет."
     },
     {
       "slot": 7,
-      "title": "Вистински правец",
-      "subtitle": "естетскиот и моралниот живот гледано преку љубовта и среќата",
-      "year": "1998",
-      "material": "стручна монографија · печатена книга",
-      "language": "македонски",
-      "label": "COBISS библиографски запис",
+      "title": "Животот е убав",
+      "subtitle": "Вистини за животот и неговата смисла.",
+      "shortDescription": "Книга за меѓучовечки односи, практична психологија и среќата како сила што му дава смисла на животот.",
+      "year": "2022",
+      "material": "печатена книга",
+      "language": "македонски · English preview",
+      "label": "Книга 7 · Енциклопедија на животот",
       "cover": "assets/books/book-7.svg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%201998&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%201998%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Достапноста и библиографските детали ќе се дополнуваат по авторска/каталошка потврда."
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BE%D1%82%20%D0%B5%20%D1%83%D0%B1%D0%B0%D0%B2&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BE%D1%82%20%D0%B5%20%D1%83%D0%B1%D0%B0%D0%B2%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Дел од 7-книжниот комплет.",
+      "previewLabel": "MK/EN материјал доставен"
     },
     {
       "slot": 8,
       "title": "Вистински правец",
-      "subtitle": "естеско-моралниот живот гледан преку љубовта и среќата",
-      "year": "1998",
-      "material": "стручна монографија · печатена книга",
+      "subtitle": "Книга за меѓучовечките односи.",
+      "shortDescription": "Посебна книга за меѓучовечките односи од психолошки, филозофски, социјален, политички и религиозен аспект.",
+      "year": "2022",
+      "material": "печатена книга",
       "language": "македонски",
-      "label": "Одделен COBISS запис",
+      "label": "Посебна 8-ма книга",
       "cover": "assets/books/book-8.svg",
-      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20/%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%201998&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD/%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%20%E2%80%94%201998%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
-      "status": "Достапноста и библиографските детали ќе се дополнуваат по авторска/каталошка потврда."
+      "orderUrl": "mailto:sashostanojkovik20@gmail.com?subject=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%2F%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%3A%20%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86&body=%D0%9F%D0%BE%D1%87%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%20%D0%A1%D0%B0%D0%B7%D0%B4%D0%BE%2C%20%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BD%2F%D0%B0%20%D1%81%D1%83%D0%BC%20%D0%B7%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0%D1%82%D0%B0%20%E2%80%9E%D0%92%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D1%86%E2%80%9C.%20%D0%92%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%B0%D0%BC%20%D0%B7%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%B7%D0%B0%20%D1%86%D0%B5%D0%BD%D0%B0%2C%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%2C%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D0%B0%D0%BA%D0%B0.",
+      "status": "Посебно издание надвор од 7-книжниот комплет."
     }
   ],
   "researchLeads": [
@@ -1303,5 +1313,20 @@
       "popacSegmentTimestampSource": "User-confirmed by direct listening"
     }
   ],
-  "externalResearchLinks": []
+  "externalResearchLinks": [],
+  "bookCollection": {
+    "title": "Енциклопедија (Библија) на животот и неговата смисла",
+    "description": "Седум книги што заедно формираат тематски комплет со над 3.000 страници и над 500 поглавја, посветен на меѓучовечките односи, љубовта, личноста, среќата, успехот и смислата на животот.",
+    "includedSlots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "separateBookSlot": 8,
+    "layout": "4 + 4"
+  }
 }
