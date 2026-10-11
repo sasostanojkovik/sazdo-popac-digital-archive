@@ -32,6 +32,7 @@ fetch('data/media.json', { cache: 'no-store' })
     renderFamilyLineage(data.familyLineage || {});
     renderArchiveDocuments(data.archiveDocuments || []);
     renderBooks(data.books || []);
+    renderBibliography(data.bibliography || []);
     renderMusic(data.music || []);
     renderResearch(data.researchLeads || []);
     renderVideos(data.videos || []);
@@ -103,6 +104,26 @@ function renderBooks(items) {
         <p class="book-meta">${esc(meta)}</p>
         ${item.status ? `<p class="book-status">${esc(item.status)}</p>` : ''}
         <div class="book-actions">${details}${preview}${order}</div>
+      </div>`;
+    host.appendChild(card);
+  });
+}
+
+function renderBibliography(items) {
+  const host = q('#bibliography-grid');
+  if (!host) return;
+  items.forEach(item => {
+    const card = document.createElement('article');
+    card.className = 'bibliography-card';
+    const meta = [item.documentType, item.material, item.language, item.year].filter(Boolean).join(' · ');
+    card.innerHTML = `
+      <div class="bibliography-order">${pad(item.order || '')}</div>
+      <div class="bibliography-copy">
+        <span class="meta">COBISS · ${esc(meta)}</span>
+        <h3>${esc(item.title || '')}</h3>
+        ${item.subtitle ? `<p class="bibliography-subtitle">${esc(item.subtitle)}</p>` : ''}
+        <p class="bibliography-author">${esc(item.authorDisplay || 'Саздо Станојковиќ – Сашо')}</p>
+        ${item.note ? `<small>${esc(item.note)}</small>` : ''}
       </div>`;
     host.appendChild(card);
   });
