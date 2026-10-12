@@ -63,9 +63,19 @@ function renderBiographies(items) {
   items.forEach(item=>{
     const card=document.createElement('article'); card.className='bio-card';
     const links=(item.links||[]).map(x=>`<a href="${esc(x.target||'#')}">${esc(x.label||'Повеќе')} →</a>`).join('');
-    card.innerHTML=`<div class="bio-portrait"><img loading="lazy" src="${esc(item.portrait||'')}" alt=""></div><div class="bio-copy"><span class="meta">${esc(item.role||'')}</span><h3>${esc(item.name||'')} ${item.lifespan?'<small>'+esc(item.lifespan)+'</small>':''}</h3><p>${esc(item.summary||'')}</p><div class="bio-links">${links}</div></div>`;
+    const archive=(item.archiveImages||[]).map((x,i)=>`
+      <button class="person-archive-thumb" type="button"
+        data-image="${esc(x.image||'')}"
+        data-title="${esc(x.title||item.name||'Архивска фотографија')}"
+        data-description="${esc((x.type||'архива')+' · '+(item.archiveLabel||item.name||''))}"
+        aria-label="Отвори: ${esc(x.title||'Архивска фотографија')}">
+        <img loading="lazy" src="${esc(x.image||'')}" alt="${esc(x.title||'Архивска фотографија')}">
+        <span>${esc(x.type||'архива')}</span>
+      </button>`).join('');
+    card.innerHTML=`<div class="bio-portrait"><img loading="lazy" src="${esc(item.portrait||'')}" alt="${esc(item.name||'')}"></div><div class="bio-copy"><span class="meta">${esc(item.role||'')}</span><h3>${esc(item.name||'')} ${item.lifespan?'<small>'+esc(item.lifespan)+'</small>':''}</h3><p>${esc(item.summary||'')}</p><div class="bio-links">${links}</div>${archive?`<div class="person-archive"><strong>${esc(item.archiveLabel||'Лична архива')}</strong><div class="person-archive-grid">${archive}</div></div>`:''}</div>`;
     host.appendChild(card);
   });
+  setupPersonArchiveLightbox();
 }
 function renderFamilyLineage(item) {
   const host=q('#family-lineage-grid'); if(!host) return;
@@ -351,6 +361,23 @@ function renderGallery(items) {
   });
   setupArtworkVideoPosters();
   setupLightbox();
+}
+
+function setupPersonArchiveLightbox() {
+  const dialog = q('#lightbox');
+  if (!dialog || typeof dialog.showModal !== 'function') return;
+  const image = q('#lightbox-image');
+  const title = q('#lightbox-title');
+  const description = q('#lightbox-description');
+  qa('.person-archive-thumb').forEach(card => {
+    card.addEventListener('click', () => {
+      image.src = card.dataset.image || '';
+      image.alt = card.dataset.title || 'Архивска фотографија';
+      title.textContent = card.dataset.title || '';
+      description.textContent = card.dataset.description || '';
+      dialog.showModal();
+    });
+  });
 }
 
 function setupLightbox() {
