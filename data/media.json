@@ -1640,6 +1640,69 @@
           "label": "Видеа на Сашо",
           "target": "#sasho-videos"
         }
+      ],
+      "archiveLabel": "Лична и авторска архива на Саздо",
+      "archiveImages": [
+        {
+          "title": "Саздо Станојковиќ – Сашо",
+          "image": "assets/images/sasho/sazdo-stanojkovik-profile.jpg",
+          "type": "портрет"
+        },
+        {
+          "title": "Авторски/биографски архивски материјал",
+          "image": "assets/images/sasho/biography/sazdo-stanojkovic-sasho-dedication.jpg",
+          "type": "биографија"
+        },
+        {
+          "title": "Архивска фотографија MPS-0001",
+          "image": "assets/images/sasho/archive-photo-mps-0001.jpg",
+          "type": "фото-архива"
+        },
+        {
+          "title": "Архивска фотографија MPS-0002",
+          "image": "assets/images/sasho/archive-photo-mps-0002.jpg",
+          "type": "фото-архива"
+        },
+        {
+          "title": "„Животот е убав“ — авторски архивски материјал",
+          "image": "assets/images/sasho/sazdo-zivotot-e-ubav-archive.jpg",
+          "type": "авторски материјал"
+        },
+        {
+          "title": "„Животот е убав“ — корица",
+          "image": "assets/images/sasho/zivotot-e-ubav-cover.jpg",
+          "type": "книга"
+        },
+        {
+          "title": "„Љубовен валцер“ — македонска корица",
+          "image": "assets/images/sasho/books/ljuboven-valcer-front-cover-mk.jpg",
+          "type": "книга"
+        },
+        {
+          "title": "„Љубовен валцер“ — целосна македонска корица",
+          "image": "assets/images/sasho/books/ljuboven-valcer-full-cover-mk.jpg",
+          "type": "книга"
+        },
+        {
+          "title": "“Love Waltz” — англиска корица",
+          "image": "assets/images/sasho/books/love-waltz-front-cover-en.jpg",
+          "type": "книга"
+        },
+        {
+          "title": "“Love Waltz” — целосна англиска корица",
+          "image": "assets/images/sasho/books/love-waltz-full-cover-en.jpg",
+          "type": "книга"
+        },
+        {
+          "title": "„Тајните на љубовта“ — корица",
+          "image": "assets/images/sasho/books/tajnite-na-ljubovta-front-mk.jpg",
+          "type": "книга"
+        },
+        {
+          "title": "„Вистински правец“ — корица",
+          "image": "assets/images/sasho/books/vistinski-pravec-front-mk.jpg",
+          "type": "книга"
+        }
       ]
     },
     {
@@ -1647,7 +1710,7 @@
       "name": "Миодраг Станојковиќ–Попац",
       "lifespan": "1936–2013",
       "role": "Пејач · ликовен уметник",
-      "portrait": "assets/images/takov-e-zivotot-poster.jpg",
+      "portrait": "assets/images/popac/biography/miodrag-stanojkovic-popac-quote-portrait.jpg",
       "summary": "Музичката и визуелната линија на архивата: песни, фестивалски и радио траги, телевизиски разговори, настапи, ателје и уметнички дела. Монографијата „Сеќавање на Миодраг Станојковиќ–Попац“ е еден од клучните семејни извори.",
       "links": [
         {
@@ -1661,6 +1724,44 @@
         {
           "label": "Интервјуа",
           "target": "#popac-interviews"
+        }
+      ],
+      "archiveLabel": "Лична, музичка и документарна архива на Попац",
+      "archiveImages": [
+        {
+          "title": "Миодраг Станојковиќ – Попац",
+          "image": "assets/images/popac/biography/miodrag-stanojkovic-popac-quote-portrait.jpg",
+          "type": "портрет"
+        },
+        {
+          "title": "Живот и дело — архивски колаж",
+          "image": "assets/images/popac/biography/miodrag-stanojkovic-popac-life-collage.jpg",
+          "type": "биографија"
+        },
+        {
+          "title": "Живот и дело — портрети",
+          "image": "assets/images/popac/biography/miodrag-stanojkovic-popac-life-portraits.jpg",
+          "type": "биографија"
+        },
+        {
+          "title": "Автобиографски запис — страница 1",
+          "image": "assets/images/popac/documents/popac-autobiography-transcription-01.jpg",
+          "type": "документ"
+        },
+        {
+          "title": "Автобиографски запис — страница 2",
+          "image": "assets/images/popac/documents/popac-autobiography-transcription-02.jpg",
+          "type": "документ"
+        },
+        {
+          "title": "Автобиографски запис — страница 3",
+          "image": "assets/images/popac/documents/popac-autobiography-transcription-03.jpg",
+          "type": "документ"
+        },
+        {
+          "title": "Автобиографски запис — страница 4",
+          "image": "assets/images/popac/documents/popac-autobiography-transcription-04.jpg",
+          "type": "документ"
         }
       ]
     }
