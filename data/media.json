@@ -1726,7 +1726,7 @@
           "target": "#popac-interviews"
         }
       ],
-      "archiveLabel": "Лична, музичка и документарна архива на Попац",
+      "archiveLabel": "Лична, музичка и документарна архива на Попац · автобиографија · последно писмо · монографија",
       "archiveImages": [
         {
           "title": "Миодраг Станојковиќ – Попац",
@@ -1762,8 +1762,39 @@
           "title": "Автобиографски запис — страница 4",
           "image": "assets/images/popac/documents/popac-autobiography-transcription-04.jpg",
           "type": "документ"
+        },
+        {
+          "title": "Автобиографија — транскрибирана страница 5",
+          "image": "assets/images/popac/documents/popac-autobiography-transcription-05.jpg",
+          "type": "автобиографија"
+        },
+        {
+          "title": "Последното писмо / автобиографија — оригинален ракопис I",
+          "image": "assets/images/popac/documents/popac-handwritten-autobiography-01.jpg",
+          "type": "оригинален ракопис"
+        },
+        {
+          "title": "Последното писмо / автобиографија — оригинален ракопис II",
+          "image": "assets/images/popac/documents/popac-handwritten-autobiography-02.jpg",
+          "type": "оригинален ракопис"
+        },
+        {
+          "title": "Последното своерачно напишано писмо — архивски преглед",
+          "image": "assets/images/popac/documents/popac-last-letter-autobiography-overview.jpg",
+          "type": "последно писмо"
+        },
+        {
+          "title": "Монографија „Сеќавање на Миодраг Станојковиќ–Попац“",
+          "image": "assets/images/popac/documents/popac-monograph-sekavanje-cover.jpg",
+          "type": "монографија"
+        },
+        {
+          "title": "Песни што ги пеел во младоста — архивски список",
+          "image": "assets/images/popac/documents/popac-song-list-young.jpg",
+          "type": "музички документ"
         }
-      ]
+      ],
+      "archiveNote": "Автобиографските транскрипции, оригиналниот ракопис, последното писмо, монографијата и списокот на песни се систематизирани како поврзана примарна архивска целина."
     }
   ],
   "familyLineage": {
@@ -1864,6 +1895,27 @@
       "type": "семејна фото-документација",
       "status": "врските се каталогизираат",
       "description": "Семејни фотографии и колажи со имиња од повеќе генерации; роднинските врски ќе се внесуваат по потврда."
+    },
+    {
+      "id": "POPAC-DOC-AUTO-01",
+      "type": "примарен архивски извор",
+      "title": "Последното писмо / Автобиографија на Миодраг Станојковиќ–Попац",
+      "description": "Поврзана архивска целина со пет транскрибирани страници и оригинален ракопис. Материјалот е претставен во семејната архива како последното своерачно напишано писмо / автобиографија на Попац.",
+      "status": "catalogued · images active"
+    },
+    {
+      "id": "POPAC-DOC-MONO-01",
+      "type": "монографија",
+      "title": "„Сеќавање на Миодраг Станојковиќ–Попац“",
+      "description": "Архивска корица на монографијата посветена на Миодраг Станојковиќ–Попац, пејач и ликовен уметник (1936–2013).",
+      "status": "catalogued · cover active"
+    },
+    {
+      "id": "POPAC-DOC-MUSIC-01",
+      "type": "музички документ",
+      "title": "Песни што Попац ги пеел во младоста",
+      "description": "Архивски список на популарни песни и стандарди што Попац ги наведува како репертоар од младоста, со придружни фотографии.",
+      "status": "catalogued · image active"
     }
   ],
   "memorial": {
