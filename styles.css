@@ -156,3 +156,14 @@ footer{background:#070707;color:#888;padding:32px max(24px,calc((100vw - var(--m
 .book-price{margin:10px 0 14px;color:#f4c86a;font-size:18px;letter-spacing:.01em}.book-price strong{font-weight:800}
 
 .lineage-node{overflow:hidden;align-items:center;text-align:center}.lineage-portrait{width:96px;height:96px;border-radius:50%;overflow:hidden;border:1px solid var(--line-dark);margin:8px auto 12px;background:#eee8dd;box-shadow:0 8px 24px rgba(0,0,0,.08)}.lineage-portrait img{width:100%;height:100%;display:block;object-fit:cover;object-position:center top}.lineage-node strong{margin:0 0 8px}.lineage-node>span{align-self:flex-start}
+
+
+/* Person-owned archive collections: Sazdo / Popac */
+.person-archive{margin-top:1.1rem;padding-top:1rem;border-top:1px solid rgba(255,255,255,.09)}
+.person-archive>strong{display:block;margin-bottom:.7rem;font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;opacity:.78}
+.person-archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(92px,1fr));gap:.65rem}
+.person-archive-thumb{position:relative;display:block;min-height:104px;padding:0;border:1px solid rgba(255,255,255,.1);border-radius:12px;overflow:hidden;background:#111;cursor:pointer;text-align:left}
+.person-archive-thumb img{display:block;width:100%;height:104px;object-fit:cover;object-position:center}
+.person-archive-thumb span{position:absolute;left:.4rem;bottom:.4rem;max-width:calc(100% - .8rem);padding:.2rem .4rem;border-radius:999px;background:rgba(0,0,0,.72);font-size:.65rem;line-height:1.15;letter-spacing:.04em;text-transform:uppercase;color:#fff}
+.person-archive-thumb:focus-visible{outline:2px solid currentColor;outline-offset:2px}
+@media (max-width:700px){.person-archive-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.person-archive-thumb,.person-archive-thumb img{min-height:88px;height:88px}}
