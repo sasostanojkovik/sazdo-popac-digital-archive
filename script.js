@@ -79,6 +79,15 @@ function renderBiographies(items) {
 }
 function renderFamilyLineage(item) {
   const host=q('#family-lineage-grid'); if(!host) return;
+
+  if (item.featuredCollage && item.featuredCollage.length) {
+    const collage=document.createElement('article');
+    collage.className='family-lineage-feature';
+    const imgs=item.featuredCollage.map((src,i)=>`<figure class="family-lineage-feature-img family-lineage-feature-img-${i+1}"><img loading="lazy" src="${esc(src)}" alt="${esc(item.featuredImageTitle||'Семејна архивска фотографија — фамилија Станојковиќ')}"></figure>`).join('');
+    collage.innerHTML=`<div class="family-lineage-feature-copy"><span class="meta">СЕМЕЈНА АРХИВА</span><h3>${esc(item.featuredImageTitle||'Семејна лоза на фамилија Станојковиќ')}</h3><p>${esc(item.featuredImageDescription||'Архивски семеен колаж. Имињата и роднинските врски се дополнуваат само по потврда.')}</p></div><div class="family-lineage-feature-collage">${imgs}</div>`;
+    host.appendChild(collage);
+  }
+
   const nodes=(item.nodes&&item.nodes.length) ? item.nodes : (item.names||[]).map((name,i)=>({name,id:`FAM-${i+1}`}));
   nodes.forEach((entry,i)=>{
     const node=document.createElement('article'); node.className='lineage-node';
