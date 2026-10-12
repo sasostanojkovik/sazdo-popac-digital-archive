@@ -69,9 +69,11 @@ function renderBiographies(items) {
 }
 function renderFamilyLineage(item) {
   const host=q('#family-lineage-grid'); if(!host) return;
-  (item.names||[]).forEach((name,i)=>{
-    const node=document.createElement('div'); node.className='lineage-node';
-    node.innerHTML=`<span>${String(i+1).padStart(2,'0')}</span><strong>${esc(name)}</strong><small>роднинска врска · чека потврда</small>`;
+  const nodes=(item.nodes&&item.nodes.length) ? item.nodes : (item.names||[]).map((name,i)=>({name,id:`FAM-${i+1}`}));
+  nodes.forEach((entry,i)=>{
+    const node=document.createElement('article'); node.className='lineage-node';
+    const portrait=entry.image ? `<div class="lineage-portrait"><img loading="lazy" src="${esc(entry.image)}" alt="${esc(entry.name||'Семеен портрет')}"></div>` : '';
+    node.innerHTML=`<span>${String(i+1).padStart(2,'0')}</span>${portrait}<strong>${esc(entry.name||'')}</strong><small>${esc(entry.status||'роднинска врска · чека потврда')}</small>`;
     host.appendChild(node);
   });
   const note=q('#family-lineage-note'); if(note) note.textContent=item.note||'';
