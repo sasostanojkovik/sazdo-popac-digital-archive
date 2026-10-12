@@ -1866,7 +1866,13 @@
       "Верица"
     ],
     "featuredImage": "assets/images/family/family-group-02.jpg",
-    "featuredImageTitle": "Семејна архивска фотографија — фамилија Станојковиќ"
+    "featuredImageTitle": "Семејна лоза на фамилија Станојковиќ — архивски колаж",
+    "featuredImageDescription": "Колаж од три семејни архивски фотографии доставени од Саздо. Се прикажуваат заедно како визуелна целина, а оригиналните фотографии остануваат зачувани поединечно. Точните имиња и роднински врски ќе се дополнуваат само по потврда.",
+    "featuredCollage": [
+      "assets/images/family/family-group-02.jpg",
+      "assets/images/family/family-portrait-archive.jpg",
+      "assets/images/family/family-group-01.jpg"
+    ]
   },
   "archiveDocuments": [
     {
