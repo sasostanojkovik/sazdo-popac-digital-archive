@@ -905,6 +905,76 @@
           "publicationStatus": "PUBLIC — official YouTube canonical active (05.10.2026)"
         }
       ]
+    },
+    {
+      "archiveId": "FAMILY-001",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Елена и Саздо Станојковиќ",
+      "description": "Именувана семејна архивска фотографија доставена во сортираниот пакет.",
+      "image": "assets/images/family/elena-and-sazdo-stanojkovic.jpg",
+      "rightsStatus": "Семејна/приватна архива — доставено од овластениот сопственик.",
+      "status": "catalogued"
+    },
+    {
+      "archiveId": "FAMILY-002",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Семеен архивски колаж",
+      "description": "Колаж од семејната архива; индивидуалните имиња се внесуваат само кога има јасна архивска ознака.",
+      "image": "assets/images/family/family-archive-collage-01.jpg",
+      "rightsStatus": "Семејна/приватна архива.",
+      "status": "catalogued"
+    },
+    {
+      "archiveId": "FAMILY-003",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Семејна двојна фотографија",
+      "description": "Архивска фотографија од семејната колекција; точниот однос и датум остануваат за потврда.",
+      "image": "assets/images/family/family-couple-archive.jpg",
+      "rightsStatus": "Семејна/приватна архива.",
+      "status": "catalogued"
+    },
+    {
+      "archiveId": "FAMILY-004",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Семејна групна фотографија 01",
+      "description": "Групна семејна фотографија зачувана како примарен архивски извор.",
+      "image": "assets/images/family/family-group-01.jpg",
+      "rightsStatus": "Семејна/приватна архива.",
+      "status": "catalogued"
+    },
+    {
+      "archiveId": "FAMILY-005",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Семејна групна фотографија 02",
+      "description": "Групна семејна фотографија зачувана како примарен архивски извор.",
+      "image": "assets/images/family/family-group-02.jpg",
+      "rightsStatus": "Семејна/приватна архива.",
+      "status": "catalogued"
+    },
+    {
+      "archiveId": "FAMILY-006",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Именуван колаж на семејната лоза",
+      "description": "Именуван архивски колаж: Саздо, Томач, Миодраг, Аце, Елена, Љубинка, Персијана и Верица.",
+      "image": "assets/images/family/family-lineage-named-collage.jpg",
+      "rightsStatus": "Семејна/приватна архива.",
+      "status": "catalogued"
+    },
+    {
+      "archiveId": "FAMILY-007",
+      "owner": "family",
+      "collection": "Семејна лоза и семејна архива",
+      "title": "Семеен портрет — архивски извор",
+      "description": "Семеен портрет од архивата; се чува како заеднички семеен запис.",
+      "image": "assets/images/family/family-portrait-archive.jpg",
+      "rightsStatus": "Семејна/приватна архива.",
+      "status": "catalogued"
     }
   ],
   "books": [
@@ -1596,8 +1666,60 @@
     }
   ],
   "familyLineage": {
-    "title": "Семејна лоза — работна архивска мапа",
-    "note": "Имињата подолу се преземени од доставениот семеен колаж. Точните роднински врски и генерациски линии се оставаат отворени до потврда од Саздо.",
+    "title": "Семејна лоза — именувана архивска мапа",
+    "note": "Имињата и портретите се преземени од именуваниот семеен колаж доставен од семејната архива. Точните роднински врски и генерациски линии остануваат за дополнителна потврда од Саздо.",
+    "nodes": [
+      {
+        "id": "FAM-SAZDO",
+        "name": "Саздо",
+        "image": "assets/images/family/lineage/sazdo.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-TOMAC",
+        "name": "Томач",
+        "image": "assets/images/family/lineage/tomac.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-MIODRAG",
+        "name": "Миодраг",
+        "image": "assets/images/family/lineage/miodrag.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-ACE",
+        "name": "Аце",
+        "image": "assets/images/family/lineage/ace.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-ELENA",
+        "name": "Елена",
+        "image": "assets/images/family/lineage/elena.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-LJUBINKA",
+        "name": "Љубинка",
+        "image": "assets/images/family/lineage/ljubinka.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-PERSIJANA",
+        "name": "Персијана",
+        "image": "assets/images/family/lineage/persijana.jpg",
+        "status": "именуван портрет"
+      },
+      {
+        "id": "FAM-VERICA",
+        "name": "Верица",
+        "image": "assets/images/family/lineage/verica.jpg",
+        "status": "именуван портрет"
+      }
+    ],
+    "sourceImage": "assets/images/family/family-lineage-named-collage.jpg",
+    "status": "names-and-portraits-confirmed-from-family-collage-relations-pending",
     "names": [
       "Саздо",
       "Томач",
@@ -1607,8 +1729,7 @@
       "Љубинка",
       "Персијана",
       "Верица"
-    ],
-    "status": "names-confirmed-from-family-collage-relations-pending"
+    ]
   },
   "archiveDocuments": [
     {
