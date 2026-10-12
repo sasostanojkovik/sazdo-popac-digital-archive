@@ -1,4 +1,4 @@
 Contact: mailto:sashostanojkovik20@gmail.com
 Expires: 2027-10-03T00:00:00.000Z
 Preferred-Languages: mk, en
-Canonical: https://sazdo-popac-digital-archive.sasostanojkovik-sazdo-popac-digital-archive.workers.dev/.well-known/security.txt
+Canonical: https://sazdo-popac-digital-archive.sashostanojkovik20.workers.dev/.well-known/security.txt
