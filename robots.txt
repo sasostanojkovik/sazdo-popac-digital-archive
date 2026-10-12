@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sazdo-popac-digital-archive.sasostanojkovik-sazdo-popac-digital-archive.workers.dev/sitemap.xml
+Sitemap: https://sazdo-popac-digital-archive.sashostanojkovik20.workers.dev/sitemap.xml
