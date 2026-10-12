@@ -154,3 +154,5 @@ footer{background:#070707;color:#888;padding:32px max(24px,calc((100vw - var(--m
 @media(max-width:850px){.bibliography-grid{grid-template-columns:1fr}}
 
 .book-price{margin:10px 0 14px;color:#f4c86a;font-size:18px;letter-spacing:.01em}.book-price strong{font-weight:800}
+
+.lineage-node{overflow:hidden;align-items:center;text-align:center}.lineage-portrait{width:96px;height:96px;border-radius:50%;overflow:hidden;border:1px solid var(--line-dark);margin:8px auto 12px;background:#eee8dd;box-shadow:0 8px 24px rgba(0,0,0,.08)}.lineage-portrait img{width:100%;height:100%;display:block;object-fit:cover;object-position:center top}.lineage-node strong{margin:0 0 8px}.lineage-node>span{align-self:flex-start}
