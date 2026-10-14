@@ -216,7 +216,7 @@ function renderVideos(items) {
     } else if (type === 'archive') {
       visual = `<div class="video-visual"><div class="external-video-card archive-video-card" style="background-image:linear-gradient(rgba(8,10,14,.28),rgba(8,10,14,.82)),url('${esc(item.poster || '')}')"><span class="external-video-badge">ARCHIVE MASTER</span><p>Видео-мастерот е зачуван надвор од GitHub. Public player ќе се активира преку проверен YouTube/Rumble извор по проверка на правата.</p></div></div>`;
     } else {
-      visual = `<div class="video-visual"><div class="external-video-card"><span class="external-video-badge">EXTERNAL</span><p>Изворот се проверува.</p></div></div>`;
+      visual = `<div class="video-visual"><div class="external-video-card"><span class="external-video-badge">НАДВОРЕШЕН ИЗВОР</span><p>Изворот се проверува.</p></div></div>`;
     }
 
     card.innerHTML = `${visual}<div class="video-body"><div class="meta">${esc(item.archiveId || '')} · ${type}</div><h3>${esc(item.title)}</h3><p>${esc(item.description)}</p>${item.duration ? `<p>Траење: ${esc(item.duration)}</p>` : ''}</div>`;
